@@ -73,7 +73,9 @@ Dans le cas contraire, les vidéos (ou des extraits) sont enregistrés sur la di
 
 ### Python
 
++ [pygame](https://www.pygame.org/docs/) : bibiliothèque de développement de jeux vidéo
 + [Python](https://www.python.org/) : interpréteur
++ [Ren'Py](https://www.renpy.org/) : application de création de romans vidéoludiques
 
 ### SQL
 
