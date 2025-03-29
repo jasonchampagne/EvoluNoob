@@ -8,7 +8,7 @@ La chaîne [EvoluNoob](https://youtube.com/@evolunoob) (anciennement _FormationV
 
 + Les **cours** abordent les notions essentielles qui me semblent incontournables.
 + Les **tutoriels** viennent en complément des cours et abordent des concepts plus spécifiques.
-+ Les **exercices** (format court) vous permettent de réviser les concepts abordés dans les cours.
++ Les **exercices** (format court) permettent de réviser les concepts abordés dans les cours.
 + Les **projets** (format long) offrent un exemple d'application concrète des cours et tutoriels.
 
 > [!Note]
