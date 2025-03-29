@@ -33,6 +33,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 + Algorithmie
 + Anglais
 + Angular
++ Android
 + Architecture
 + Assembleur
 + Bootstrap
@@ -45,7 +46,10 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 + Django
 + Docker
 + Écriture
++ Electron
++ Flutter
 + Français
++ GNU/Linux
 + Go
 + Hacking (_à 100 000 vues sur la [vidéo d'introduction](https://www.youtube.com/watch?v=IUjKepInQrM) OU si je deviens [Partenaire Twitch](https://jasonchampagne.fr/twitch)_)
 + Haskell
@@ -54,16 +58,34 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 + Java
 + JavaFX
 + JavaScript
++ Joomla
++ Kivy
 + Kotlin
++ Laravel
++ LaTeX
++ LibreOffice (Writer, Calc, Impress)
++ LÖVE
 + Lua
 + Node
++ Office (Word, Excel, PowerPoint)
 + PHP
++ PHPBoost
++ Prestashop
 + Python
 + Qt
++ React
++ Ren'Py
 + Ruby
++ Ruby on Rails
 + Rust
 + SDL
 + SFML
 + SQL
++ TypeScript
++ Twitch
++ UML
 + V
++ Vue
++ Windows
 + XML
++ YouTube
