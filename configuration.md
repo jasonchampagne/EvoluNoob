@@ -3,6 +3,10 @@
 > [!Note]
 > Cette page regroupe les différents logiciels et les paramètres/extensions que j'utilise pour les vidéos de la chaîne YouTube. Il n'est évidemment pas obligatoire de les suivre et vous pouvez vous adapter sans problème et utiliser les outils que vous préférez. Toutefois, je sais que certains parmi vous se sentent plus « rassurés » d'avoir un environnement similaire au mien, surtout au début.
 
+> **SOMMAIRE**
+> [Système](#Système)
+> [Programmation et développement web](#Programmation-et-développement-web)
+
 ## Système
 
 Les vidéos se font principalement sur [Windows 11](https://www.microsoft.com/fr-fr/software-download/windows11), sinon sur la distribution [Linux Mint](https://www.linuxmint.com) et l'environnement _MATE_, quand cela est nécessaire.
