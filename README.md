@@ -15,7 +15,7 @@ La chaîne [EvoluNoob](https://youtube.com/@evolunoob) (anciennement _FormationV
 
 ---
 
-Si vous venez de découvrir la chaîne et/ou que vous cherchez par où commencer, la réponse est (et sera toujours) la playlist [Immersion](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFCXYx-lSdqtliCV4FqZHeA). Elle est le point de départ de tout et vous donnera tous les « outils » pour apprendre dans les meilleurs conditions, en utilisant au mieux vos facultés.
+Si vous venez de découvrir la chaîne et/ou que vous cherchez par où commencer, la réponse est (et sera toujours) la playlist [**Immersion**](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFCXYx-lSdqtliCV4FqZHeA). Elle est le point de départ de tout et vous donnera tous les « outils » pour apprendre dans les meilleurs conditions, en utilisant au mieux vos facultés.
 
 Ensuite, laissez libre cours à vos préférences et à ce qui vous intéresse, à titre personnel ou professionel.
 
