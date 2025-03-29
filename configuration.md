@@ -14,4 +14,4 @@ Pour coder ou développer des pages web, j'utilise l'éditeur [Visual Studio Cod
 + [French Language Pack](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-fr), pour l'interface en français
 + [The Netwide Assembler (NASM)](https://marketplace.visualstudio.com/items?itemName=rights.nas-vscode), pour la coloration syntaxique en langage d'Assembleur
 
-Tout ce que vous voyez sur les vidéos (auto-complétion, raccourcis clavier, ...) sont des fonctionnalités présentes par défaut.
+Tout ce que vous voyez sur les vidéos (auto-complétion, raccourcis clavier, ...) sont des fonctionnalités présentes par défaut. Pour les opérations en ligne de commande, il s'agit simplement du [Terminal](https://apps.microsoft.com/detail/9n0dx20hk701?hl=fr-FR&gl=FR) officiel de Microsoft, normalement déjà présent sur les mises à jour récentes de Windows 10 et supérieur.
