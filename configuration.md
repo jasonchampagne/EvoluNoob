@@ -28,7 +28,7 @@ Dans le cas contraire, les vidéos (ou des extraits) sont enregistrés sur la di
 
 ## Programmation et développement web
 
-Quel que soit le langage, pour coder ou développer des pages web, j'utilise l'éditeur [Visual Studio Code](https://code.visualstudio.com), avec les extensions suivantes installées :
+Quel que soit le langage, pour coder ou développer des pages web, j'utilise l'éditeur [Visual Studio Code](https://code.visualstudio.com) et les extensions suivantes :
 
 + [French Language Pack](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-fr), pour l'interface en français
 + [The Netwide Assembler (NASM)](https://marketplace.visualstudio.com/items?itemName=rights.nas-vscode), pour la coloration syntaxique en langage d'Assembleur
