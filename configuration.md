@@ -70,7 +70,7 @@ Dans le cas contraire, les vidéos (ou des extraits) sont enregistrés sur la di
 
 ### PHP
 
-+ [HTTPD](https://httpd.apache.org/) : serveur web HTTP
++ [HTTPd](https://httpd.apache.org/) : serveur web HTTP
 + [PHP](https://www.php.net/) : interpréteur PHP
 + [phpMyAdmin](https://www.phpmyadmin.net/) : client graphique pour les bases de données
 
