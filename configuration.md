@@ -9,7 +9,12 @@
 >     + [Assembleur](#assembleur) 
 >     + [C/C++](#cc)
 >     + [C#](#c)
->     + [HTML/CSS](#html-css)
+>     + [HTML/CSS](#htmlcss)
+>     + [Java](#java)
+>     + [JavaScript](#javascript)
+>     + [PHP](#php)
+>     + [Python](#python)
+>     + [SQL](#sql)
 
 ---
 
