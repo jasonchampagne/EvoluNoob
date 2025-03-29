@@ -30,8 +30,9 @@ Dans le cas contraire, les vidéos (ou des extraits) sont enregistrés sur la di
 
 Quel que soit le langage, pour coder ou développer des pages web, j'utilise l'éditeur [Visual Studio Code](https://code.visualstudio.com) et les extensions suivantes :
 
-+ [French Language Pack](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-fr), pour l'interface en français
-+ [The Netwide Assembler (NASM)](https://marketplace.visualstudio.com/items?itemName=rights.nas-vscode), pour la coloration syntaxique en langage d'Assembleur
++ [EvoluNoob Color Theme](#) - thème de couleurs
++ [French Language Pack](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-fr) - interface en français
++ [The Netwide Assembler (NASM)](https://marketplace.visualstudio.com/items?itemName=rights.nas-vscode) - prise en charge de la coloration syntaxique en langage d'Assembleur
 
 Tout ce que vous voyez sur les vidéos (auto-complétion, raccourcis clavier, ...) sont des fonctionnalités présentes par défaut. Pour la ligne de commande, voir la section [Système](#système).
 
