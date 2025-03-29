@@ -77,6 +77,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 + Prestashop
 + Python
 + Qt
++ Raylib
 + React
 + Ren'Py
 + Ruby
