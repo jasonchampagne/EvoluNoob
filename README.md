@@ -29,6 +29,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |Dart||||
 |Django||||
 |Go||||
+|Haskell||||
 |HTML/CSS||||
 |Java||||
 |JavaFX||||
