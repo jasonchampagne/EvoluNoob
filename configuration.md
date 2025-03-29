@@ -15,6 +15,8 @@
 >     + [PHP](#php)
 >     + [Python](#python)
 >     + [SQL](#sql)
+> + [Infographie](#infographie)
+> + [MAO](#mao)
 
 ---
 
@@ -48,3 +50,11 @@ Le compilateur utilisé est [GCC](https://gcc.gnu.org) et le débogueur est [GDB
 ### PHP
 ### Python
 ### SQL
+
+---
+
+## Infographie
+
+---
+
+## MAO
