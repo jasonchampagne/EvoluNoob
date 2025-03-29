@@ -54,6 +54,8 @@ Dans le cas contraire, les vidéos (ou des extraits) sont enregistrés sur la di
 
 ### Django
 
++ [Django](https://www.djangoproject.com/) : cadriciel de développement web
+
 ### Java
 
 + [OpenJDK](https://openjdk.org/index.html) : compilateur (_Java Development Kit_) et machine virtuelle (_Java Runtime Environment_)
