@@ -1,7 +1,8 @@
 # Configuration
 
 > [!Note]
-> Cette page regroupe les différents logiciels et les paramètres/extensions que j'utilise pour les vidéos de la chaîne YouTube. Il n'est évidemment pas obligatoire de les suivre et vous pouvez vous adapter sans problème et utiliser les outils que vous préférez. Toutefois, je sais que certains parmi vous se sentent plus « rassurés » d'avoir un environnement similaire au mien, surtout au début.
+> Cette page regroupe les différents logiciels et les paramètres/extensions que j'utilise pour les vidéos de la chaîne YouTube.
+> Il n'est évidemment pas obligatoire de les suivre et vous pouvez vous adapter sans problème et utiliser les outils que vous préférez. Toutefois, je sais que certains parmi vous se sentent plus « rassurés » d'avoir un environnement similaire au mien, surtout au début.
 
 > **SOMMAIRE**
 > + [Système](#système)
