@@ -7,9 +7,13 @@
 > + [Système](#système)
 > + [Programmation et développement web](#programmation-et-développement-web)
 
+---
+
 ## Système
 
 Les vidéos se font principalement sur [Windows 11](https://www.microsoft.com/fr-fr/software-download/windows11), sinon sur la distribution [Linux Mint](https://www.linuxmint.com) et l'environnement _MATE_, quand cela est nécessaire.
+
+---
 
 ## Programmation et développement web
 
