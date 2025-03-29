@@ -13,9 +13,9 @@
 >     + [Assembleur](#assembleur) 
 >     + [C/C++](#cc)
 >     + [C#](#c)
->     + [HTML/CSS](#htmlcss)
+>     + [Django](#django)
 >     + [Java](#java)
->     + [JavaScript](#javascript)
+>     + [JavaFX](#javafx)
 >     + [PHP](#php)
 >     + [Python](#python)
 >     + [SQL](#sql)
@@ -52,9 +52,13 @@ Dans le cas contraire, les vidéos (ou des extraits) sont enregistrés sur la di
 
 + [.NET](https://dotnet.microsoft.com/fr-fr/) : cadriciel de développement et environnement d'exécution (_Common Language Runtime_).
 
+## Django
+
 ### Java
 
 + [OpenJDK](https://openjdk.org/index.html) : compilateur (_Java Development Kit_) et machine virtuelle (_Java Runtime Environment_)
+
+## JavaFX
 
 ### PHP
 
