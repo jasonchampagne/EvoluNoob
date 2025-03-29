@@ -47,6 +47,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 + Écriture
 + Français
 + Go
++ Hacking (_à 100 000 vues sur la [vidéo d'introduction](https://www.youtube.com/watch?v=IUjKepInQrM) OU si je deviens [Partenaire Twitch](https://jasonchampagne.fr/twitch)_)
 + Haskell
 + HTML/CSS
 + Japonais
