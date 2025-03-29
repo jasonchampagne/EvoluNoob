@@ -71,6 +71,7 @@ Dans le cas contraire, les vidéos (ou des extraits) sont enregistrés sur la di
 ### PHP
 
 + [HTTPd](https://httpd.apache.org/) : serveur web HTTP
++ [Nginx](https://nginx.org/en/) : serveur web HTTP
 + [PHP](https://www.php.net/) : interpréteur PHP
 + [phpMyAdmin](https://www.phpmyadmin.net/) : client graphique pour les bases de données
 
