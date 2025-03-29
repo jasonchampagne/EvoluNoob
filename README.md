@@ -43,6 +43,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 + C#
 + Chinois
 + Coréen
++ CryENGINE
 + Dart
 + Dessin
 + Django
@@ -53,6 +54,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 + Français
 + GNU/Linux
 + Go
++ Godot
 + Hacking (_à 100 000 vues sur la [vidéo d'introduction](https://www.youtube.com/watch?v=IUjKepInQrM) OU si je deviens [Partenaire Twitch](https://jasonchampagne.fr/twitch)_)
 + Haskell
 + HTML/CSS
@@ -83,9 +85,11 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 + SDL
 + SFML
 + SQL
-+ TypeScript
 + Twitch
++ TypeScript
 + UML
++ Unity
++ Unreal Engine
 + V
 + Vite
 + Vue
