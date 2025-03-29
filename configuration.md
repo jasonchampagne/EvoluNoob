@@ -66,6 +66,7 @@ Dans le cas contraire, les vidéos (ou des extraits) sont enregistrés sur la di
 
 + [Maven](https://maven.apache.org/) : gestionnaire de projets
 + [OpenJFX](https://openjfx.io/) : cadriciel de conception d'interface utilisateur
++ [Scene Builder](https://gluonhq.com/products/scene-builder/) : application de conception d'interface graphique JavaFX
 
 ### PHP
 
