@@ -16,46 +16,53 @@ La chaîne [EvoluNoob](https://youtube.com/@evolunoob) (anciennement _FormationV
 
 ---
 
+## Par où commencer ?
+
 Si vous venez de découvrir la chaîne et/ou que vous cherchez par où commencer, la réponse est (et sera toujours) la playlist [**IMMERSION**](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFCXYx-lSdqtliCV4FqZHeA), ne la négligez pas !
 
 Elle est le point de départ de tout et vous donnera les « outils » pour apprendre dans les meilleurs conditions, en utilisant au mieux vos facultés. Ensuite, laissez libre cours à vos préférences et ce qui vous intéresse, à titre personnel ou professionel.
 
+## Contenus en ligne
+
 |NOM|CATÉGORIE|CONTENUS|DESCRIPTION|
 |--:|:--|:--|:--|
-|Algorithmie||||
-|Anglais||||
-|Angular||||
-|Architecture||||
-|Assembleur||||
-|Bootstrap||||
-|C||||
-|C++||||
-|C#||||
-|Chinois||||
-|Coréen||||
-|Dart||||
-|Django||||
-|Docker||||
-|Écriture||||
-|Français||||
-|Go||||
-|Haskell||||
-|HTML/CSS||||
-|Japonais||||
-|Java||||
-|JavaFX||||
-|JavaScript||||
-|Kotlin||||
-|Lua||||
-|Node||||
-|PHP||||
-|Python||||
-|Qt||||
-|Ruby||||
-|Rust||||
-|SDL||||
-|SFML||||
-|SQL||||
-|V||||
-|WordPress||||
-|XML||||
+|||||
+
+## Contenus à venir
+
++ Algorithmie
++ Anglais
++ Angular
++ Architecture
++ Assembleur
++ Bootstrap
++ C
++ C++
++ C#
++ Chinois
++ Coréen
++ Dart
++ Django
++ Docker
++ Écriture
++ Français
++ Go
++ Haskell
++ HTML/CSS
++ Japonais
++ Java
++ JavaFX
++ JavaScript
++ Kotlin
++ Lua
++ Node
++ PHP
++ Python
++ Qt
++ Ruby
++ Rust
++ SDL
++ SFML
++ SQL
++ V
++ XML
