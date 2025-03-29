@@ -52,13 +52,13 @@ Dans le cas contraire, les vidéos (ou des extraits) sont enregistrés sur la di
 
 + [.NET](https://dotnet.microsoft.com/fr-fr/) : cadriciel de développement et environnement d'exécution (_Common Language Runtime_).
 
-## Django
+### Django
 
 ### Java
 
 + [OpenJDK](https://openjdk.org/index.html) : compilateur (_Java Development Kit_) et machine virtuelle (_Java Runtime Environment_)
 
-## JavaFX
+### JavaFX
 
 ### PHP
 
