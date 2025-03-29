@@ -22,15 +22,20 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 
 |NOM|CATÉGORIE|CONTENUS|DESCRIPTION|
 |--:|:--|:--|:--|
+|Anglais||||
 |Assembleur||||
 |C||||
 |C++||||
 |C#||||
+|Chinois||||
+|Coréen||||
 |Dart||||
 |Django||||
+|Français||||
 |Go||||
 |Haskell||||
 |HTML/CSS||||
+|Japonais||||
 |Java||||
 |JavaFX||||
 |JavaScript||||
