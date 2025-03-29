@@ -87,6 +87,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 + Twitch
 + UML
 + V
++ Vite
 + Vue
 + Windows
 + XML
