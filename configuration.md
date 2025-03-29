@@ -11,7 +11,9 @@
 
 ## Système
 
-Les vidéos se font principalement sur [Windows 11](https://www.microsoft.com/fr-fr/software-download/windows11), sinon sur la distribution [Linux Mint](https://www.linuxmint.com) et l'environnement _MATE_, quand cela est nécessaire.
+Les vidéos se font principalement sur [Windows 11](https://www.microsoft.com/fr-fr/software-download/windows11). Pour tout ce qui se fait en ligne de commande, il s'agit simplement du [Terminal](https://apps.microsoft.com/detail/9n0dx20hk701?hl=fr-FR&gl=FR) officiel de Microsoft, normalement déjà présent sur les mises à jour récentes, dès Windows 10.
+
+Dans le cas contraire, les vidéos (ou des extraits) sont enregistrés sur la distribution [Linux Mint](https://www.linuxmint.com) et l'environnement _MATE_, quand cela est nécessaire.
 
 ---
 
@@ -24,4 +26,4 @@ Pour coder ou développer des pages web, j'utilise l'éditeur [Visual Studio Cod
 
 Tout ce que vous voyez sur les vidéos (auto-complétion, raccourcis clavier, ...) sont des fonctionnalités présentes par défaut.
 
-Pour les opérations en ligne de commande, il s'agit simplement du [Terminal](https://apps.microsoft.com/detail/9n0dx20hk701?hl=fr-FR&gl=FR) officiel de Microsoft, normalement déjà présent sur les mises à jour récentes, dès Windows 10.
+
