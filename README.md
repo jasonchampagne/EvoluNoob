@@ -22,7 +22,9 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 
 |NOM|CATÉGORIE|CONTENUS|DESCRIPTION|
 |--:|:--|:--|:--|
+|Algorithmie||||
 |Anglais||||
+|Architecture||||
 |Assembleur||||
 |C||||
 |C++||||
