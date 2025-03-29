@@ -80,6 +80,7 @@ Dans le cas contraire, les vidéos (ou des extraits) sont enregistrés sur la di
 ### SQL
 
 + [MySQL Community Server](https://dev.mysql.com/downloads/mysql/) : serveur + client MySQL
++ [PostgreSQL](https://www.postgresql.org/) : serveur + client PgSQL
 
 ---
 
