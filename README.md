@@ -8,7 +8,8 @@ La chaîne [EvoluNoob](https://youtube.com/@evolunoob) (anciennement _FormationV
 
 + Les **cours** abordent les notions essentielles qui me semblent incontournables.
 + Les **tutoriels** viennent en complément des cours et abordent des concepts plus spécifiques.
-+ Les **projets** offrent un exemple d'application concrète des cours et tutoriels.
++ Les **exercices** (format court) vous permettent de réviser les concepts abordés dans les cours.
++ Les **projets** (format long) offrent un exemple d'application concrète des cours et tutoriels.
 
 > [!Note]
 > Si vous voulez utiliser les mêmes outils que dans les vidéos (éditeur, thème de couleurs, extensions, système, ...), jetez un oeil du côté de la [configuration](https://github.com/jasonchampagne/EvoluNoob/blob/main/configuration.md) !
