@@ -9,7 +9,7 @@
 
 ---
 
-+ TOUT COMMENCE AVEC CETTE PLAYLIST : [Immersion](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFCXYx-lSdqtliCV4FqZHeA)
++ **TOUT COMMENCE AVEC CETTE PLAYLIST** : [Immersion](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFCXYx-lSdqtliCV4FqZHeA)
 
 |NOM|CONTENUS|DESCRIPTION|
 |:--|:--|:--|
