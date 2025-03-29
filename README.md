@@ -44,6 +44,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 + Chinois
 + Coréen
 + Dart
++ Dessin
 + Django
 + Docker
 + Écriture
