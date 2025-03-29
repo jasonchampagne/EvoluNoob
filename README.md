@@ -22,4 +22,22 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 
 |NOM|CATÉGORIE|CONTENUS|DESCRIPTION|
 |:--|:--|:--|:--|
-|||||
+|Assembleur||||
+|C||||
+|C++||||
+|C#||||
+|Dart||||
+|Go||||
+|HTML/CSS||||
+|Java||||
+|JavaScript||||
+|Kotlin||||
+|Lua||||
+|Node||||
+|PHP||||
+|Python||||
+|Ruby||||
+|Rust||||
+|SQL||||
+|V||||
+|XML||||
