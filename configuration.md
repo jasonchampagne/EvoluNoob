@@ -57,6 +57,11 @@ Dans le cas contraire, les vidéos (ou des extraits) sont enregistrés sur la di
 + [OpenJDK](https://openjdk.org/index.html) : compilateur (_Java Development Kit_) et machine virtuelle (_Java Runtime Environment_)
 
 ### PHP
+
++ [Apache](https://httpd.apache.org/) : serveur web HTTP
++ [PHP](https://www.php.net/) : interpréteur PHP
++ [phpMyAdmin](https://www.phpmyadmin.net/) : client graphique pour les bases de données
+
 ### Python
 
 + [Python](https://www.python.org/) : interpréteur
