@@ -41,6 +41,8 @@ Dans le cas contraire, les vidéos (ou des extraits) sont enregistrés sur la di
 
 ### Assembleur
 
++ [GoLink](http://godevtool.com/) : lieur pour applications Windows
++ [NASM](https://www.nasm.us/) : assembleur x86
 + [The Netwide Assembler (NASM)](https://marketplace.visualstudio.com/items?itemName=rights.nas-vscode) : extension Visual Studio Code pour la prise en charge de la coloration syntaxique.
 
 ### C/C++
