@@ -42,6 +42,7 @@ Le navigateur web est [Firefox](https://www.mozilla.org/fr/firefox/new/).
 Pour la ligne de commande, voir la section [Système](#système).
 
 ### Assembleur
+
 ### C/C++
 
 Le compilateur utilisé est [GCC](https://gcc.gnu.org/) et le débogueur est [GDB](https://www.sourceware.org/gdb/), en ligne de commande.
