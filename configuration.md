@@ -8,3 +8,8 @@
 Les vidéos se font principalement sur [Windows 11](https://www.microsoft.com/fr-fr/software-download/windows11), sinon sur la distribution [Linux Mint](https://www.linuxmint.com) et l'environnement _MATE_, quand cela est nécessaire.
 
 ## Programmation et développement web
+
+Pour coder ou développer des pages web, j'utilise l'éditeur [Visual Studio Code](https://code.visualstudio.com), avec les extensions suivantes installées :
+
++ [French Language Pack](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-fr), pour l'interface en français
++ [The Netwide Assembler (NASM)](https://marketplace.visualstudio.com/items?itemName=rights.nas-vscode), pour la coloration syntaxique en langage d'Assembleur
