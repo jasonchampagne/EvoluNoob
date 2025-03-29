@@ -62,9 +62,12 @@ Dans le cas contraire, les vidéos (ou des extraits) sont enregistrés sur la di
 
 ### JavaFX
 
++ [Maven](https://maven.apache.org/) : gestionnaire de projets
++ [OpenJFX](https://openjfx.io/) : cadriciel de conception d'interface utilisateur
+
 ### PHP
 
-+ [Apache](https://httpd.apache.org/) : serveur web HTTP
++ [HTTPD](https://httpd.apache.org/) : serveur web HTTP
 + [PHP](https://www.php.net/) : interpréteur PHP
 + [phpMyAdmin](https://www.phpmyadmin.net/) : client graphique pour les bases de données
 
