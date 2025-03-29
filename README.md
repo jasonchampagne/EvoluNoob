@@ -24,8 +24,10 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |--:|:--|:--|:--|
 |Algorithmie||||
 |Anglais||||
+|Angular||||
 |Architecture||||
 |Assembleur||||
+|Bootstrap||||
 |C||||
 |C++||||
 |C#||||
@@ -33,6 +35,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |Coréen||||
 |Dart||||
 |Django||||
+|Docker||||
 |Écriture||||
 |Français||||
 |Go||||
