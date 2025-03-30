@@ -31,6 +31,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 
 ## Contenus à venir
 
++ 3D
 + Algorithmie
 + Anglais
 + Angular
@@ -77,6 +78,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 + Office (Word, Excel, PowerPoint)
 + PHP
 + PHPBoost
++ Pixel-art
 + Prestashop
 + Python
 + Qt
