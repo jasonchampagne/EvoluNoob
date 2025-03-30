@@ -29,9 +29,13 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |**Wondershare**|applications|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEJaW1-RnYtt5ofJfKU948_)|Vidéos sponsorisées autour de différents logiciels : DemoCreator, EdrawMax, Filmora, PDFelement, Recoverit, Uniconverter|
 |**WordPress**|développement web|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGZREbxMZqI-tf-1NaFCW3A)<br>🔗[tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGmQHHN-36CiazjL6AJ3jna)|Vidéos sponsorisées autour du système de gestion de contenu qui permet de déployer un site web (blog, boutique, portfolio...) sans connaissance obligatoire en programmation.|
 
+## Applications utilisées
+
+> _Le choix des applications n'est pas encore définitif, mais je fais en sorte pour chaque catégorie, de sélectionner en général un duo logiciel gratuit/logiciel payant, et de préférence multiplateforme, pour exclure le moins de gens possibles._
+
 ## Contenus à venir
 
-> _Les applications qui seront utilisées (ex : dessin numérique, modélisation 3D, montage vidéo, ...) ne sont pas encore complètement choisies, mais j'opterai généralement pour un duo logiciel gratuit/logiciel payant, et multiplateforme dans la mesure du possible._
+> _Cette liste est sujette à modifications, à tout moment._
 
 + 3D
 + Algorithmie
