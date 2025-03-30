@@ -79,6 +79,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 + Montage vidéo & effets spéciaux
 + Node
 + Office (Word, Excel, PowerPoint)
++ Photographie
 + PHP
 + PHPBoost
 + Piano
