@@ -62,9 +62,12 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 + Java
 + JavaFX
 + JavaScript
++ Jeet Kune Do
 + Joomla
++ Karaté
 + Kivy
 + Kotlin
++ Kung Fu
 + Laravel
 + LaTeX
 + LibreOffice (Writer, Calc, Impress)
@@ -97,5 +100,6 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 + Vite
 + Vue
 + Windows
++ Wing Chun
 + XML
 + YouTube
