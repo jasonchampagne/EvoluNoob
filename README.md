@@ -50,6 +50,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 + Brave
 + CryENGINE | Lumberyard
 + Darktable
++ DaVinci Resolve (+ Fusion)
 + DBeaver
 + Discord
 + Eclipse
@@ -73,7 +74,6 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 + Photoshop
 + RawTherapee
 + REAPER
-+ Resolve (+ Fusion)
 + RPG Maker
 + Scene Builder
 + Studio One
