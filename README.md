@@ -45,6 +45,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 + Aseprite
 + Audacity
 + Blender
++ Bluestacks
 + CryENGINE | Lumberyard
 + Darktable
 + Discord
@@ -52,6 +53,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 + FileZilla
 + GIMP
 + Godot
++ KeeWeb
 + Krita
 + LaTeX
 + LibreOffice
@@ -59,6 +61,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 + LosslessCut
 + Maya
 + MS Office
++ Obsidian
 + OBS Studio
 + Photoshop
 + RawTherapee
@@ -67,6 +70,8 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 + Studio One
 + Unity
 + Unreal Engine
++ VeraCrypt
++ VirtualBox
 + Visual Novel Maker
 
 ---
