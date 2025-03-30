@@ -41,19 +41,26 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 + Affinity Photo
 + After Effects
 + Aseprite
++ Blender
++ CryENGINE
 + Darktable
 + Discord
 + GIMP
++ Godot
 + Krita
 + LaTeX
 + LibreOffice
 + Lightroom
++ Maya
 + MS Office
 + OBS Studio
 + Photoshop
 + RawTherapee
 + Resolve (+ Fusion)
++ RPG Maker
 + Studio One
++ Unity
++ Unreal Engine
 
 ---
 
