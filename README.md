@@ -42,7 +42,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 + After Effects
 + Aseprite
 + Blender
-+ CryENGINE
++ CryENGINE | Lumberyard
 + Darktable
 + Discord
 + GIMP
