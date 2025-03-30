@@ -72,6 +72,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 + OBS Studio
 + Photoshop
 + RawTherapee
++ REAPER
 + Resolve (+ Fusion)
 + RPG Maker
 + Scene Builder
