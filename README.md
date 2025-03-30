@@ -42,6 +42,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 + C
 + C++
 + C#
++ Chant
 + Chinois
 + Coréen
 + CryENGINE
@@ -74,10 +75,13 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 + LibreOffice (Writer, Calc, Impress)
 + LÖVE
 + Lua
++ Mixage & masteurisation
++ Montage vidéo & effets spéciaux
 + Node
 + Office (Word, Excel, PowerPoint)
 + PHP
 + PHPBoost
++ Piano
 + Pixel-art
 + Prestashop
 + Python
