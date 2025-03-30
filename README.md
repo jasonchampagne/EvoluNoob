@@ -31,7 +31,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 
 ## Contenus à venir
 
-> _Les applications qui seront utilisées (ex : dessin numérique, modélisation 3D, montage vidéo, ...) ne sont pas encore complètement choisies, mais j'opterai généralement pour un duo logiciel gratuit/logiciel payant._
+> _Les applications qui seront utilisées (ex : dessin numérique, modélisation 3D, montage vidéo, ...) ne sont pas encore complètement choisies, mais j'opterai généralement pour un duo logiciel gratuit/logiciel payant, et multiplateforme dans la mesure du possible._
 
 + 3D
 + Algorithmie
