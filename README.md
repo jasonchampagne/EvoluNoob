@@ -29,9 +29,27 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |**Wondershare**|applications|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEJaW1-RnYtt5ofJfKU948_)|Vidéos sponsorisées autour de différents logiciels : DemoCreator, EdrawMax, Filmora, PDFelement, Recoverit, Uniconverter|
 |**WordPress**|développement web|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGZREbxMZqI-tf-1NaFCW3A)<br>🔗[tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGmQHHN-36CiazjL6AJ3jna)|Vidéos sponsorisées autour du système de gestion de contenu qui permet de déployer un site web (blog, boutique, portfolio...) sans connaissance obligatoire en programmation.|
 
-## Applications utilisées
+## Logiciels enseignées
 
 > _Le choix des applications n'est pas encore définitif, mais je fais en sorte pour chaque catégorie, de sélectionner en général un duo logiciel gratuit/logiciel payant, et de préférence multiplateforme, pour exclure le moins de gens possibles._
+
++ Ableton Live
++ Affinity Photo
++ After Effects
++ Aseprite
++ Darktable
++ Discord
++ GIMP
++ Krita
++ LaTeX
++ LibreOffice
++ Lightroom
++ MS Office
++ OBS Studio
++ Photoshop
++ RawTherapee
++ Resolve (+ Fusion)
++ Studio One
 
 ## Contenus à venir
 
@@ -54,6 +72,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 + CryENGINE
 + Dart
 + Dessin
++ Discord
 + Django
 + Docker
 + Écriture
@@ -83,8 +102,8 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 + Lua
 + Mixage & masteurisation
 + Montage vidéo & effets spéciaux
++ MS Office (Word, Excel, PowerPoint)
 + Node
-+ Office (Word, Excel, PowerPoint)
 + Photographie
 + PHP
 + PHPBoost
