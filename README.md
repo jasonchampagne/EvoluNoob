@@ -44,11 +44,13 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 + After Effects
 + Aseprite
 + Audacity
++ Beekeeper Studio
 + Blender
 + Bluestacks
 + Brave
 + CryENGINE | Lumberyard
 + Darktable
++ DBeaver
 + Discord
 + Eclipse
 + Edge
@@ -71,6 +73,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 + RawTherapee
 + Resolve (+ Fusion)
 + RPG Maker
++ Scene Builder
 + Studio One
 + Unity
 + Unreal Engine
