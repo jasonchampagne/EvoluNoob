@@ -90,6 +90,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 + SDL
 + SFML
 + SQL
++ Tai Chi
 + Twitch
 + TypeScript
 + UML
