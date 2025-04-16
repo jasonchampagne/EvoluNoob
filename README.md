@@ -22,11 +22,7 @@ Ces contenus sont répartis dans différents types de playlists (sauf exception)
 
 Si vous venez de découvrir la chaîne et/ou que vous cherchez par où commencer, la réponse est (et sera toujours) la playlist [**IMMERSION**](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFCXYx-lSdqtliCV4FqZHeA), ne la négligez pas !
 
-Elle est le point de départ de tout et vous donnera les « outils » pour apprendre dans les meilleurs conditions, en utilisant au mieux vos facultés.
-
-Ensuite, laissez libre cours à vos préférences et piochez dans ce qui vous intéresse, à titre personnel ou professionel.
-
-⬇️
+Elle est le point de départ de tout et vous donnera les « outils » pour apprendre dans les meilleurs conditions, en utilisant au mieux vos facultés. Ensuite, laissez libre cours à vos préférences et piochez dans ce qui vous intéresse, à titre personnel ou professionel. ⬇️
 
 ---
 
