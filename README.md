@@ -32,18 +32,18 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 ### Concepts théoriques
 ### Programmation / développement web
 
-|NOM|CATÉGORIE|CONTENUS|DESCRIPTION|
-|--:|:--|:--|:--|
-|**WordPress**|développement web|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGZREbxMZqI-tf-1NaFCW3A)<br>🔗[tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGmQHHN-36CiazjL6AJ3jna)|Vidéos sponsorisées autour du système de gestion de contenu qui permet de déployer un site web (blog, boutique, portfolio...) sans connaissance obligatoire en programmation.|
+|NOM|CONTENUS|DESCRIPTION|
+|--:|:--|:--|
+|**WordPress**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGZREbxMZqI-tf-1NaFCW3A)<br>🔗[tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGmQHHN-36CiazjL6AJ3jna)|Vidéos sponsorisées autour du système de gestion de contenu qui permet de déployer un site web (blog, boutique, portfolio...) sans connaissance obligatoire en programmation.|
 
 ### Bibliothèques / cadriciels
 ### Applications
 ### Plateformes
 ### Divers
 
-|NOM|CATÉGORIE|CONTENUS|DESCRIPTION|
-|--:|:--|:--|:--|
-|**Wondershare**|applications|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEJaW1-RnYtt5ofJfKU948_)|Vidéos sponsorisées autour de différents logiciels : DemoCreator, EdrawMax, Filmora, PDFelement, Recoverit, Uniconverter|
+|NOM|CONTENUS|DESCRIPTION|
+|--:|:--|:--|
+|**Wondershare**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEJaW1-RnYtt5ofJfKU948_)|Vidéos sponsorisées autour de différents logiciels : DemoCreator, EdrawMax, Filmora, PDFelement, Recoverit, Uniconverter|
 
 ---
 
