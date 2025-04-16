@@ -124,7 +124,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
         <li>GNU/Linux</li>
         <li>Go</li>
         <li>Godot</li>
-        <li>Hacking (_à 100 000 vues sur la [vidéo d'introduction](https://www.youtube.com/watch?v=IUjKepInQrM) OU si je deviens [Partenaire Twitch](https://jasonchampagne.fr/twitch)_)</li>
+        <li>Hacking</li>
         <li>Haskell</li>
         <li>HTML/CSS</li>
         <li>Japonais</li>
