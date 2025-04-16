@@ -20,7 +20,7 @@ Ces contenus sont répartis dans différents types de playlists (sauf exception)
 
 ## 🔵 Par où commencer ?
 
-Si vous venez de découvrir la chaîne et/ou que vous cherchez par où commencer, il faut commencer par cette playlist :
+Si vous venez de découvrir la chaîne ou que vous cherchez par où commencer, vous pouvez démarrer avec les vidéos de cette playlist :
 
 >>> [**IMMERSION**](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFCXYx-lSdqtliCV4FqZHeA)
 
