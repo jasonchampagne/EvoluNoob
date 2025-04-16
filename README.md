@@ -4,7 +4,9 @@
 	<img src="https://github.com/jasonchampagne/EvoluNoob/blob/main/logo.png" alt=""><br>
 </p>
 
-La chaîne [EvoluNoob](https://youtube.com/@evolunoob), anciennement _FormationVidéo_, est l'endroit où je partage quelques unes de mes passions, dans des domaines techniques et artistiques. Ces contenus sont répartis dans différents types de playlists (sauf exception) :
+La chaîne [EvoluNoob](https://youtube.com/@evolunoob), anciennement _FormationVidéo_, est l'endroit où je partage quelques unes de mes passions, dans des domaines techniques et artistiques.
+
+Ces contenus sont répartis dans différents types de playlists (sauf exception) :
 
 + Les **cours** abordent les notions essentielles qui me semblent incontournables.
 + Les **tutoriels** viennent en complément des cours et abordent des concepts plus spécifiques.
