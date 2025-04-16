@@ -94,88 +94,90 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 > _Cette liste est sujette à modifications, à tout moment._
 
 <details>
-<summary>Afficher/masquer</summary>
-+ 3D
-+ Algorithmie
-+ Anglais
-+ Angular
-+ Android
-+ Architecture
-+ Assembleur
-+ Bootstrap
-+ C
-+ C++
-+ C#
-+ Chant
-+ Chinois
-+ Coréen
-+ CryENGINE
-+ Dart
-+ Dessin
-+ Discord
-+ Django
-+ Docker
-+ Écriture
-+ Electron
-+ Flutter
-+ Français
-+ GNU/Linux
-+ Go
-+ Godot
-+ Hacking (_à 100 000 vues sur la [vidéo d'introduction](https://www.youtube.com/watch?v=IUjKepInQrM) OU si je deviens [Partenaire Twitch](https://jasonchampagne.fr/twitch)_)
-+ Haskell
-+ HTML/CSS
-+ Japonais
-+ Java
-+ JavaFX
-+ JavaScript
-+ Jeet Kune Do
-+ Joomla
-+ Karaté
-+ Kivy
-+ Kotlin
-+ Kung Fu
-+ Laravel
-+ LaTeX
-+ LibreOffice (Writer, Calc, Impress)
-+ LÖVE
-+ Lua
-+ Mixage & masteurisation
-+ Montage vidéo & effets spéciaux
-+ MS Office (Word, Excel, PowerPoint)
-+ Node
-+ Photographie
-+ PHP
-+ PHPBoost
-+ Piano
-+ Pixel-art
-+ Prestashop
-+ Python
-+ Qt
-+ Raylib
-+ React
-+ Ren'Py
-+ Réseaux
-+ RPG Maker
-+ Ruby
-+ Ruby on Rails
-+ Rust
-+ SDL
-+ SFML
-+ Spring
-+ SQL
-+ Tai Chi
-+ Twitch
-+ TypeScript
-+ UML
-+ Unity
-+ Unreal Engine
-+ V
-+ Visual Novel Maker
-+ Vite
-+ Vue
-+ Windows
-+ Wing Chun
-+ XML
-+ YouTube
+    <summary>Afficher/masquer la liste</summary>
+    <ul>
+        <li>3D</li>
+        <li>Algorithmie</li>
+        <li>Anglais</li>
+        <li>Angular</li>
+        <li>Android</li>
+        <li>Architecture</li>
+        <li>Assembleur</li>
+        <li>Bootstrap</li>
+        <li>C</li>
+        <li>C++</li>
+        <li>C#</li>
+        <li>Chant</li>
+        <li>Chinois</li>
+        <li>Coréen</li>
+        <li>CryENGINE</li>
+        <li>Dart</li>
+        <li>Dessin</li>
+        <li>Discord</li>
+        <li>Django</li>
+        <li>Docker</li>
+        <li>Écriture</li>
+        <li>Electron</li>
+        <li>Flutter</li>
+        <li>Français</li>
+        <li>GNU/Linux</li>
+        <li>Go</li>
+        <li>Godot</li>
+        <li>>Hacking (_à 100 000 vues sur la [vidéo d'introduction](https://www.youtube.com/watch?v=IUjKepInQrM) OU si je deviens [Partenaire Twitch](https://jasonchampagne.fr/twitch)_)</li>
+        <li>Haskell</li>
+        <li>HTML/CSS</li>
+        <li>Japonais</li>
+        <li>Java</li>
+        <li>JavaFX</li>
+        <li>JavaScript</li>
+        <li>Jeet Kune Do</li>
+        <li>Joomla</li>
+        <li>Karaté</li>
+        <li>Kivy</li>
+        <li>Kotlin</li>
+        <li>Kung Fu</li>
+        <li>Laravel</li>
+        <li>LaTeX</li>
+        <li>LibreOffice (Writer, Calc, Impress)</li>
+        <li>LÖVE</li>
+        <li>Lua</li>
+        <li>Mixage & masteurisation</li>
+        <li>Montage vidéo & effets spéciaux</li>
+        <li>MS Office (Word, Excel, PowerPoint)</li>
+        <li>Node</li>
+        <li>Photographie</li>
+        <li>PHP</li>
+        <li>PHPBoost</li>
+        <li>Piano</li>
+        <li>Pixel-art</li>
+        <li>Prestashop</li>
+        <li>Python</li>
+        <li>Qt</li>
+        <li>Raylib</li>
+        <li>React</li>
+        <li>Ren'Py</li>
+        <li>Réseaux</li>
+        <li>RPG Maker</li>
+        <li>Ruby</li>
+        <li>Ruby on Rails</li>
+        <li>Rust</li>
+        <li>SDL</li>
+        <li>SFML</li>
+        <li>Spring</li>
+        <li>SQL</li>
+        <li>Tai Chi</li>
+        <li>Twitch</li>
+        <li>TypeScript</li>
+        <li>UML</li>
+        <li>Unity</li>
+        <li>Unreal Engine</li>
+        <li>V</li>
+        <li>Visual Novel Maker</li>
+        <li>Vite</li>
+        <li>Vue</li>
+        <li>Windows</li>
+        <li>Wing Chun</li>
+        <li>XML</li>
+        <li>YouTube</li>
+    </ul>
 </details>
