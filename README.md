@@ -95,7 +95,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 
 ## 🔵 Contenus à venir
 
-> _Cette liste est sujette à modifications, à tout moment._
+> _Cette liste est sujette à modification, à tout moment._
 
 <details>
     <summary>Afficher/masquer la liste</summary>
