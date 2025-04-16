@@ -4,7 +4,7 @@
 	<img src="https://github.com/jasonchampagne/EvoluNoob/blob/main/logo.png" alt=""><br>
 </p>
 
-La chaîne [EvoluNoob](https://youtube.com/@evolunoob) (anciennement _FormationVidéo_) est l'endroit où je partage quelques unes de mes passions, dans des domaines techniques et artistiques. Ces contenus sont répartis dans différents types de playlists (sauf exception) :
+La chaîne [EvoluNoob](https://youtube.com/@evolunoob), anciennement _FormationVidéo_, est l'endroit où je partage quelques unes de mes passions, dans des domaines techniques et artistiques. Ces contenus sont répartis dans différents types de playlists (sauf exception) :
 
 + Les **cours** abordent les notions essentielles qui me semblent incontournables.
 + Les **tutoriels** viennent en complément des cours et abordent des concepts plus spécifiques.
@@ -16,7 +16,7 @@ La chaîne [EvoluNoob](https://youtube.com/@evolunoob) (anciennement _FormationV
 
 ---
 
-## Par où commencer ?
+## 🔵 Par où commencer ?
 
 Si vous venez de découvrir la chaîne et/ou que vous cherchez par où commencer, la réponse est (et sera toujours) la playlist [**IMMERSION**](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFCXYx-lSdqtliCV4FqZHeA), ne la négligez pas !
 
@@ -24,7 +24,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 
 ---
 
-## Vidéos disponibles
+## 🔵 Vidéos disponibles
 
 |NOM|CATÉGORIE|CONTENUS|DESCRIPTION|
 |--:|:--|:--|:--|
@@ -33,7 +33,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 
 ---
 
-## Logiciels abordés
+## 🔵 Logiciels abordés
 
 > _Le choix des applications n'est pas encore définitif, mais je fais en sorte pour chaque catégorie, de sélectionner en général un duo logiciel gratuit/logiciel payant, et de préférence multiplateforme, pour exclure le moins de gens possibles._
 >
@@ -87,7 +87,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 
 ---
 
-## Contenus à venir
+## 🔵 Contenus à venir
 
 > _Cette liste est sujette à modifications, à tout moment._
 
