@@ -93,7 +93,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 
 > _Cette liste est sujette à modifications, à tout moment._
 
-<detail>
+<details>
 <summary>Afficher/masquer</summary>
 + 3D
 + Algorithmie
@@ -178,4 +178,4 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 + Wing Chun
 + XML
 + YouTube
-</detail>
+</details>
