@@ -32,21 +32,21 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 ### Concepts théoriques
 ### Programmation / développement web
 
-|NOM|CONTENUS|DESCRIPTION|
+|NOM_DE_LA_PLAYLIST|CONTENUS|DESCRIPTION|
 |--:|:--|:--|
 |**WordPress**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGZREbxMZqI-tf-1NaFCW3A)<br>🔗[tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGmQHHN-36CiazjL6AJ3jna)|Vidéos sponsorisées autour du système de gestion de contenu qui permet de déployer un site web (blog, boutique e-commerce, portfolio...)|
 
 ### Bibliothèques / cadriciels
 ### Applications
 
-|NOM|CONTENUS|DESCRIPTION|
+|NOM_DE_LA_PLAYLIST|CONTENUS|DESCRIPTION|
 |--:|:--|:--|
 |**Visual Studio Code**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFzgjFG8ac8LEHKPbE8loan)|Éditeur de code extensible pour la programmation et le développement web|
 
 ### Plateformes
 ### Divers
 
-|NOM|CONTENUS|DESCRIPTION|
+|NOM_DE_LA_PLAYLIST|CONTENUS|DESCRIPTION|
 |--:|:--|:--|
 |**Wondershare**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEJaW1-RnYtt5ofJfKU948_)|Vidéos sponsorisées autour de différents logiciels (DemoCreator, EdrawMax, Filmora, PDFelement, Recoverit, Uniconverter)|
 
