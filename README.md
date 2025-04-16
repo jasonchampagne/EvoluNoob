@@ -10,8 +10,8 @@ Ces contenus sont répartis dans différents types de playlists (sauf exception)
 
 + Les **cours** abordent les notions essentielles qui me semblent incontournables.
 + Les **tutoriels** viennent en complément des cours et abordent des notions plus spécifiques.
-+ Les **exercices** (format court) permettent de réviser ce qui est enseigné dans les cours.
-+ Les **projets** (format long) offrent un exemple d'application concrète des cours et tutoriels.
++ Les **exercices** (au format court) permettent de réviser ce qui est enseigné dans les cours.
++ Les **projets** (au format long) offrent un exemple d'application concrète des cours et tutoriels.
 
 > [!Note]
 > Si vous voulez utiliser les mêmes outils que dans les vidéos (éditeur, thème de couleurs, extensions, système, ...), jetez un oeil du côté de la [configuration](https://github.com/jasonchampagne/EvoluNoob/blob/main/configuration.md) pour avoir toutes les informations.
