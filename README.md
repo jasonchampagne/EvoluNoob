@@ -41,51 +41,57 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 >
 > _Parmis les applications, certaines auront une playlist complète dédiée, tandis que d'autres seront montrées uniquement sur certaines vidéos._
 
-+ Ableton Live
-+ Affinity Photo
-+ After Effects
-+ Aseprite
-+ Audacity
-+ Beekeeper Studio
-+ Blender
-+ Bluestacks
-+ Brave
-+ CryENGINE | Lumberyard
-+ Darktable
-+ DaVinci Resolve (+ Fusion)
-+ DBeaver
-+ Discord
-+ Eclipse
-+ Edge
-+ FileZilla
-+ Firefox
-+ GIMP
-+ Godot
-+ KeeWeb
-+ Krita
-+ LaTeX
-+ LibreOffice
-+ Lightroom
-+ LMMS
-+ LosslessCut
-+ Maya
-+ MS Office
-+ Netbeans
-+ Obsidian
-+ OBS Studio
-+ Photoshop
-+ RawTherapee
-+ REAPER
-+ RPG Maker
-+ Scene Builder
-+ Studio One
-+ Unity
-+ Unreal Engine
-+ VeraCrypt
-+ VirtualBox
-+ Visual Novel Maker
-+ Visual Studio
-+ Visual Studio Code
+<details>
+    <summary>Afficher/masquer la liste</summary>
+    <br>
+    <ul>
+        <li>Ableton Live</li>
+        <li>Affinity Photo</li>
+        <li>After Effects</li>
+        <li>Aseprite</li>
+        <li>Audacity</li>
+        <li>Beekeeper Studio</li>
+        <li>Blender</li>
+        <li>Bluestacks</li>
+        <li>Brave</li>
+        <li>CryENGINE | Lumberyard</li>
+        <li>Darktable</li>
+        <li>DaVinci Resolve (+ Fusion)</li>
+        <li>DBeaver</li>
+        <li>Discord</li>
+        <li>Eclipse</li>
+        <li>Edge</li>
+        <li>FileZilla</li>
+        <li>Firefox</li>
+        <li>GIMP</li>
+        <li>Godot</li>
+        <li>KeeWeb</li>
+        <li>Krita</li>
+        <li>LaTeX</li>
+        <li>LibreOffice</li>
+        <li>Lightroom</li>
+        <li>LMMS</li>
+        <li>LosslessCut</li>
+        <li>Maya</li>
+        <li>MS Office</li>
+        <li>Netbeans</li>
+        <li>Obsidian</li>
+        <li>OBS Studio</li>
+        <li>Photoshop</li>
+        <li>RawTherapee</li>
+        <li>REAPER</li>
+        <li>RPG Maker</li>
+        <li>Scene Builder</li>
+        <li>Studio One</li>
+        <li>Unity</li>
+        <li>Unreal Engine</li>
+        <li>VeraCrypt</li>
+        <li>VirtualBox</li>
+        <li>Visual Novel Maker</li>
+        <li>Visual Studio</li>
+        <li>Visual Studio Code</li>
+    </ul>
+</details>
 
 ---
 
