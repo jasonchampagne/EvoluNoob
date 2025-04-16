@@ -37,8 +37,6 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 
 ## 🔵 Logiciels abordés
 
-> _Le choix des applications n'est pas encore définitif, mais je fais en sorte pour chaque catégorie, de sélectionner en général un duo logiciel gratuit/logiciel payant, et de préférence multiplateforme, pour exclure le moins de gens possibles._
->
 > _Parmis les applications, certaines auront une playlist complète dédiée, tandis que d'autres seront montrées uniquement sur certaines vidéos._
 
 <details>
