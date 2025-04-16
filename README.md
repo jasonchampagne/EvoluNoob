@@ -9,8 +9,8 @@ La chaîne [EvoluNoob](https://youtube.com/@evolunoob), anciennement _FormationV
 Ces contenus sont répartis dans différents types de playlists (sauf exception) :
 
 + Les **cours** abordent les notions essentielles qui me semblent incontournables.
-+ Les **tutoriels** viennent en complément des cours et abordent des concepts plus spécifiques.
-+ Les **exercices** (format court) permettent de réviser les concepts abordés dans les cours.
++ Les **tutoriels** viennent en complément des cours et abordent des notions plus spécifiques.
++ Les **exercices** (format court) permettent de réviser ce qui est enseigné dans les cours.
 + Les **projets** (format long) offrent un exemple d'application concrète des cours et tutoriels.
 
 > [!Note]
