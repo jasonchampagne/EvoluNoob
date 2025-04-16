@@ -38,6 +38,11 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 
 ### Bibliothèques / cadriciels
 ### Applications
+
+|NOM|CONTENUS|DESCRIPTION|
+|--:|:--|:--|
+|Visual Studio Code||Éditeur de code extensible|
+
 ### Plateformes
 ### Divers
 
@@ -99,7 +104,6 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
         <li>VirtualBox</li>
         <li>Visual Novel Maker</li>
         <li>Visual Studio</li>
-        <li>Visual Studio Code</li>
     </ul>
 </details>
 
