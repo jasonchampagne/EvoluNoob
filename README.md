@@ -34,7 +34,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 
 |NOM|CONTENUS|DESCRIPTION|
 |--:|:--|:--|
-|**WordPress**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGZREbxMZqI-tf-1NaFCW3A)<br>🔗[tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGmQHHN-36CiazjL6AJ3jna)|Vidéos sponsorisées autour du système de gestion de contenu qui permet de déployer un site web (blog, boutique, portfolio...) sans connaissance obligatoire en programmation.|
+|**WordPress**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGZREbxMZqI-tf-1NaFCW3A)<br>🔗[tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGmQHHN-36CiazjL6AJ3jna)|Vidéos sponsorisées autour du système de gestion de contenu qui permet de déployer un site web (blog, boutique, portfolio...)|
 
 ### Bibliothèques / cadriciels
 ### Applications
