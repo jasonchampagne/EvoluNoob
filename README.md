@@ -1,7 +1,7 @@
 # EvoluNoob
 
 <p align="center">
-	<img src="https://github.com/jasonchampagne/EvoluNoob/blob/main/logo.png" alt=""><br>
+	<img src="https://github.com/jasonchampagne/EvoluNoob/blob/main/assets/logo.png" alt=""><br>
 </p>
 
 La chaîne [EvoluNoob](https://youtube.com/@evolunoob), anciennement _FormationVidéo_, est l'endroit où je partage quelques unes de mes passions, dans des domaines techniques et artistiques.
