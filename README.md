@@ -31,7 +31,17 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 ## 🔵 Vidéos disponibles
 
 ### Langues
+
+|NOM|CONTENUS|DESCRIPTION|
+|--:|:--|:--|
+||||
+
 ### Concepts théoriques
+
+|NOM|CONTENUS|DESCRIPTION|
+|--:|:--|:--|
+||||
+
 ### Programmation / développement web
 
 |NOM|CONTENUS|DESCRIPTION|
@@ -39,6 +49,11 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |**WordPress**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGZREbxMZqI-tf-1NaFCW3A)<br>🔗[tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGmQHHN-36CiazjL6AJ3jna)|Vidéos sponsorisées autour du système de gestion de contenu qui permet de déployer un site web (blog, boutique e-commerce, portfolio...)|
 
 ### Bibliothèques / cadriciels
+
+|NOM|CONTENUS|DESCRIPTION|
+|--:|:--|:--|
+||||
+
 ### Applications
 
 |NOM|CONTENUS|DESCRIPTION|
@@ -46,6 +61,11 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |**Visual Studio Code**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFzgjFG8ac8LEHKPbE8loan)|Éditeur de code extensible pour la programmation et le développement web|
 
 ### Plateformes
+
+|NOM|CONTENUS|DESCRIPTION|
+|--:|:--|:--|
+||||
+
 ### Divers
 
 |NOM|CONTENUS|DESCRIPTION|
