@@ -161,6 +161,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
         <li>Docker</li>
         <li>Écriture</li>
         <li>Electron</li>
+        <li>Entreprenariat (statuts professionnels, création d'activité, gestion fiscale, ...)</li>
         <li>Flutter</li>
         <li>Français</li>
         <li>GNU/Linux</li>
