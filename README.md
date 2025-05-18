@@ -142,8 +142,8 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
         <li>3D</li>
         <li>Algorithmie</li>
         <li>Anglais</li>
-        <li>Angular</li>
         <li>Android</li>
+        <li>Angular</li>
         <li>Architecture</li>
         <li>Assembleur</li>
         <li>Bootstrap</li>
