@@ -40,7 +40,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 
 |NOM|CONTENUS|DESCRIPTION|
 |--:|:--|:--|
-||||
+|**Cybersécurité**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGZldbRbCNrHSTuSIg55W6F)||
 
 ### Programmation / développement web
 
@@ -167,7 +167,6 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
         <li>GNU/Linux</li>
         <li>Go</li>
         <li>Godot</li>
-        <li>Hacking (à 100 000 vues sur la <a href="https://www.youtube.com/watch?v=IUjKepInQrM">vidéo d'intro</a> OU si je deviens <a href="https://jasonchampagne.fr/twitch">Partenaire Twitch</a>)</li>
         <li>Haskell</li>
         <li>HTML/CSS</li>
         <li>Japonais</li>
