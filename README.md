@@ -70,6 +70,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 
 |NOM|CONTENUS|DESCRIPTION|
 |--:|:--|:--|
+|**Hostinger**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF_WGMhMpYeE9OIvnjml8dJ)|Vidéos sponsorisées autour de l'hébergeur Hostinger, recommandé par WordPress|
 |**Wondershare**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEJaW1-RnYtt5ofJfKU948_)|Vidéos sponsorisées autour de différents logiciels (DemoCreator, EdrawMax, Filmora, PDFelement, Recoverit, Uniconverter)|
 
 ---
