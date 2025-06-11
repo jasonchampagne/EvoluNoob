@@ -14,6 +14,7 @@
     + `48.84894381840422`
     + `False`
     + `["épée en fer", "cape d'invisibilité", "potion de soin"]`
+    + `{2, 4, 6, 8}`
 
 ---
 
