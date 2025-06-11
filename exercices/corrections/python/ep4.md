@@ -9,11 +9,11 @@
 
 ## Quels sont les types des données suivantes ?
 
-+ `"Chuck Norris"` : une chaîne de caractères (`str`)
-+ `48.84894381840422` : un nombre à virgule flottante (`float`)
-+ `False` : une valeur booléenne (`bool`)
-+ `["épée en fer", "cape d'invisibilité", "potion de soin"]` : une liste de chaînes de caractères (`list`)
-+ `{2, 4, 6, 8}` : un ensemble (`set`)
++ `"Chuck Norris"` : une chaîne de caractères -> `str`
++ `48.84894381840422` : un nombre à virgule flottante -> `float`
++ `False` : une valeur booléenne -> `bool`
++ `["épée en fer", "cape d'invisibilité", "potion de soin"]` : une liste de chaînes de caractères -> `list`
++ `{2, 4, 6, 8}` : un ensemble -> `set`
 
 ## Comment afficher le type de la donnée `{1: "Un", 2: "Deux"}` ?
 
