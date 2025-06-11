@@ -1,1 +1,3 @@
-# Python - exercices corrigés
+# Python - exercices
+
+## Types de données - EP4
