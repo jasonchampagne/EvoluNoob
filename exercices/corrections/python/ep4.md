@@ -2,10 +2,10 @@
 
 ## Choisir un type valide pour manipuler les données suivantes.
 
-+ prénom d'une personne : `str`
-+ nombre d'articles d'un panier (boutique en ligne) : `int`
-+ coordonnées d'un point sur un plan en trois dimensions : `tuple` contenant les trois valeurs (x, y, z) de type `float`
-+ vérifier si l'âge d'une personne est strictement supérieur à zéro : `bool`
++ prénom d'une personne -> `str`
++ nombre d'articles d'un panier (boutique en ligne) -> `int`
++ coordonnées d'un point sur un plan en trois dimensions -> `tuple` contenant les trois valeurs (x, y, z) de type `float`
++ vérifier si l'âge d'une personne est strictement supérieur à zéro -> `bool`
 
 ## Quels sont les types des données suivantes ?
 
