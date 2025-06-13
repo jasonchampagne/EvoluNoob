@@ -1,6 +1,6 @@
 # Python - corrigé de l'exercice (EP4)
 
-## Choisir un type valide pour manipuler les données suivantes.
+## Choisir un type valide pour manipuler les données suivantes
 
 + prénom d'une personne -> `str`
 + nombre d'articles d'un panier (boutique en ligne) -> `int`
