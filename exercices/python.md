@@ -27,6 +27,6 @@
    + `Naruto` (le nom d'un ninja devenu célèbre)
    + `20.0` (un montant de TVA, une constante)
    + `True` (pour indiquer qu'un compte est bloqué)
-2. Afficher le nom du ninja puis le type de donnée de votre variable contenant le taux de TVA
-3. Finalement, le nom du célèbre ninja doit être changé en `Naruto Uzumaki`, comment procéder ?
+2. Afficher le nom du ninja puis le type de la variable contenant le taux de TVA
+3. Le nom du célèbre ninja doit être changé en `Naruto Uzumaki`, comment procéder ?
 4. Transformer la variable contenant son nom en une liste
