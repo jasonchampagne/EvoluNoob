@@ -21,4 +21,6 @@
 
 ## Variables - EP5
 
+> ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep5.md)
+
 ça arrive 🫡
