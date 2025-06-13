@@ -19,6 +19,19 @@ account_blocked = True
 
 ## Afficher le nom du ninja puis le type de donnée de votre variable contenant le taux de TVA
 
+```python
+print(ninja_name)
+print(type(VAT_RATE))
+```
+
 ## Finalement, le nom du célèbre ninja doit être changé en Naruto Uzumaki, comment procéder ?
 
+```python
+ninja_name = "Naruto Uzumaki"
+```
+
 ## Transformer la variable contenant son nom en une liste
+
+```python
+ninja_name = list(ninja_name)
+```
