@@ -176,6 +176,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
         <li>JavaFX</li>
         <li>JavaScript</li>
         <li>Jeet Kune Do</li>
+        <li>Jeu-vidéo (game design, level design, character design, ...)</li>
         <li>Joomla</li>
         <li>Karaté</li>
         <li>Kivy</li>
