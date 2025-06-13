@@ -1,4 +1,4 @@
-# Python - corrigé de l'exercice (EP5)
+# Python - corrigé des exercices (EP5)
 
 ## Déclarer autant de variables que nécessaire pour mémoriser les informations suivantes
 
