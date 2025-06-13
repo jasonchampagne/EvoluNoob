@@ -19,4 +19,6 @@
 
 ---
 
-Suite à venir...
+## Variables - EP5
+
+ça arrive 🫡
