@@ -1,4 +1,4 @@
-# Python - corrigé de l'exercice (EP4)
+# Python - corrigé des exercices (EP4)
 
 ## Choisir un type valide pour manipuler les données suivantes
 
