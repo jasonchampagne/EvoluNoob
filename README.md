@@ -30,9 +30,14 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 
 ## 🔵 Vidéos disponibles
 
-### Langues
-
-À venir...
+> + [Concepts théoriques](#)
+> + [Langues](#)
+> + [Langages informatiques](#)
+> + [Bibliothèques/cadriciels](#)
+> + [Applications](#)
+> + [Gestionnaires de contenus (_CMS_)](#)
+> + [Plateformes](#)
+> + [Divers](#)
 
 ### Concepts théoriques
 
@@ -40,13 +45,17 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |--:|:--|:--|
 |**Cybersécurité**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGZldbRbCNrHSTuSIg55W6F)|Phases d'intrusion et techniques de défense face aux menaces et vulnérabilités des applications, matériels, réseaux et systèmes|
 
+### Langues
+
+À venir...
+
 ### Langages informatiques
 
 |NOM|CONTENUS|DESCRIPTION|
 |--:|:--|:--|
 |**Python**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGqOK0slilcWpMdlJe7HGSw)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/python.md)|Langage de programmation réputé accessible pour les débutants et utilisé dans de nombreux domaines, allant de l'automatisation de tâches à l'intelligence artificielle|
 
-### Bibliothèques / cadriciels
+### Bibliothèques/cadriciels
 
 |NOM|CONTENUS|DESCRIPTION|
 |--:|:--|:--|
