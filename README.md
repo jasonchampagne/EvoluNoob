@@ -30,14 +30,15 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 
 ## 🔵 Vidéos disponibles
 
-> + [Concepts théoriques](#)
-> + [Langues](#)
-> + [Langages informatiques](#)
-> + [Bibliothèques/cadriciels](#)
-> + [Applications](#)
-> + [Gestionnaires de contenus (_CMS_)](#)
-> + [Plateformes](#)
-> + [Divers](#)
++ **SOMMAIRE**
+    + [Concepts théoriques](#)
+    + [Langues](#)
+    + [Langages informatiques](#)
+    + [Bibliothèques/cadriciels](#)
+    + [Applications](#)
+    + [Gestionnaires de contenus (_CMS_)](#)
+    + [Plateformes](#)
+    + [Divers](#)
 
 ### Concepts théoriques
 
