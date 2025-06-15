@@ -19,7 +19,7 @@ Ces contenus sont répartis dans différents types de playlists (sauf exception)
 ---
 
 + **SOMMAIRE**
-    + [Par où commencer ?](#)
+    + [Par où commencer ?](#-par-où-commencer-)
     + [Vidéos disponibles](#)  
         + [Concepts théoriques](#)
         + [Langues](#)
