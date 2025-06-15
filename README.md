@@ -32,9 +32,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 
 ### Langues
 
-|NOM|CONTENUS|DESCRIPTION|
-|--:|:--|:--|
-||||
+À venir...
 
 ### Concepts théoriques
 
@@ -42,19 +40,17 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |--:|:--|:--|
 |**Cybersécurité**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGZldbRbCNrHSTuSIg55W6F)|Phases d'intrusion et techniques de défense face aux menaces et vulnérabilités des applications, matériels, réseaux et systèmes|
 
-### Programmation / développement web
+### Langages informatiques
 
 |NOM|CONTENUS|DESCRIPTION|
 |--:|:--|:--|
 |**Python**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGqOK0slilcWpMdlJe7HGSw)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/python.md)|Langage de programmation réputé accessible pour les débutants et utilisé dans de nombreux domaines, allant de l'automatisation de tâches à l'intelligence artificielle|
-|**SQLPage**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGgDN4G0_KpqLJTUwewfQmE)|Cadriciel de création d'applications web générées à partir de code SQL et utilisant des bases de données traditionnelles|
-|**WordPress**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGZREbxMZqI-tf-1NaFCW3A)<br>🔗[tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGmQHHN-36CiazjL6AJ3jna)|Vidéos sponsorisées autour du système de gestion de contenu qui permet de déployer un site web (blog, boutique e-commerce, portfolio...)|
 
 ### Bibliothèques / cadriciels
 
 |NOM|CONTENUS|DESCRIPTION|
 |--:|:--|:--|
-||||
+|**SQLPage**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGgDN4G0_KpqLJTUwewfQmE)|Cadriciel de création d'applications web générées à partir de code SQL et utilisant des bases de données traditionnelles|
 
 ### Applications
 
@@ -62,11 +58,15 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |--:|:--|:--|
 |**Visual Studio Code**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFzgjFG8ac8LEHKPbE8loan)|Éditeur de code extensible pour la programmation et le développement web|
 
-### Plateformes
+### Gestionnaires de contenus (_CMS_)
 
 |NOM|CONTENUS|DESCRIPTION|
 |--:|:--|:--|
-||||
+|**WordPress**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGZREbxMZqI-tf-1NaFCW3A)<br>🔗[tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGmQHHN-36CiazjL6AJ3jna)|Vidéos sponsorisées autour du système de gestion de contenu qui permet de déployer un site web (blog, boutique e-commerce, portfolio...)|
+
+### Plateformes
+
+À venir...
 
 ### Divers
 
