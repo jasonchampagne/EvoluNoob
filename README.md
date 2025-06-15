@@ -47,7 +47,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |NOM|CONTENUS|DESCRIPTION|
 |--:|:--|:--|
 |**Python**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGqOK0slilcWpMdlJe7HGSw)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/python.md)|Langage de programmation réputé accessible pour les débutants et utilisé dans de nombreux domaines, allant de l'automatisation de tâches à l'intelligence artificielle|
-|**SQLPage**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGgDN4G0_KpqLJTUwewfQmE)|Cadriciel de création d'applications web générées à partir de code SQL|
+|**SQLPage**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGgDN4G0_KpqLJTUwewfQmE)|Cadriciel de création d'applications web générées à partir de code SQL et utilisant des bases de données traditionnelles|
 |**WordPress**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGZREbxMZqI-tf-1NaFCW3A)<br>🔗[tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGmQHHN-36CiazjL6AJ3jna)|Vidéos sponsorisées autour du système de gestion de contenu qui permet de déployer un site web (blog, boutique e-commerce, portfolio...)|
 
 ### Bibliothèques / cadriciels
