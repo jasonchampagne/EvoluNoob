@@ -18,6 +18,22 @@ Ces contenus sont répartis dans différents types de playlists (sauf exception)
 
 ---
 
++ **SOMMAIRE**
+    + [Par où commencer ?](#)
+    + [Vidéos disponibles](#)  
+        + [Concepts théoriques](#)
+        + [Langues](#)
+        + [Langages informatiques](#)
+        + [Bibliothèques/cadriciels](#)
+        + [Applications](#)
+        + [Gestionnaires de contenus (_CMS_)](#)
+        + [Plateformes](#)
+        + [Divers](#)
+    + [Logiciels abordés](#)
+    + [Contenus à venir](#)
+
+---
+
 ## 🔵 Par où commencer ?
 
 Si vous venez de découvrir la chaîne ou que vous cherchez par où commencer, vous pouvez démarrer avec les vidéos de cette playlist (ne les négligez pas) :
@@ -29,16 +45,6 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 ---
 
 ## 🔵 Vidéos disponibles
-
-+ **SOMMAIRE**
-    + [Concepts théoriques](#)
-    + [Langues](#)
-    + [Langages informatiques](#)
-    + [Bibliothèques/cadriciels](#)
-    + [Applications](#)
-    + [Gestionnaires de contenus (_CMS_)](#)
-    + [Plateformes](#)
-    + [Divers](#)
 
 ### Concepts théoriques
 
