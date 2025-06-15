@@ -30,6 +30,8 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 
 ## Vidéos disponibles
 
+> 🟣Conceptes théoriques / 🔴Langues / 🔵Langages informatiques / 🟢Applications / 🟡Bibliothèques & cadriciels / 🟠Gestionnaires de contenus (_CMS_) / 🟤Plateformes / ⚪Divers
+
 |NOM|CONTENUS|DESCRIPTION|-|
 |--:|:--|:--|:--:|
 |**Cybersécurité**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGZldbRbCNrHSTuSIg55W6F)|Phases d'intrusion et techniques de défense face aux menaces et vulnérabilités des applications, matériels, réseaux et systèmes||
