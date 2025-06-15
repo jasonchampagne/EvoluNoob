@@ -20,7 +20,7 @@ Ces contenus sont répartis dans différents types de playlists (sauf exception)
 
 + **SOMMAIRE**
     + [Par où commencer ?](#-par-où-commencer-)
-    + [Vidéos disponibles](#)  
+    + [Vidéos disponibles](#-vidéos-disponibles)  
         + [Concepts théoriques](#)
         + [Langues](#)
         + [Langages informatiques](#)
@@ -29,8 +29,9 @@ Ces contenus sont répartis dans différents types de playlists (sauf exception)
         + [Gestionnaires de contenus (_CMS_)](#)
         + [Plateformes](#)
         + [Divers](#)
-    + [Logiciels abordés](#)
-    + [Contenus à venir](#)
+    + [Logiciels abordés](#-logiciels-abordés)
+    + [Contenus à venir](#-contenus-à-venir)
+    + [Anciens contenus](#-anciens-contenus)
 
 ---
 
