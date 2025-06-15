@@ -18,17 +18,17 @@ Ces contenus sont répartis dans différents types de playlists (sauf exception)
 
 ---
 
-## 🔵 Par où commencer ?
+## Par où commencer ?
 
 Si vous venez de découvrir la chaîne ou que vous cherchez par où commencer, vous pouvez démarrer avec les vidéos de cette playlist (ne les négligez pas) :
 
-💠 [**IMMERSION**](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFCXYx-lSdqtliCV4FqZHeA)
+❤️‍🔥 [**IMMERSION**](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFCXYx-lSdqtliCV4FqZHeA)
 
 Elle est le point de départ de tout et vous donnera les « outils » pour apprendre dans les meilleurs conditions, en utilisant au mieux vos facultés. Ensuite, laissez libre cours à vos préférences et piochez dans ce qui vous intéresse, à titre personnel ou professionel.
 
 ---
 
-## 🔵 Vidéos disponibles
+## Vidéos disponibles
 
 |NOM|CONTENUS|DESCRIPTION|-|
 |--:|:--|:--|:--:|
@@ -42,7 +42,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 
 ---
 
-## 🔵 Logiciels abordés
+## Logiciels abordés
 
 > _Parmis les applications, certaines auront une playlist complète dédiée, tandis que d'autres seront montrées uniquement sur certaines vidéos._
 
@@ -99,7 +99,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 
 ---
 
-## 🔵 Contenus à venir
+## Contenus à venir
 
 > _Cette liste est sujette à modification, à tout moment._
 
@@ -194,6 +194,6 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
     </ul>
 </details>
 
-## 🔵 Anciens contenus
+## Anciens contenus
 
 Les anciennes vidéos (avant le changement de nom de la chaîne) sont centralisées sur [ce dépôt](https://github.com/jasonchampagne/FormationVideo).
