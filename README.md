@@ -30,7 +30,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 
 ## 🔵 Vidéos disponibles
 
-|NOM|CONTENUS|DESCRIPTION|\\|
+|NOM|CONTENUS|DESCRIPTION|-|
 |--:|:--|:--|:--:|
 |**Cybersécurité**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGZldbRbCNrHSTuSIg55W6F)|Phases d'intrusion et techniques de défense face aux menaces et vulnérabilités des applications, matériels, réseaux et systèmes||
 |**Hostinger**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF_WGMhMpYeE9OIvnjml8dJ)|Vidéos sponsorisées autour de l'hébergeur Hostinger, recommandé par WordPress||
