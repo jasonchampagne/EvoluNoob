@@ -30,8 +30,8 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 
 ## Vidéos disponibles
 
-> 🟣Conceptes théoriques / 🔴Langues / 🔵Langages informatiques / 🟢Applications / 🟡Bibliothèques & cadriciels<br>
-> 🟠Gestionnaires de contenus (_CMS_) / 🟤Plateformes / ⚪Divers
+> 🟣Conceptes théoriques / 🔴Langues / 🔵Langages informatiques / 🟢Applications<br>
+> 🟡Bibliothèques & cadriciels / 🟠Gestionnaires de contenus (_CMS_) / 🟤Plateformes / ⚪Divers
 
 |NOM|CONTENUS|DESCRIPTION|-|
 |--:|:--|:--|:--:|
