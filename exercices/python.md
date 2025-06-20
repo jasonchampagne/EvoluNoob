@@ -29,4 +29,4 @@
    + `True` (pour indiquer qu'un compte est bloqué)
 2. Afficher le nom du ninja puis le type de la variable contenant le taux de TVA
 3. Le nom du célèbre ninja doit être changé en `Naruto Uzumaki`, comment procéder ?
-4. Transformer la variable contenant son nom en une liste
+4. Convertir la variable contenant son nom en une liste
