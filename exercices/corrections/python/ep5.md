@@ -30,7 +30,7 @@ print(type(VAT_RATE))
 ninja_name = "Naruto Uzumaki"
 ```
 
-## Transformer la variable contenant son nom en une liste
+## Convertir la variable contenant son nom en une liste
 
 ```python
 ninja_name = list(ninja_name)
