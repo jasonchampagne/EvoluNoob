@@ -1,23 +1,5 @@
 # Python - exercices
 
-## Introduction - EP1
-
-Pas d'exercices
-
----
-
-## Installation de l'interpréteur - EP2
-
-Pas d'exercices
-
----
-
-## Premier programme - EP3
-
-Pas d'exercices
-
----
-
 ## Types de données - EP4
 
 > ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep4.md)
