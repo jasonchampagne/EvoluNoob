@@ -53,3 +53,15 @@ J'apprends à programmer en :
 ```
 Aujourd'hui à <nom_de_la_ville> il fait <température> degrés.
 ```
+
+3. Afficher des animaux par ordre croissant de taille :
+
+```python
+a1 = "chat"
+a2 = "ours"
+a3 = "baleine"
+a4 = "fourmi"
+a5 = "moineau"
+
+# Afficher sous la forme : fourmi < moineau < chat ...
+```
