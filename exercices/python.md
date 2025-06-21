@@ -37,7 +37,7 @@
 
 > ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep6.md)
 
-1. Afficher le texte suivant en respectant son formatage (espaces compris)
+1. Afficher un texte en respectant son formatage
 
 ```
 ---------- EvoluNoob ----------
