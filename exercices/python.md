@@ -46,7 +46,7 @@ J'apprends à programmer en :
 -------------------------------
 ```
 
-2. Afficher un texte en mémorisant les données suivantes dans des variables :
+2. Afficher un texte en mémorisant des données dans des variables :
     + `Paris` (un nom de ville)
     + `34` (une température)
 
