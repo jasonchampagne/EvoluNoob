@@ -51,5 +51,5 @@ J'apprends à programmer en :
     + `34` (une température)
 
 ```
-Aujourd'hui à <nom_de_la_ville>, il fait <température>°C.
+Aujourd'hui à <nom_de_la_ville>, il fait <température> degrés.
 ```
