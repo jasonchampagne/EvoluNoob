@@ -27,7 +27,6 @@ a3 = "baleine"
 a4 = "fourmi"
 a5 = "moineau"
 
-# Afficher sous la forme :
-# fourmi < moineau < chat < ours < baleine
+# Afficher sous la forme : fourmi < moineau < chat < ours < baleine
 print(a4, a5, a1, a2, a3, sep = ' < ')
 ```
