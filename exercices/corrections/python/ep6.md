@@ -1,6 +1,6 @@
 # Python - corrigé des exercices (EP6)
 
-## Afficher un texte en respectant son formatage (espaces compris)
+## Afficher un texte en respectant son formatage
 
 ```python
 print("---------- EvoluNoob ----------")
