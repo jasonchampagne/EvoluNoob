@@ -37,11 +37,19 @@
 
 > ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep6.md)
 
-1. Afficher un texte en respectant son formatage
+1. Afficher un texte en respectant son formatage :
 
 ```
 ---------- EvoluNoob ----------
 J'apprends à programmer en :
     - Python
 -------------------------------
+```
+
+2. Afficher un texte en mémorisant les données suivantes dans des variables :
+    + `Paris` (un nom de ville)
+    + `34` (une température)
+
+```
+Aujourd'hui à <nom_de_la_ville>, il fait <température>°C.
 ```
