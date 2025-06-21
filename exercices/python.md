@@ -30,3 +30,7 @@
 2. Afficher le nom du ninja puis le type de la variable contenant le taux de TVA
 3. Le nom du célèbre ninja doit être changé en `Naruto Uzumaki`, comment procéder ?
 4. Convertir la variable contenant son nom en une liste
+
+## Affichage de texte - EP6
+
+> ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep6.md)
