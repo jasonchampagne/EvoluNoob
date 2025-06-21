@@ -31,6 +31,17 @@
 3. Le nom du célèbre ninja doit être changé en `Naruto Uzumaki`, comment procéder ?
 4. Convertir la variable contenant son nom en une liste
 
+---
+
 ## Affichage de texte - EP6
 
 > ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep6.md)
+
+1. Afficher le texte suivant en respectant son formatage (espaces compris)
+
+```
+---------- EvoluNoob ----------
+J'apprends à programmer en :
+    - Python
+-------------------------------
+```
