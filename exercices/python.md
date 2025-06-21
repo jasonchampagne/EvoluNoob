@@ -64,5 +64,4 @@ a4 = "fourmi"
 a5 = "moineau"
 
 # Afficher sous la forme : fourmi < moineau < chat < ours < baleine
-# fourmi < moineau < chat < ours < baleine
 ```
