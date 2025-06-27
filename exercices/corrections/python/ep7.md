@@ -13,6 +13,6 @@ print("Ton prénom est", firstname)
 + On peut d'ailleurs vérifier ces derniers avec ce code :
 
 ```python
-print(type(n1)) # type "str"
-print(type(n2)) # type "str"
+print(type(n1)) # affiche <class 'str'>
+print(type(n2)) # affiche <class 'str'>
 ```
