@@ -6,3 +6,7 @@
 firstname = input("Comment t'appelles-tu ? ")
 print("Ton prénom est", firstname)
 ```
+
+## Recopiez et exécutez un programme puis expliquez son résultat
+
++ Le programme n'a pas fait la somme des deux nombres parce que la fonction `input()` convertit les données lues en chaînes de caractères (type `str`).
