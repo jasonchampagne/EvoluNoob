@@ -74,3 +74,12 @@ a5 = "moineau"
 > ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep7.md)
 
 1. Demander à l'utilisateur de saisir son prénom, puis l'afficher.
+2. Recopiez et exécutez ce programme puis expliquez son résultat :
+
+```python
+n1 = input("Saisir un premier nombre entier : ")
+n2 = input("Saisir un deuxième nombre entier : ")
+
+sum_numbers = n1 + n2
+print("La somme de", n1, "+", n2, "est", sum_numbers)
+```
