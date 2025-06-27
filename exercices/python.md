@@ -66,3 +66,11 @@ a5 = "moineau"
 # Afficher sous la forme : fourmi < moineau < chat < ours < baleine
 # print()
 ```
+
+---
+
+## Lecture au clavier - EP7
+
+> ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep7.md)
+
+1. Demander à l'utilisateur de saisir son prénom, puis l'afficher.
