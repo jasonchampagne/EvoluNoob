@@ -25,7 +25,7 @@
 
 1. Déclarer autant de variables que nécessaire pour mémoriser les informations suivantes :
    + `Naruto` (le nom d'un ninja devenu célèbre)
-   + `20.0` (un montant de TVA, une constante)
+   + `20.0` (un taux de TVA, une constante)
    + `True` (pour indiquer qu'un compte est bloqué)
 2. Afficher le nom du ninja puis le type de la variable contenant le taux de TVA
 3. Le nom du célèbre ninja doit être changé en `Naruto Uzumaki`, comment procéder ?
