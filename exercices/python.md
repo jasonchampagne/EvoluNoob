@@ -108,3 +108,14 @@ circle_perimeter =
 
 print("Périmètre d'un cercle de rayon", radius, ":", circle_perimeter)
 ```
+
+3. Comparer deux nombres entiers :
+
+```python
+n1 = input("Saisir un premier nombre : ")
+n2 = input("Saisir un second nombre : ")
+
+result = 
+
+print("n1 < n2 ?", result)
+```
