@@ -83,3 +83,11 @@ n2 = input("Saisir un deuxième nombre entier : ")
 sum_numbers = n1 + n2
 print("La somme de", n1, "+", n2, "est", sum_numbers)
 ```
+
+---
+
+## Opérateurs - EP8
+
+> ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep8.md)
+
+À venir...
