@@ -98,3 +98,13 @@ farenheit_temperature =
 
 print(celcius_temperature, "°C =", farenheit_temperature, "°F")
 ```
+
+2. Calculer le périmètre d'un cercle
+
+```python
+PI = 3.14
+radius = 15
+circle_perimeter =
+
+print("Périmètre d'un cercle de rayon", radius, ":", circle_perimeter)
+```
