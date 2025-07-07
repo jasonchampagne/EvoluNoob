@@ -7,7 +7,7 @@
 ninja_name = "Naruto"
 ```
 
-+ `20.0` (un montant de TVA, une constante)
++ `20.0` (un taux de TVA, une constante)
 ```python
 VAT_RATE = 20.0 # par convention, le nom est en majuscule pour indiquer qu'il s'agit d'une constante
 ```
