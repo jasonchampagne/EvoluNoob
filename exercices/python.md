@@ -90,7 +90,7 @@ print("La somme de", n1, "+", n2, "est", sum_numbers)
 
 > ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep8.md)
 
-1. Convertir une température de Celcius à Fahrenheit
+1. Convertir une température de Celcius à Fahrenheit :
 
 ```python
 celcius_temperature = 31
@@ -99,7 +99,7 @@ farenheit_temperature =
 print(celcius_temperature, "°C =", farenheit_temperature, "°F")
 ```
 
-2. Calculer le périmètre d'un cercle
+2. Calculer le périmètre d'un cercle :
 
 ```python
 PI = 3.14
