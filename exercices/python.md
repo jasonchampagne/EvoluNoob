@@ -115,6 +115,7 @@ print("Périmètre d'un cercle de rayon", radius, ":", circle_perimeter)
 n1 = input("Saisir un premier nombre : ")
 n2 = input("Saisir un second nombre : ")
 
+# n1 est-il strictement inférieur à n2 ?
 result = 
 
 print("n1 < n2 ?", result)
