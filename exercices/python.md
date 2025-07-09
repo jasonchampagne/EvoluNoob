@@ -1,5 +1,14 @@
 # Python - exercices
 
+> **SOMMAIRE**
+> + [Types de données - EP4](#)
+> + [Variables - EP5](#)
+> + [Affichage de texte - EP6](#)
+> + [Lecture au clavier - EP7](#)
+> + [Opérateurs - EP8](#)
+
+---
+
 ## Types de données - EP4
 
 > ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep4.md)
