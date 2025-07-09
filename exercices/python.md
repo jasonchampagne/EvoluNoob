@@ -1,9 +1,9 @@
 # Python - exercices
 
 > **SOMMAIRE**
-> + [Types de données - EP4](#)
-> + [Variables - EP5](#)
-> + [Affichage de texte - EP6](#)
+> + [Types de données - EP4](#types-de-données---ep4)
+> + [Variables - EP5](#variables---ep5)
+> + [Affichage de texte - EP6](#affichage-de-texte---ep6)
 > + [Lecture au clavier - EP7](#lecture-au-clavier---ep7)
 > + [Opérateurs - EP8](#opérateurs---ep8)
 
