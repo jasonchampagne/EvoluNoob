@@ -4,8 +4,8 @@
 > + [Types de données - EP4](#)
 > + [Variables - EP5](#)
 > + [Affichage de texte - EP6](#)
-> + [Lecture au clavier - EP7](#)
-> + [Opérateurs - EP8](#)
+> + [Lecture au clavier - EP7](#lecture-au-clavier---ep7)
+> + [Opérateurs - EP8](#opérateurs---ep8)
 
 ---
 
