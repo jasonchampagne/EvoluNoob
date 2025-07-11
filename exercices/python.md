@@ -6,7 +6,7 @@
 > + [EP6 - affichage de texte](#affichage-de-texte---ep6)
 > + [EP7 - lecture au clavier](#lecture-au-clavier---ep7)
 > + [EP8 - opérateurs](#opérateurs---ep8)
-> + [EP9 - conditions](#condition---ep9)
+> + [EP9 - conditions](#conditions---ep9)
 
 ---
 
