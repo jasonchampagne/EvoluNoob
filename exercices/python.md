@@ -6,6 +6,7 @@
 > + [EP6 - affichage de texte](#affichage-de-texte---ep6)
 > + [EP7 - lecture au clavier](#lecture-au-clavier---ep7)
 > + [EP8 - opérateurs](#opérateurs---ep8)
+> + [EP9 - conditions](#condition---ep9)
 
 ---
 
@@ -128,3 +129,9 @@ result =
 
 print("n1 < n2 ?", result)
 ```
+
+---
+
+## Conditions - EP9
+
+> ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep9.md)
