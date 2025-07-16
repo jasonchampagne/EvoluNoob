@@ -1,3 +1,3 @@
-# C - exercices
+# Exercices en C
 
 À venir...
