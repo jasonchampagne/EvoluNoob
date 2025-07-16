@@ -1,4 +1,4 @@
-# Python - exercices
+# Exercices en Python
 
 > **SOMMAIRE**
 > + [EP4 - types de données](#types-de-données---ep4)
