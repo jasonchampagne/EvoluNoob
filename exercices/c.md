@@ -1,1 +1,3 @@
-# C
+# C - exercices
+
+À venir...
