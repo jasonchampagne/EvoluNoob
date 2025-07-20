@@ -7,6 +7,8 @@
 > + [EP7 - lecture au clavier](#lecture-au-clavier---ep7)
 > + [EP8 - opérateurs](#opérateurs---ep8)
 > + [EP9 - conditions](#conditions---ep9)
+> + [EP10 - boucles](#boucles---ep10)
+> + [EP11 - fonctions](#fonctions---ep11)
 
 ---
 
@@ -135,5 +137,21 @@ print("n1 < n2 ?", result)
 ## Conditions - EP9
 
 > ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep9.md)
+
+À venir...
+
+---
+
+## Boucles - EP10
+
+> ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep10.md)
+
+À venir...
+
+---
+
+## Fonctions - EP11
+
+> ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep11.md)
 
 À venir...
