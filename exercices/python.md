@@ -14,7 +14,7 @@
 
 ## Types de données - EP4
 
-> ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep4.md)
+> ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep04.md)
 
 1. Choisir un type valide pour manipuler les données suivantes :
     + prénom d'une personne
@@ -33,7 +33,7 @@
 
 ## Variables - EP5
 
-> ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep5.md)
+> ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep05.md)
 
 1. Déclarer autant de variables que nécessaire pour mémoriser les informations suivantes :
    + `Naruto` (le nom d'un ninja devenu célèbre)
@@ -47,7 +47,7 @@
 
 ## Affichage de texte - EP6
 
-> ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep6.md)
+> ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep06.md)
 
 1. Afficher un texte en respectant son formatage :
 
@@ -83,7 +83,7 @@ a5 = "moineau"
 
 ## Lecture au clavier - EP7
 
-> ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep7.md)
+> ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep07.md)
 
 1. Demander à l'utilisateur de saisir son prénom, puis l'afficher.
 2. Recopier et exécuter un programme, puis expliquer son résultat :
@@ -100,7 +100,7 @@ print("La somme de", n1, "+", n2, "est", sum_numbers)
 
 ## Opérateurs - EP8
 
-> ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep8.md)
+> ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep08.md)
 
 1. Convertir une température de Celcius à Fahrenheit :
 
@@ -136,7 +136,7 @@ print("n1 < n2 ?", result)
 
 ## Conditions - EP9
 
-> ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep9.md)
+> ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep09.md)
 
 À venir...
 
