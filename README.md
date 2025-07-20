@@ -73,6 +73,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
         <li>Edge</li>
         <li>FileZilla</li>
         <li>Firefox</li>
+        <li>GDB</li>
         <li>GIMP</li>
         <li>Godot</li>
         <li>KeeWeb</li>
