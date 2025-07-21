@@ -138,7 +138,25 @@ print("n1 < n2 ?", result)
 
 > ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep09.md)
 
-À venir...
+1. Créer un jeu interactif, où l'utilisateur choisit un nom pour son personnage et est amené à faire des choix au cours de son aventure (en tapant 1, 2, ...) :
+
++ _Vous vous réveillez au bord d'une forêt mystérieuse, avec la vision troublée et le soleil qui commence à se coucher. Vous devez décider rapidement où aller._
+    + (si l'aventurier se rend dans la forêt sombre)
+        + _En pénétrant dans la forêt, vous entendez des bruits étranges. Vous arrivez à une clairière où deux chemins se présentent à vous._
+            + (si l'aventurier prend le chemin de gauche qui semble mener à une lumière vacillante)
+                + _Vous suivez le chemin et découvrez une petite cabane avec une lumière à l'intérieur. En entrant, vous trouvez un vieil homme qui vous offrir un présent._
+                    + (si l'aventurier accepte le cadeau)
+                        + _Vous acceptez le cadeau du vieil homme et découvrez qu'il s'agit d'un parchemin magique qui vous guide hors de la forêt en toute sécurité, et termine votre aventure.
+                    + (si l'aventurier le refuse)
+                        + _Vous refusez le cadeau de l'inconnu, mais vous voilà perdu, pour toujours..._
+                + (si l'aventurier prend le chemin de droite où l'on entend un léger clapotis)
+                    + _À mesure que vous avancez, votre vision se trouve davantage, et tout devient noir..._
+    + (si l'aventurier suit le sentier qui longe la rivière)
+        + _Vous suivez le sentier et arrivez à un carrefour._
+            + (si l'aventurier veut aller vers une colline visible)
+                + _En montant la colline, vous trouvez un magnifique point de vue pour camper, en espérant retrouver votre chemin dès l'aube._
+            + (si l'aventurier préfère se diriger vers le petit village)
+                + _Vous arrivez au village, mais l'endroit est désert, quand soudain, une vieille arrive !_
 
 ---
 
