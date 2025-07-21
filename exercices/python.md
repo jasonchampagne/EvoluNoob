@@ -146,7 +146,7 @@ print("n1 < n2 ?", result)
             + (si l'aventurier prend le chemin de gauche qui semble mener à une lumière vacillante)
                 + _Vous suivez le chemin et découvrez une petite cabane avec une lumière à l'intérieur. En entrant, vous trouvez un vieil homme qui vous offrir un présent._
                     + (si l'aventurier accepte le cadeau)
-                        + _Vous acceptez le cadeau du vieil homme et découvrez qu'il s'agit d'un parchemin magique qui vous guide hors de la forêt en toute sécurité, et termine votre aventure.
+                        + _Vous acceptez le cadeau du vieil homme et découvrez qu'il s'agit d'un parchemin magique qui vous guide hors de la forêt en toute sécurité, et termine votre aventure._
                     + (si l'aventurier le refuse)
                         + _Vous refusez le cadeau de l'inconnu, mais vous voilà perdu, pour toujours..._
                 + (si l'aventurier prend le chemin de droite où l'on entend un léger clapotis)
