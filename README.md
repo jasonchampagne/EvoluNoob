@@ -204,4 +204,4 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 
 ## Anciens contenus
 
-Les anciennes vidéos (avant le changement de nom de la chaîne) sont centralisées sur [ce dépôt](https://github.com/jasonchampagne/FormationVideo).
+Les anciennes vidéos (avant le changement de nom de la chaîne) sont centralisées sur le [dépôt FormationVidéo](https://github.com/jasonchampagne/FormationVideo).
