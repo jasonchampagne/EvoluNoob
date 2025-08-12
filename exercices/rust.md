@@ -1,0 +1,3 @@
+# Exercices en Rust
+
+À venir...
