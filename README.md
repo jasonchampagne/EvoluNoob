@@ -38,6 +38,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |**Anatomie**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF41FrN33BJWLEK1t5yhB3W)|Étude pour les artistes de la structure et des formes du corps humain, du corps animal et d'anatomies créatives|🟣|
 |**C**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHHRAZc013y4xNA6Y4B1CWP)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/c.md)|Langage de programmation historique, conçu pour écrire des applications à hautes performances et réputé dans les systèmes embarqués ou les interactions avec le matériel informatique|🔵|
 |**Cybersécurité**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGZldbRbCNrHSTuSIg55W6F)|Phases d'intrusion et techniques de défense face aux menaces et vulnérabilités des applications, matériels, réseaux et systèmes|🟣|
+|**Docker**|🔗[playlist](#)|Plateforme d'exécution d'applications sous forme de conteneurs isolés|🟢|
 |**GCC**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHgKutFx0P7cr0jZud1YzA2)|Collection de compilateurs pour des langages de programmation comme C, C++, Ada, Fortran ou même COBOL|🟢|
 |**Hostinger**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF_WGMhMpYeE9OIvnjml8dJ)|Vidéos sponsorisées autour de l'hébergeur Hostinger, recommandé par WordPress|⚪|
 |**Python**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGqOK0slilcWpMdlJe7HGSw)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/python.md)|Langage de programmation réputé accessible pour les débutants et utilisé dans de nombreux domaines, allant de l'automatisation de tâches à l'intelligence artificielle|🔵|
@@ -134,7 +135,6 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
         <li>Dessin</li>
         <li>Discord</li>
         <li>Django</li>
-        <li>Docker</li>
         <li>Écriture</li>
         <li>Electron</li>
         <li>Entreprenariat (statuts professionnels, création d'activité, gestion fiscale, ...)</li>
