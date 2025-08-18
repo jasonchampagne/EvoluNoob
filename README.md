@@ -34,7 +34,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 > 🟡Bibliothèques & cadriciels | 🟠Gestionnaires de contenus (_CMS_) | 🟤Plateformes | ⚪Divers
 
 |NOM|CONTENUS|DESCRIPTION|-|
-|--:|:--|:--|:--:|
+|----------:|:--|:--|:--:|
 |**Algorithmie**|_à venir_||🟣|
 |**Anatomie**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF41FrN33BJWLEK1t5yhB3W)|Étude pour les artistes de la structure et des formes du corps humain, du corps animal et d'anatomies créatives|🟣|
 |**Assembleur**|_à venir_||🔵|
