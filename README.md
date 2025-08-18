@@ -35,30 +35,30 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 
 |NOM|CONTENUS|DESCRIPTION|-|
 |--:|:--|:--|:--:|
-|**Algorithmie**|_Nouvelle version<br>à venir_||🟣|
+|**Algorithmie**|_à venir_||🟣|
 |**Anatomie**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF41FrN33BJWLEK1t5yhB3W)|Étude pour les artistes de la structure et des formes du corps humain, du corps animal et d'anatomies créatives|🟣|
-|**Assembleur**|_Nouvelle version<br>à venir_||🔵|
+|**Assembleur**|_à venir_||🔵|
 |**C**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHHRAZc013y4xNA6Y4B1CWP)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/c.md)|Langage de programmation historique, conçu pour écrire des applications à hautes performances et réputé dans les systèmes embarqués ou les interactions avec le matériel informatique|🔵|
-|**C++**|_Nouvelle version<br>à venir_||🔵|
-|**C#**|_Nouvelle version<br>à venir_||🔵|
-|**CSS**|_Nouvelle version<br>à venir_||🔵|
+|**C++**|_à venir_||🔵|
+|**C#**|_à venir_||🔵|
+|**CSS**|_à venir_||🔵|
 |**Cybersécurité**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGZldbRbCNrHSTuSIg55W6F)|Phases d'intrusion et techniques de défense face aux menaces et vulnérabilités des applications, matériels, réseaux et systèmes|🟣|
-|**Django**|_Nouvelle version<br>à venir_||🟡|
+|**Django**|_à venir_||🟡|
 |**Docker**|🔗[playlist](#)|Plateforme d'exécution d'applications dans des conteneurs légers et isolés, garantissant un fonctionnement uniforme|🟢|
 |**GCC**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHgKutFx0P7cr0jZud1YzA2)|Collection de compilateurs pour des langages de programmation comme C, C++, Ada, Fortran ou même COBOL|🟢|
-|**GNU/Linux**|_Nouvelle version<br>à venir_||🟢|
+|**GNU/Linux**|_à venir_||🟢|
 |**Hostinger**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF_WGMhMpYeE9OIvnjml8dJ)|Vidéos sponsorisées autour de l'hébergeur Hostinger, recommandé par WordPress|⚪|
-|**HTML**|_Nouvelle version<br>à venir_||🔵|
-|**Java**|_Nouvelle version<br>à venir_||🔵|
-|**JavaFX**|_Nouvelle version<br>à venir_||🟡|
-|**JavaScript**|_Nouvelle version<br>à venir_||🔵|
-|**PHP**|_Nouvelle version<br>à venir_||🔵|
+|**HTML**|_à venir_||🔵|
+|**Java**|_à venir_||🔵|
+|**JavaFX**|_à venir_||🟡|
+|**JavaScript**|_à venir_||🔵|
+|**PHP**|_à venir_||🔵|
 |**Python**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGqOK0slilcWpMdlJe7HGSw)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/python.md)|Langage de programmation réputé accessible pour les débutants et utilisé dans de nombreux domaines, allant de l'automatisation de tâches à l'intelligence artificielle|🔵|
 |**Rust**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHljymBnewGUGOZbkWknIz3)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/rust.md)|Langage de programmation alternatif au C, offrant des garanties en matière de sécurité de la mémoire et des accès concurrents|🔵|
-|**SQL**|_Nouvelle version<br>à venir_||🔵|
+|**SQL**|_à venir_||🔵|
 |**SQLPage**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGgDN4G0_KpqLJTUwewfQmE)|Cadriciel de création d'applications web générées à partir de code SQL et utilisant des bases de données traditionnelles|🟡|
 |**Visual Studio Code**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFzgjFG8ac8LEHKPbE8loan)|Éditeur de code extensible pour la programmation et le développement web|🟢|
-|**Windows**|_Nouvelle version<br>à venir_||🟢|
+|**Windows**|_à venir_||🟢|
 |**Wondershare**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEJaW1-RnYtt5ofJfKU948_)|Vidéos sponsorisées autour de différents logiciels (DemoCreator, EdrawMax, Filmora, PDFelement, Recoverit, Uniconverter)|⚪|
 |**WordPress**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGZREbxMZqI-tf-1NaFCW3A)<br>🔗[tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGmQHHN-36CiazjL6AJ3jna)|Vidéos sponsorisées autour du système de gestion de contenu qui permet de déployer un site web (blog, boutique e-commerce, portfolio...)|🟠|
 
