@@ -43,12 +43,14 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |**C#**|_Nouvelle version<br>à venir_||🔵|
 |**CSS**|_Nouvelle version<br>à venir_||🔵|
 |**Cybersécurité**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGZldbRbCNrHSTuSIg55W6F)|Phases d'intrusion et techniques de défense face aux menaces et vulnérabilités des applications, matériels, réseaux et systèmes|🟣|
+|**Django**|_Nouvelle version<br>à venir_||🟡|
 |**Docker**|🔗[playlist](#)|Plateforme d'exécution d'applications dans des conteneurs légers et isolés, garantissant un fonctionnement uniforme|🟢|
 |**GCC**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHgKutFx0P7cr0jZud1YzA2)|Collection de compilateurs pour des langages de programmation comme C, C++, Ada, Fortran ou même COBOL|🟢|
 |**GNU/Linux**|_Nouvelle version<br>à venir_||🟢|
 |**Hostinger**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF_WGMhMpYeE9OIvnjml8dJ)|Vidéos sponsorisées autour de l'hébergeur Hostinger, recommandé par WordPress|⚪|
 |**HTML**|_Nouvelle version<br>à venir_||🔵|
 |**Java**|_Nouvelle version<br>à venir_||🔵|
+|**JavaFX**|_Nouvelle version<br>à venir_||🟡|
 |**JavaScript**|_Nouvelle version<br>à venir_||🔵|
 |**PHP**|_Nouvelle version<br>à venir_||🔵|
 |**Python**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGqOK0slilcWpMdlJe7HGSw)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/python.md)|Langage de programmation réputé accessible pour les débutants et utilisé dans de nombreux domaines, allant de l'automatisation de tâches à l'intelligence artificielle|🔵|
