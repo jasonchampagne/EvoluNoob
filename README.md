@@ -44,7 +44,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |**CSS**|_à venir_||🔵|
 |**Cybersécurité**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGZldbRbCNrHSTuSIg55W6F)|Phases d'intrusion et techniques de défense face aux menaces et vulnérabilités des applications, matériels, réseaux et systèmes|🟣|
 |**Django**|_à venir_||🟡|
-|**Docker**|🔗[playlist](#)|Plateforme d'exécution d'applications dans des conteneurs légers et isolés, garantissant un fonctionnement uniforme|🟢|
+|**Docker**|🔗[playlist](#)|Plateforme de développement, déploiement et exécution d'applications dans des conteneurs légers et isolés|🟢|
 |**GCC**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHgKutFx0P7cr0jZud1YzA2)|Collection de compilateurs pour des langages de programmation comme C, C++, Ada, Fortran ou même COBOL|🟢|
 |**GNU/Linux**|_à venir_||🟢|
 |**Hostinger**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF_WGMhMpYeE9OIvnjml8dJ)|Vidéos sponsorisées autour de l'hébergeur Hostinger, recommandé par WordPress|⚪|
