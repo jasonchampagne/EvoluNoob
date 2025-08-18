@@ -129,12 +129,10 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
     <br>
     <ul>
         <li>3D</li>
-        <li>Algorithmie</li>
         <li>Anglais</li>
         <li>Android</li>
         <li>Angular</li>
         <li>Architecture</li>
-        <li>Assembleur</li>
         <li>Bootstrap</li>
         <li>Chant</li>
         <li>Chinois</li>
@@ -143,21 +141,15 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
         <li>Dart</li>
         <li>Dessin</li>
         <li>Discord</li>
-        <li>Django</li>
         <li>Écriture</li>
         <li>Electron</li>
         <li>Entreprenariat (statuts professionnels, création d'activité, gestion fiscale, ...)</li>
         <li>Flutter</li>
         <li>Français</li>
-        <li>GNU/Linux</li>
         <li>Go</li>
         <li>Godot</li>
         <li>Haskell</li>
-        <li>HTML/CSS</li>
         <li>Japonais</li>
-        <li>Java</li>
-        <li>JavaFX</li>
-        <li>JavaScript</li>
         <li>Jeet Kune Do</li>
         <li>Jeu-vidéo (game design, level design, character design, ...)</li>
         <li>Joomla</li>
@@ -175,12 +167,10 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
         <li>MS Office (Word, Excel, PowerPoint)</li>
         <li>Node</li>
         <li>Photographie</li>
-        <li>PHP</li>
         <li>PHPBoost</li>
         <li>Piano</li>
         <li>Pixel-art</li>
         <li>Prestashop</li>
-        <li>Python</li>
         <li>Qt</li>
         <li>Raylib</li>
         <li>React</li>
@@ -189,11 +179,9 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
         <li>RPG Maker</li>
         <li>Ruby</li>
         <li>Ruby on Rails</li>
-        <li>Rust</li>
         <li>SDL</li>
         <li>SFML</li>
         <li>Spring</li>
-        <li>SQL</li>
         <li>Tai Chi</li>
         <li>Twitch</li>
         <li>TypeScript</li>
@@ -204,7 +192,6 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
         <li>Visual Novel Maker</li>
         <li>Vite</li>
         <li>Vue</li>
-        <li>Windows</li>
         <li>Wing Chun</li>
         <li>XML</li>
         <li>YouTube</li>
