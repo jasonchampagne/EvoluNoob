@@ -66,90 +66,50 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 
 ---
 
-## Logiciels abordés
-
-> _Parmis les applications, certaines auront une playlist complète dédiée, tandis que d'autres seront montrées uniquement sur certaines vidéos._
-
-<details>
-    <summary>Afficher/masquer la liste</summary>
-    <br>
-    <ul>
-        <li>Ableton Live</li>
-        <li>Affinity Photo</li>
-        <li>After Effects</li>
-        <li>Aseprite</li>
-        <li>Audacity</li>
-        <li>Beekeeper Studio</li>
-        <li>Blender</li>
-        <li>Bluestacks</li>
-        <li>Brave</li>
-        <li>CryENGINE | Lumberyard</li>
-        <li>Darktable</li>
-        <li>DaVinci Resolve (+ Fusion)</li>
-        <li>DBeaver</li>
-        <li>Discord</li>
-        <li>Eclipse</li>
-        <li>Edge</li>
-        <li>FileZilla</li>
-        <li>Firefox</li>
-        <li>GDB</li>
-        <li>GIMP</li>
-        <li>Godot</li>
-        <li>KeeWeb</li>
-        <li>Krita</li>
-        <li>LaTeX</li>
-        <li>LibreOffice</li>
-        <li>Lightroom</li>
-        <li>LMMS</li>
-        <li>LosslessCut</li>
-        <li>Maya</li>
-        <li>MS Office</li>
-        <li>Netbeans</li>
-        <li>Obsidian</li>
-        <li>OBS Studio</li>
-        <li>Photoshop</li>
-        <li>RawTherapee</li>
-        <li>REAPER</li>
-        <li>RPG Maker</li>
-        <li>Scene Builder</li>
-        <li>Studio One</li>
-        <li>Unity</li>
-        <li>Unreal Engine</li>
-        <li>VeraCrypt</li>
-        <li>VirtualBox</li>
-        <li>Visual Novel Maker</li>
-        <li>Visual Studio</li>
-    </ul>
-</details>
-
----
-
 ## Contenus à venir
 
-> _Cette liste est sujette à modification, à tout moment._
+> _NOTE : Concernant les applications, certaines auront une playlist complète dédiée, tandis que d'autres seront montrées uniquement sur certaines vidéos._
 
 <details>
     <summary>Afficher/masquer la liste</summary>
     <br>
     <ul>
         <li>3D</li>
+        <li>Ableton Live</li>
+        <li>Affinity Photo</li>
+        <li>After Effects</li>
         <li>Anglais</li>
         <li>Android</li>
         <li>Angular</li>
+        <li>Aseprite</li>
+        <li>Audacity</li>
         <li>Architecture</li>
+        <li>Beekeeper Studio</li>
+        <li>Blender</li>
+        <li>Bluestacks</li>
         <li>Bootstrap</li>
+        <li>Brave</li>
         <li>Chant</li>
         <li>Chinois</li>
         <li>Coréen</li>
-        <li>CryENGINE</li>
+        <li>CryENGINE | Lumberyard</li>
+        <li>Darktable</li>
         <li>Dart</li>
+        <li>DaVinci Resolve (+ Fusion)</li>
+        <li>DBeaver</li>
         <li>Dessin</li>
         <li>Discord</li>
+        <li>Eclipse</li>
         <li>Écriture</li>
+        <li>Edge</li>
         <li>Electron</li>
         <li>Entreprenariat (statuts professionnels, création d'activité, gestion fiscale, ...)</li>
         <li>Flutter</li>
         <li>Français</li>
+        <li>FileZilla</li>
+        <li>Firefox</li>
+        <li>GDB</li>
+        <li>GIMP</li>
         <li>Go</li>
         <li>Godot</li>
         <li>Haskell</li>
@@ -158,34 +118,48 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
         <li>Jeu-vidéo (game design, level design, character design, ...)</li>
         <li>Joomla</li>
         <li>Karaté</li>
+        <li>KeeWeb</li>
         <li>Kivy</li>
         <li>Kotlin</li>
+        <li>Krita</li>
         <li>Kung Fu</li>
         <li>Laravel</li>
         <li>LaTeX</li>
         <li>LibreOffice (Writer, Calc, Impress)</li>
+        <li>Lightroom</li>
+        <li>LMMS</li>
+        <li>LosslessCut</li>
         <li>LÖVE</li>
         <li>Lua</li>
+        <li>Maya</li>
         <li>Mixage & masteurisation</li>
         <li>Montage vidéo & effets spéciaux</li>
         <li>MS Office (Word, Excel, PowerPoint)</li>
+        <li>Netbeans</li>
         <li>Node</li>
+        <li>Obsidian</li>
+        <li>OBS Studio</li>
         <li>Photographie</li>
+        <li>Photoshop</li>
         <li>PHPBoost</li>
         <li>Piano</li>
         <li>Pixel-art</li>
         <li>Prestashop</li>
         <li>Qt</li>
+        <li>RawTherapee</li>
         <li>Raylib</li>
         <li>React</li>
+        <li>REAPER</li>
         <li>Ren'Py</li>
         <li>Réseaux</li>
         <li>RPG Maker</li>
         <li>Ruby</li>
         <li>Ruby on Rails</li>
+        <li>Scene Builder</li>
         <li>SDL</li>
         <li>SFML</li>
         <li>Spring</li>
+        <li>Studio One</li>
         <li>Tai Chi</li>
         <li>Twitch</li>
         <li>TypeScript</li>
@@ -193,7 +167,10 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
         <li>Unity</li>
         <li>Unreal Engine</li>
         <li>V</li>
+        <li>VeraCrypt</li>
+        <li>VirtualBox</li>
         <li>Visual Novel Maker</li>
+        <li>Visual Studio</li>
         <li>Vite</li>
         <li>Vue</li>
         <li>Wing Chun</li>
