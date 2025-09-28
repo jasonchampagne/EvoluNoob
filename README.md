@@ -63,6 +63,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |**Windows**|_à venir_||🟢|
 |**Wondershare**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEJaW1-RnYtt5ofJfKU948_)|Vidéos sponsorisées autour de différents logiciels (DemoCreator, EdrawMax, Filmora, PDFelement, Recoverit, Uniconverter)|⚪|
 |**WordPress**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGZREbxMZqI-tf-1NaFCW3A)<br>🔗[tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGmQHHN-36CiazjL6AJ3jna)|Vidéos sponsorisées autour du système de gestion de contenu qui permet de déployer un site web (blog, boutique e-commerce, portfolio...)|🟠|
+|**YouTube**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHIomLSawWMNMQNHEUiCFpn)|Plateforme en ligne pour la publication de vidéos monétisables grâce à la publicité et aux souscriptions|🟤|
 
 ---
 
@@ -175,7 +176,6 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
         <li>Vue</li>
         <li>Wing Chun</li>
         <li>XML</li>
-        <li>YouTube</li>
     </ul>
 </details>
 
