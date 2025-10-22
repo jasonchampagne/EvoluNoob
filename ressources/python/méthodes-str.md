@@ -9,6 +9,7 @@
 > + [Inverser les caractères majuscules et minuscules](#swapcase)
 > + [Centrer une chaîne dans une autre avec des caractères de remplissage](#center)
 > + [Compter le nombre d'occurences d'une chaîne dans une autre](#count)
+> + [Vérifier si une chaîne termine par une suite de caractères](#endswith)
 > + [Convertir une chaîne en séquence immuable d'octets (_bytes_)](#encode)
 
 ---
@@ -92,6 +93,17 @@ print(s.count(''))         # 33 (longueur de la chaîne)
 print(s.count('e'))        # 4
 print(s.count('y', 9))     # 1
 print(s.count('y', 3, 15)) # 0
+```
+
+## endswith
+
++ `str.endswith(suffix[, start[, end]])`
+
+```python
+s = "Programmer en Python"
+print(s.endswith('e'))          # False
+print(s.endswith("Python"))     # True
+print(s.endswith(("C", "C++"))) # False
 ```
 
 ## encode
