@@ -26,6 +26,7 @@
 > + [Vérifier si une chaîne est un identifiant valide en Python](#isidentifier)
 > + [Concaténer les chaînes d'un type itérable dans une autre chaîne](#join)
 > + [Remplacer une chaîne par une autre](#replace)
+> + [Supprimer les caractères de début et de fin d'une chaîne](#strip)
 > + [Convertir une chaîne en liste composée des portions de celle-ci](#split)
 > + [Convertir une chaîne en liste composée des lignes de celle-ci](#splitlines)
 > + [Convertir une chaîne en séquence immuable d'octets (_bytes_)](#encode)
@@ -357,6 +358,18 @@ print(name) # Programmer en Rust
 
 name = name.replace("Rust", "Python")
 print(name) # Programmer en Python
+```
+
+## strip
+
++ `str.strip(chars=None, /)`
+
+```python
+name = "    EvoluNoob  "
+print(name.strip())       # EvoluNoob
+
+name = "---:-NARUTO__;__"
+print(name.strip("-_:;")) # NARUTO
 ```
 
 ## split
