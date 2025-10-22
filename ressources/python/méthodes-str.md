@@ -55,7 +55,7 @@ print(s.center(50, '-')) # ----------------Titre du programme----------------
 
 ```python
 s = "Apprendre à programmer en Python"
-print(s.count(''))         # 33 = longueur de la chaîne
+print(s.count(''))         # 33 (longueur de la chaîne)
 print(s.count('e'))        # 4
 print(s.count('y', 9))     # 1
 print(s.count('y', 3, 15)) # 0
