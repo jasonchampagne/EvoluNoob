@@ -5,6 +5,7 @@
 > + [Mettre une chaîne en minuscule](#lower)
 > + [Mettre une chaîne en minuscule sans distinction de casse](#casefold)
 > + [Commencer une chaîne par une majuscule](#capitalize)
+> + [Inverser les caractères majuscules et minuscules](#swapcase)
 > + [Centrer une chaîne dans une autre avec des caractères de remplissage](#center)
 > + [Compter le nombre d'occurences d'une chaîne dans une autre](#count)
 
@@ -49,6 +50,15 @@ print(s.casefold()) # ein grosses haus
 ```python
 s = "chuck"
 print(s.capitalize()) # Chuck
+```
+
+## swapcase
+
++ `str.swapcase()`
+
+```python
+s = "Hello World"
+print(s.swapcase()) # hELLO wORLD
 ```
 
 ## center
