@@ -18,7 +18,7 @@
 > + [Vérifier si tous les caractères d'une chaîne sont des chiffres](#isdigit)
 > + [Vérifier si tous les caractères d'une chaîne sont numériques](#isnumeric)
 > + [Vérifier si tous les caractères d'une chaîne sont décimaux](#isdecimal)
-> + [Vérifier si la chaîne est un identifiant valide en Python](#isidentifier)
+> + [Vérifier si une chaîne est un identifiant valide en Python](#isidentifier)
 > + [Convertir une chaîne en séquence immuable d'octets (_bytes_)](#encode)
 > + [Formater une chaîne](#format)
 
