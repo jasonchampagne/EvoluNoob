@@ -24,6 +24,7 @@
 > + [Vérifier si tous les caractères d'une chaîne sont imprimables](#isprintable)
 > + [Vérifier si chaque mot d'une chaîne commence par une majuscule](#istitle)
 > + [Vérifier si une chaîne est un identifiant valide en Python](#isidentifier)
+> + [Concaténer les chaînes d'un type itérable dans une autre](#join)
 > + [Convertir une chaîne en séquence immuable d'octets (_bytes_)](#encode)
 > + [Formater une chaîne](#format)
 
@@ -329,6 +330,18 @@ print(s.isidentifier()) # True
 
 s = "0name"
 print(s.isidentifier()) # False
+```
+
+## join
+
++ `str.join(iterable, /)`
+
+```python
+letters = ["P", "y", "t", "h", "o", "n"]
+print("".join(letters))  # Python
+
+values = ("145", "36", "8")
+print("-".join(values)) # 145-36-8
 ```
 
 ## encode
