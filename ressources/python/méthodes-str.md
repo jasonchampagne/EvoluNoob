@@ -25,6 +25,7 @@
 > + [Vérifier si chaque mot d'une chaîne commence par une majuscule](#istitle)
 > + [Vérifier si une chaîne est un identifiant valide en Python](#isidentifier)
 > + [Concaténer les chaînes d'un type itérable dans une autre chaîne](#join)
+> + [Remplacer une chaîne par une autre](#replace)
 > + [Convertir une chaîne en séquence immuable d'octets (_bytes_)](#encode)
 > + [Formater une chaîne](#format)
 
@@ -342,6 +343,18 @@ print("".join(letters))  # Python
 
 values = ("145", "36", "8")
 print("-".join(values)) # 145-36-8
+```
+
+## replace
+
++ `str.replace(old, new, /, count=-1)`
+
+```python
+name = "Programmer en Rust"
+print(name) # Programmer en Rust
+
+name = name.replace("Rust", "Python")
+print(name) # Programmer en Python
 ```
 
 ## encode
