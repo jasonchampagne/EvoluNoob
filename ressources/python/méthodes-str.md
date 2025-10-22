@@ -1,10 +1,10 @@
 # Méthodes pour les chaînes de caractères (str)
 
 > **SOMMAIRE**
-> + [Commencer une chaîne par une majuscule](#capitalize)
 > + [Mettre une chaîne en majuscule](#upper)
 > + [Mettre une chaîne en minuscule](#lower)
 > + [Mettre une chaîne en minuscule sans distinction de casse](#casefold)
+> + [Commencer une chaîne par une majuscule](#capitalize)
 > + [Centrer une chaîne dans une autre avec des caractères de remplissage](#center)
 > + [Compter le nombre d'occurences d'une chaîne dans une autre](#count)
 
@@ -12,17 +12,6 @@
 
 > [!NOTE]
 > Une chaîne de caractères étant **immuable**, les méthodes s'appliquent sur une copie (qu'elle renvoie éventuellement) de celle-ci.
-
-## capitalize
-
-> _Met le premier caractère (ou première lettre du premier caractère) en majuscule et le reste en minuscule_
-
-+ `str.capitalize()`
-
-```python
-s = "chuck"
-print(s.capitalize()) # Chuck
-```
 
 ## upper
 
@@ -49,6 +38,17 @@ print(s.lower()) # evolunoob
 ```python
 s = "Ein Großes Haus"
 print(s.casefold()) # ein grosses haus
+```
+
+## capitalize
+
+> _Met le premier caractère (ou première lettre du premier caractère) en majuscule et le reste en minuscule_
+
++ `str.capitalize()`
+
+```python
+s = "chuck"
+print(s.capitalize()) # Chuck
 ```
 
 ## center
