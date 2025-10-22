@@ -97,9 +97,11 @@ print(s.count('y', 9))     # 1
 print(s.count('y', 3, 15)) # 0
 ```
 
-## find
+## find / index
 
 + `str.find(sub[, start[, end]])`
++ `str.index(sub[, start[, end]])`
+    + _Identique à `str.find()` mais lève une `ValueError` si la chaîne est introuvable_
 
 ```python
 s = "Python Python Python"
