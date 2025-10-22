@@ -9,6 +9,7 @@
 > + [Inverser les caractères majuscules et minuscules](#swapcase)
 > + [Centrer une chaîne dans une autre avec des caractères de remplissage](#center)
 > + [Compter le nombre d'occurences d'une chaîne dans une autre](#count)
+> + [Convertir une chaîne en séquence immuable d'octets (_bytes_)](#encode)
 
 ---
 
@@ -91,6 +92,17 @@ print(s.count(''))         # 33 (longueur de la chaîne)
 print(s.count('e'))        # 4
 print(s.count('y', 9))     # 1
 print(s.count('y', 3, 15)) # 0
+```
+
+## encode
+
++ `str.encode()`
+
+```python
+s = "Python"
+print(type(s)) # <class 'str'>
+s = s.encode()
+print(type(s)) # <class 'bytes'>
 ```
 
 ---
