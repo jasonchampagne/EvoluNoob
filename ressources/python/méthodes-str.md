@@ -18,6 +18,7 @@
 > _Met le premier caractère (ou première lettre du premier caractère) en majuscule et le reste en minuscule_
 
 ```python
+# str.capitalize()
 s = "chuck"
 print(s.capitalize()) # Chuck
 ```
@@ -25,6 +26,7 @@ print(s.capitalize()) # Chuck
 ## upper
 
 ```python
+# str.upper()
 s = "EvoluNoob"
 print(s.upper()) # EVOLUNOOB
 ```
@@ -32,6 +34,7 @@ print(s.upper()) # EVOLUNOOB
 ## lower
 
 ```python
+# str.lower()
 s = "EvoluNoob"
 print(s.lower()) # evolunoob
 ```
@@ -39,6 +42,7 @@ print(s.lower()) # evolunoob
 ## casefold
 
 ```python
+# str.casefold()
 s = "Ein Großes Haus"
 print(s.casefold()) # ein grosses haus
 ```
@@ -46,6 +50,7 @@ print(s.casefold()) # ein grosses haus
 ## center
 
 ```python
+# str.center(width, fillchar = ' ')
 s = "Titre du programme"
 print(s.center(50))      #                 Titre du programme
 print(s.center(50, '-')) # ----------------Titre du programme----------------
