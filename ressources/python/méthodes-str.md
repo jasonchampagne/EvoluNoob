@@ -6,6 +6,7 @@
 > + [Mettre une chaîne en minuscule](#strlower)
 > + [Mettre une chaîne en minuscule sans distinction de casse](#strcasefold)
 > + [Centrer une chaîne dans une autre avec des caractères de remplissage](#strcenter)
+> + [Compter le nombre d'occurences d'une chaîne dans une autre](#strcount)
 
 ---
 
@@ -48,6 +49,16 @@ print(s.casefold()) # ein grosses haus
 s = "Titre du programme"
 print(s.center(50))      #                 Titre du programme
 print(s.center(50, '-')) # ----------------Titre du programme----------------
+```
+
+## str.count()
+
+```python
+s = "Apprendre à programmer en Python"
+print(s.count(''))         # 33 = longueur de la chaîne
+print(s.count('e'))        # 4
+print(s.count('y', 9))     # 1
+print(s.count('y', 3, 15)) # 0
 ```
 
 ---
