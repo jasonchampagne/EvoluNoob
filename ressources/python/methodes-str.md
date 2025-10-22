@@ -189,7 +189,21 @@ print(s.isascii())       # False
 + `str.isdigit()`
 
 ```python
-ddd
+s = "1234"
+print("".isdigit()) # False (chaîne vide)
+print(s.isdigit())  # True
+
+s = "3.14"
+print(s.isdigit())  # False
+
+s = "⅓"
+print(s.isdigit())  # False
+
+s = "²"
+print(s.isdigit())  # True
+
+s = "四"
+print(s.isdigit())  # False
 ```
 
 ## isnumeric
@@ -197,7 +211,21 @@ ddd
 + `str.isnumeric()`
 
 ```python
-ddd
+s = "1234"
+print("".isnumeric()) # False (chaîne vide)
+print(s.isnumeric())  # True
+
+s = "3.14"
+print(s.isnumeric())  # False
+
+s = "⅓"
+print(s.isnumeric())  # True
+
+s = "²"
+print(s.isnumeric())  # True
+
+s = "四"
+print(s.isnumeric())  # True
 ```
 
 ## isdecimal
@@ -205,7 +233,21 @@ ddd
 + `str.isdecimal()`
 
 ```python
-ddd
+s = "1234"
+print("".isdecimal()) # False (chaîne vide)
+print(s.isdecimal())  # True
+
+s = "3.14"
+print(s.isdecimal())  # False
+
+s = "⅓"
+print(s.isdecimal())  # False
+
+s = "²"
+print(s.isdecimal())  # True
+
+s = "四"
+print(s.isdecimal())  # False
 ```
 
 ## encode
