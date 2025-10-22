@@ -100,9 +100,9 @@ print(s.count('y', 3, 15)) # 0
 
 ```python
 s = "Python"
-print(type(s)) # <class 'str'>
+print(f"Valeur : {s} / Type : {type(s)}") # Valeur : Python / Type : <class 'str'>
 s = s.encode()
-print(type(s)) # <class 'bytes'>
+print(f"Valeur : {s} / Type : {type(s)}") # Valeur : b'Python' / Type : <class 'bytes'>
 ```
 
 ---
