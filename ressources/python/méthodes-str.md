@@ -17,8 +17,9 @@
 
 > _Met le premier caractère (ou première lettre du premier caractère) en majuscule et le reste en minuscule_
 
++ `str.capitalize()`
+
 ```python
-# str.capitalize()
 s = "chuck"
 print(s.capitalize()) # Chuck
 ```
