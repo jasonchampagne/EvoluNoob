@@ -10,6 +10,8 @@
 > + [Centrer une chaîne dans une autre avec des caractères de remplissage](#center)
 > + [Compter le nombre d'occurences d'une chaîne dans une autre](#count)
 > + [Récupérer l'indice le plus bas d'une chaîne où se trouve une autre](#find--index)
+> + [Vérifier si tous les caractères d'une chaîne sont en majuscule](#isupper)
+> + [Vérifier si tous les caractères d'une chaîne sont en minuscule](#islower)
 > + [Vérifier si une chaîne commence par une suite de caractères](#startswith)
 > + [Vérifier si une chaîne se termine par une suite de caractères](#endswith)
 > + [Vérifier si tous les caractères d'une chaîne sont alphanumériques](#isalnum)
@@ -117,6 +119,30 @@ print(s.find("Python"))     # 0
 print(s.find("Python", 10)) # 14
 print(s.find("Java"))       # -1
 print(s.index("Java"))      # ValueError
+```
+
+## isupper
+
++ `str.isupper()`
+
+```python
+s = "EvoluNoob"
+print(s.isupper()) # False
+
+s = "EVOLUNOOB"
+print(s.isupper()) # True
+```
+
+## islower
+
++ `str.islower()`
+
+```python
+s = "EvoluNoob"
+print(s.islower()) # False
+
+s = "evolunoob"
+print(s.islower()) # True
 ```
 
 ## startswith
