@@ -12,6 +12,7 @@
 > + [Récupérer l'indice le plus bas d'une chaîne où se trouve une autre](#find)
 > + [Vérifier si une chaîne termine par une suite de caractères](#endswith)
 > + [Convertir une chaîne en séquence immuable d'octets (_bytes_)](#encode)
+> + [Formater une chaîne](#format)
 
 ---
 
@@ -128,6 +129,20 @@ s = "Python"
 print(f"Valeur : {s} / Type : {type(s)}") # Valeur : Python / Type : <class 'str'>
 s = s.encode()
 print(f"Valeur : {s} / Type : {type(s)}") # Valeur : b'Python' / Type : <class 'bytes'>
+```
+
+## format
+
++ `str.format(*args, **kwargs)`
+
+```python
+language_name = "Python"
+channel_name = "EvoluNoob"
+print("Apprenez à programmer en {} sur la chaîne {}".format(language_name, channel_name))
+
+x = 145
+y = 63
+print("Coordonnées x = {1}, y = {0}".format(y, x))
 ```
 
 ---
