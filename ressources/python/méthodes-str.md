@@ -1,12 +1,12 @@
 # Méthodes pour les chaînes de caractères (str)
 
-> [!NOTE]
-> Une chaîne de caractères étant **immuable**, les méthodes s'appliquent sur une copie (qu'elle renvoie éventuellement) de celle-ci.
-
 > **SOMMAIRE**
 > + [Démarrer une chaîne par une majuscule](#strcapitalize)
 
 ---
+
+> [!NOTE]
+> Une chaîne de caractères étant **immuable**, les méthodes s'appliquent sur une copie (qu'elle renvoie éventuellement) de celle-ci.
 
 ## str.capitalize()
 
