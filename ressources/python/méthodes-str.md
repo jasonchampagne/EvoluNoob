@@ -32,6 +32,7 @@
 > + [Convertir une chaîne en liste composée des lignes de celle-ci](#splitlines)
 > + [Convertir une chaîne en séquence immuable d'octets (_bytes_)](#encode)
 > + [Formater une chaîne](#format)
+> + [Autres méthodes...](#dautres-méthodes)
 
 ---
 
