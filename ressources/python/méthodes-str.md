@@ -4,8 +4,8 @@
 > + [Commencer une chaîne par une majuscule](#strcapitalize)
 > + [Mettre une chaîne en majuscule](#strupper)
 > + [Mettre une chaîne en minuscule](#strlower)
-> + [Mettre une chaîne en minuscule, sans distinction de casse](#strcasefold)
-> + [Centrer une chaîne dans une autre, avec des caractères de remplissage](#strcenter)
+> + [Mettre une chaîne en minuscule sans distinction de casse](#strcasefold)
+> + [Centrer une chaîne dans une autre avec des caractères de remplissage](#strcenter)
 
 ---
 
