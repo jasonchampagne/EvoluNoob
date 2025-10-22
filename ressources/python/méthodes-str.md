@@ -75,4 +75,4 @@ print(s.count('y', 3, 15)) # 0
 
 ---
 
-🔗 [Documentation Python](https://docs.python.org/fr/3.14/library/stdtypes.html#text-sequence-type-str)
+🔗 [Toutes les méthodes de la classe str](https://docs.python.org/fr/3.14/library/stdtypes.html#text-sequence-type-str)
