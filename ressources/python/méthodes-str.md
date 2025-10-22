@@ -26,38 +26,44 @@ print(s.capitalize()) # Chuck
 
 ## upper
 
++ `str.upper()`
+
 ```python
-# str.upper()
 s = "EvoluNoob"
 print(s.upper()) # EVOLUNOOB
 ```
 
 ## lower
 
++ `str.lower()`
+
 ```python
-# str.lower()
 s = "EvoluNoob"
 print(s.lower()) # evolunoob
 ```
 
 ## casefold
 
++ `str.casefold()`
+
 ```python
-# str.casefold()
 s = "Ein Großes Haus"
 print(s.casefold()) # ein grosses haus
 ```
 
 ## center
 
++ `str.center(width, fillchar = ' ')`
+
 ```python
-# str.center(width, fillchar = ' ')
 s = "Titre du programme"
 print(s.center(50))      #                 Titre du programme
 print(s.center(50, '-')) # ----------------Titre du programme----------------
 ```
 
 ## count
+
++ `str.count(sub[, start[, end]])`
 
 ```python
 s = "Apprendre à programmer en Python"
