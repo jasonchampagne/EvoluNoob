@@ -2,6 +2,9 @@
 
 > **SOMMAIRE**
 > + [Démarrer une chaîne par une majuscule](#strcapitalize)
+> + [Mettre une chaîne en majuscule](#strupper)
+> + [Mettre une chaîne en majuscule](#strlower)
+> + [Mettre une chaîne en minuscule, sans distinction de casse](#strcasefold)
 
 ---
 
@@ -16,6 +19,10 @@
 s = "chuck"
 print(s.capitalize()) # Chuck
 ```
+
+## str.upper()
+
+## str.lower()
 
 ## str.casefold()
 
