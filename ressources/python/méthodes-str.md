@@ -4,7 +4,7 @@
 > Une chaîne de caractères étant **immuable**, les méthodes s'appliquent sur une copie (qu'elle renvoie éventuellement) de celle-ci.
 
 **SOMMAIRE**
-+ [Capitaliser une chaîne](#strcapitalize)
++ [Démarrer une chaîne par une majuscule](#strcapitalize)
 
 ---
 
