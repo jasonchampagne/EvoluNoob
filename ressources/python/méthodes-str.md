@@ -18,6 +18,7 @@
 > + [Vérifier si tous les caractères d'une chaîne sont des chiffres](#isdigit)
 > + [Vérifier si tous les caractères d'une chaîne sont numériques](#isnumeric)
 > + [Vérifier si tous les caractères d'une chaîne sont décimaux](#isdecimal)
+> + [Vérifier si la chaîne est un identifiant valide en Python](#isidentifier)
 > + [Convertir une chaîne en séquence immuable d'octets (_bytes_)](#encode)
 > + [Formater une chaîne](#format)
 
@@ -248,6 +249,18 @@ print(s.isdecimal())  # True
 
 s = "四"
 print(s.isdecimal())  # False
+```
+
+## isidentifier
+
++ `str.isidentifier()`
+
+```python
+s = "channel_name"
+print(s.isidentifier()) # True
+
+s = "0name"
+print(s.isidentifier()) # False
 ```
 
 ## encode
