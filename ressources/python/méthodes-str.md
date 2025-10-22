@@ -108,6 +108,7 @@ s = "Python Python Python"
 print(s.find("Python"))     # 0
 print(s.find("Python", 10)) # 14
 print(s.find("Java"))       # -1
+print(s.index("Java"))      # ValueError
 ```
 
 ## endswith
