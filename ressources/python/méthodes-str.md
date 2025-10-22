@@ -1,7 +1,7 @@
 # Méthodes pour les chaînes de caractères (str)
 
 > **SOMMAIRE**
-> + [Démarrer une chaîne par une majuscule](#strcapitalize)
+> + [Commencer une chaîne par une majuscule](#strcapitalize)
 > + [Mettre une chaîne en majuscule](#strupper)
 > + [Mettre une chaîne en minuscule](#strlower)
 > + [Mettre une chaîne en minuscule, sans distinction de casse](#strcasefold)
@@ -22,7 +22,17 @@ print(s.capitalize()) # Chuck
 
 ## str.upper()
 
+```python
+s = "EvoluNoob"
+print(s.upper()) # EVOLUNOOB
+```
+
 ## str.lower()
+
+```python
+s = "EvoluNoob"
+print(s.lower()) # evolunoob
+```
 
 ## str.casefold()
 
