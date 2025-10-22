@@ -285,7 +285,12 @@ print(s.isdecimal())  # False
 + `str.isspace()`
 
 ```python
-ddd
+s = "Bonjour à tous"
+print("".isspace()) # False
+print(s.isspace())  # False
+
+s = "     "
+print(s.isspace())  # True
 ```
 
 ## isprintable
@@ -293,7 +298,12 @@ ddd
 + `str.isprintable()`
 
 ```python
-ddd
+s = "Bonjour à tous"
+print("".isprintable()) # True
+print(s.isprintable())  # True
+
+s = "\n"
+print(s.isprintable())  # False
 ```
 
 ## istitle
@@ -301,7 +311,12 @@ ddd
 + `str.istitle()`
 
 ```python
-ddd
+s = "Ha ha ha"
+print("".istitle())        # False
+print(s.istitle())         # False
+
+s = "Python Python Python"
+print(s.istitle())         # True
 ```
 
 ## isidentifier
