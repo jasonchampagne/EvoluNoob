@@ -101,9 +101,10 @@ print(s.count('y', 3, 15)) # 0
 
 ```python
 s = "Programmer en Python"
-print(s.endswith('e'))          # False
-print(s.endswith("Python"))     # True
-print(s.endswith(("C", "C++"))) # False
+print(s.endswith('e'))             # False
+print(s.endswith("Python"))        # True
+print(s.endswith("Python", 0, 10)) # False
+print(s.endswith(("C", "C++")))    # False
 ```
 
 ## encode
