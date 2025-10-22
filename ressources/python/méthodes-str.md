@@ -20,6 +20,9 @@
 > + [Vérifier si tous les caractères d'une chaîne sont des chiffres](#isdigit)
 > + [Vérifier si tous les caractères d'une chaîne sont numériques](#isnumeric)
 > + [Vérifier si tous les caractères d'une chaîne sont décimaux](#isdecimal)
+> + [Vérifier si tous les caractères d'une chaîne sont des espaces](#isspace)
+> + [Vérifier si tous les caractères d'une chaîne sont imprimables](#isprintable)
+> + [Vérifier si chaque mot d'une chaîne commence par une majuscule](#istitle)
 > + [Vérifier si une chaîne est un identifiant valide en Python](#isidentifier)
 > + [Convertir une chaîne en séquence immuable d'octets (_bytes_)](#encode)
 > + [Formater une chaîne](#format)
@@ -275,6 +278,30 @@ print(s.isdecimal())  # True
 
 s = "四"
 print(s.isdecimal())  # False
+```
+
+## isspace
+
++ `str.isspace()`
+
+```python
+ddd
+```
+
+## isprintable
+
++ `str.isprintable()`
+
+```python
+ddd
+```
+
+## istitle
+
++ `str.istitle()`
+
+```python
+ddd
 ```
 
 ## isidentifier
