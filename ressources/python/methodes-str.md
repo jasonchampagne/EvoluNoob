@@ -173,7 +173,15 @@ print(s.isalpha())  # False
 + `str.isascii()`
 
 ```python
-ddd
+s = "EvoluNoob"
+print("".isascii())      # True
+print(s.isascii())       # True
+
+s = "   T-98p_ ;.]--Mlo"
+print(s.isascii())       # True
+
+s = "😏"
+print(s.isascii())       # False
 ```
 
 ## isdigit
