@@ -377,7 +377,7 @@ print(name.split())       # ['Chuck', 'Norris']
 
 ```python
 text = "Bonjour.\nComment allez-vous ?"
-print(text.splitlines()) # ['Bonjour.', 'Comment allez-vous ?']
+print(text.splitlines())     # ['Bonjour.', 'Comment allez-vous ?']
 
 text = "Bonjour.\nComment allez-vous ?"
 print(text.splitlines("\n")) # ['Bonjour.\n', 'Comment allez-vous ?']
