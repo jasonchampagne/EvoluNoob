@@ -12,6 +12,11 @@
 > + [Récupérer l'indice le plus bas d'une chaîne où se trouve une autre](#find--index)
 > + [Vérifier si une chaîne commence par une suite de caractères](#startswith)
 > + [Vérifier si une chaîne se termine par une suite de caractères](#endswith)
+> + [Vérifier si tous les caractères d'une chaîne sont alphanumériques](#isalphanum)
+> + [Vérifier si tous les caractères d'une chaîne sont alphabétiques](#isalpha)
+> + [Vérifier si tous les caractères d'une chaîne sont des chiffres](#isdigit)
+> + [Vérifier si tous les caractères d'une chaîne sont numériques](#isnumeric)
+> + [Vérifier si tous les caractères d'une chaîne sont décimaux](#isdecimal)
 > + [Convertir une chaîne en séquence immuable d'octets (_bytes_)](#encode)
 > + [Formater une chaîne](#format)
 
