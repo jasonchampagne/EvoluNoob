@@ -9,7 +9,7 @@
 > + [Inverser les caractères majuscules et minuscules](#swapcase)
 > + [Centrer une chaîne dans une autre avec des caractères de remplissage](#center)
 > + [Compter le nombre d'occurences d'une chaîne dans une autre](#count)
-> + [Récupérer l'indice le plus bas d'une chaîne où se trouve une autre](#find)
+> + [Récupérer l'indice le plus bas d'une chaîne où se trouve une autre](#find--index)
 > + [Vérifier si une chaîne termine par une suite de caractères](#endswith)
 > + [Convertir une chaîne en séquence immuable d'octets (_bytes_)](#encode)
 > + [Formater une chaîne](#format)
