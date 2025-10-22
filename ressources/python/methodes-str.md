@@ -12,7 +12,7 @@
 > + [Récupérer l'indice le plus bas d'une chaîne où se trouve une autre](#find--index)
 > + [Vérifier si une chaîne commence par une suite de caractères](#startswith)
 > + [Vérifier si une chaîne se termine par une suite de caractères](#endswith)
-> + [Vérifier si tous les caractères d'une chaîne sont alphanumériques](#isalphanum)
+> + [Vérifier si tous les caractères d'une chaîne sont alphanumériques](#isalnum)
 > + [Vérifier si tous les caractères d'une chaîne sont alphabétiques](#isalpha)
 > + [Vérifier si tous les caractères d'une chaîne sont des chiffres](#isdigit)
 > + [Vérifier si tous les caractères d'une chaîne sont numériques](#isnumeric)
@@ -139,6 +139,56 @@ print(s.endswith('e'))             # False
 print(s.endswith("Python"))        # True
 print(s.endswith("Python", 0, 10)) # False
 print(s.endswith(("C", "C++")))    # False
+```
+
+## isalnum
+
++ `str.isalnum()`
+
+```python
+s = "ekJ82kR1pvR3xqU1SZq2Dg8KE2hEb5"
+print("".isalnum())  # False (chaîne vide)
+print(s.isalnum())   # True
+
+s = "a-a"
+print(s.isalnum())   # False
+```
+
+## isalpha
+
++ `str.isalpha()`
+
+```python
+s = "EvoluNoob"
+print("".isalpha()) # False (chaîne vide)
+print(s.isalpha())  # True
+
+s = "Paris 9e"
+print(s.isalpha())  # False
+```
+
+## isdigit
+
++ `str.isdigit()`
+
+```python
+ddd
+```
+
+## isnumeric
+
++ `str.isnumeric()`
+
+```python
+ddd
+```
+
+## isdecimal
+
++ `str.isdecimal()`
+
+```python
+ddd
 ```
 
 ## encode
