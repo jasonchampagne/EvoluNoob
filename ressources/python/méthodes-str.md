@@ -26,6 +26,7 @@
 > + [Vérifier si une chaîne est un identifiant valide en Python](#isidentifier)
 > + [Concaténer les chaînes d'un type itérable dans une autre chaîne](#join)
 > + [Remplacer une chaîne par une autre](#replace)
+> + [Convertir une chaîne en liste composée de portions de la chaîne](#split)
 > + [Convertir une chaîne en séquence immuable d'octets (_bytes_)](#encode)
 > + [Formater une chaîne](#format)
 
@@ -355,6 +356,18 @@ print(name) # Programmer en Rust
 
 name = name.replace("Rust", "Python")
 print(name) # Programmer en Python
+```
+
+## split
+
++ `str.split(sep=None, maxsplit=-1)`
+
+```python
+animals = "castor-dauphin-fourmi-pingouin"
+print(animals.split("-")) # ['castor', 'dauphin', 'fourmi', 'pingouin']
+
+name = "Chuck Norris"
+print(name.split())       # ['Chuck', 'Norris']
 ```
 
 ## encode
