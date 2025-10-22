@@ -13,7 +13,7 @@
 > [!NOTE]
 > Une chaîne de caractères étant **immuable**, les méthodes s'appliquent sur une copie (qu'elle renvoie éventuellement) de celle-ci.
 
-## capitalize()
+## capitalize
 
 > _Met le premier caractère (ou première lettre du premier caractère) en majuscule et le reste en minuscule_
 
@@ -22,28 +22,28 @@ s = "chuck"
 print(s.capitalize()) # Chuck
 ```
 
-## upper()
+## upper
 
 ```python
 s = "EvoluNoob"
 print(s.upper()) # EVOLUNOOB
 ```
 
-## lower()
+## lower
 
 ```python
 s = "EvoluNoob"
 print(s.lower()) # evolunoob
 ```
 
-## casefold()
+## casefold
 
 ```python
 s = "Ein Großes Haus"
 print(s.casefold()) # ein grosses haus
 ```
 
-## center()
+## center
 
 ```python
 s = "Titre du programme"
@@ -51,7 +51,7 @@ print(s.center(50))      #                 Titre du programme
 print(s.center(50, '-')) # ----------------Titre du programme----------------
 ```
 
-## count()
+## count
 
 ```python
 s = "Apprendre à programmer en Python"
