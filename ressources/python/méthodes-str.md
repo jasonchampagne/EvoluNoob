@@ -26,6 +26,7 @@
 > + [Vérifier si une chaîne est un identifiant valide en Python](#isidentifier)
 > + [Concaténer les chaînes d'un type itérable dans une autre chaîne](#join)
 > + [Remplacer une chaîne par une autre](#replace)
+> + [Remplir une chaîne de zéros pour obtenir une taille fixe spécifiée](#zfill)
 > + [Supprimer les caractères de début et de fin d'une chaîne](#strip)
 > + [Convertir une chaîne en liste composée des portions de celle-ci](#split)
 > + [Convertir une chaîne en liste composée des lignes de celle-ci](#splitlines)
@@ -360,6 +361,18 @@ name = name.replace("Rust", "Python")
 print(name) # Programmer en Python
 ```
 
+## zfill
+
++ `str.zfill(width, /)`
+
+```python
+number = "86"
+print(number.zfill(10)) # 0000000086
+
+number = "-3.14"
+print(number.zfill(10)) # -000003.14
+```
+
 ## strip
 
 + `str.strip(chars=None, /)`
@@ -433,6 +446,8 @@ print("Coordonnées x = {1}, y = {0}".format(y, x))
 + lstrip
 + maketrans
 + partition
++ removeprefix
++ removesuffix
 + rfind
 + rindex
 + rjust
