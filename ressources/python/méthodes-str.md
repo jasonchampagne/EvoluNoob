@@ -5,6 +5,7 @@
 > + [Mettre une chaîne en majuscule](#strupper)
 > + [Mettre une chaîne en minuscule](#strlower)
 > + [Mettre une chaîne en minuscule, sans distinction de casse](#strcasefold)
+> + [Centrer une chaîne dans une autre, avec des caractères de remplissage](#strcenter)
 
 ---
 
@@ -39,6 +40,14 @@ print(s.lower()) # evolunoob
 ```python
 s = "Ein Großes Haus"
 print(s.casefold()) # ein grosses haus
+```
+
+## str.center()
+
+```python
+s = "Titre du programme"
+print(s.center(50)) #                 Titre du programme
+print(s.center(50, '-')) # ----------------Titre du programme----------------
 ```
 
 ---
