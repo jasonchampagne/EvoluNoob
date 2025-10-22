@@ -17,6 +17,13 @@ s = "chuck"
 print(s.capitalize()) # Chuck
 ```
 
+## str.casefold()
+
+```python
+s = "Ein Großes Haus"
+print(s.casefold()) # ein grosses haus
+```
+
 ---
 
 🔗 [Documentation Python](https://docs.python.org/fr/3.14/library/stdtypes.html#text-sequence-type-str)
