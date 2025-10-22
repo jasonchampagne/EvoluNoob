@@ -423,4 +423,20 @@ print("Coordonnées x = {1}, y = {0}".format(y, x))
 
 ---
 
-🔗 [Toutes les méthodes de la classe str](https://docs.python.org/fr/3.14/library/stdtypes.html#text-sequence-type-str)
+## D'autres méthodes
+
+> [Documentation Python](https://docs.python.org/fr/3.14/library/stdtypes.html#text-sequence-type-str)
+
++ expandtabs
++ format_map
++ ljust
++ lstrip
++ maketrans
++ partition
++ rfind
++ rindex
++ rjust
++ rpartition
++ rsplit
++ rstrip
++ translate
