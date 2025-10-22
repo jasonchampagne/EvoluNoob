@@ -46,7 +46,7 @@ print(s.casefold()) # ein grosses haus
 
 ```python
 s = "Titre du programme"
-print(s.center(50)) #                 Titre du programme
+print(s.center(50))      #                 Titre du programme
 print(s.center(50, '-')) # ----------------Titre du programme----------------
 ```
 
