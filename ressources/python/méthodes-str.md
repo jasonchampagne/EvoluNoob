@@ -9,6 +9,7 @@
 > + [Inverser les caractères majuscules et minuscules](#swapcase)
 > + [Centrer une chaîne dans une autre avec des caractères de remplissage](#center)
 > + [Compter le nombre d'occurences d'une chaîne dans une autre](#count)
+> + [Récupérer l'indice le plus bas d'une chaîne où se trouve une autre](#find)
 > + [Vérifier si une chaîne termine par une suite de caractères](#endswith)
 > + [Convertir une chaîne en séquence immuable d'octets (_bytes_)](#encode)
 
@@ -93,6 +94,17 @@ print(s.count(''))         # 33 (longueur de la chaîne)
 print(s.count('e'))        # 4
 print(s.count('y', 9))     # 1
 print(s.count('y', 3, 15)) # 0
+```
+
+## find
+
++ `str.find(sub[, start[, end]])`
+
+```python
+s = "Python Python Python"
+print(s.find("Python"))     # 0
+print(s.find("Python", 10)) # 14
+print(s.find("Java"))       # -1
 ```
 
 ## endswith
