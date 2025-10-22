@@ -14,6 +14,7 @@
 > + [Vérifier si une chaîne se termine par une suite de caractères](#endswith)
 > + [Vérifier si tous les caractères d'une chaîne sont alphanumériques](#isalnum)
 > + [Vérifier si tous les caractères d'une chaîne sont alphabétiques](#isalpha)
+> + [Vérifier si la chaîne est vide ou ne contient que des caractères ASCII](#isascii)
 > + [Vérifier si tous les caractères d'une chaîne sont des chiffres](#isdigit)
 > + [Vérifier si tous les caractères d'une chaîne sont numériques](#isnumeric)
 > + [Vérifier si tous les caractères d'une chaîne sont décimaux](#isdecimal)
@@ -165,6 +166,14 @@ print(s.isalpha())  # True
 
 s = "Paris 9e"
 print(s.isalpha())  # False
+```
+
+## isascii
+
++ `str.isascii()`
+
+```python
+ddd
 ```
 
 ## isdigit
