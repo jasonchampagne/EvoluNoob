@@ -55,7 +55,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |**JavaFX**|_à venir_||🟡|
 |**JavaScript**|_à venir_||🔵|
 |**PHP**|_à venir_||🔵|
-|**Python**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGqOK0slilcWpMdlJe7HGSw)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/python.md)|Langage de programmation réputé accessible pour les débutants et utilisé dans de nombreux domaines, allant de l'automatisation de tâches à l'intelligence artificielle|🔵|
+|**Python**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGqOK0slilcWpMdlJe7HGSw)<br>🔗[tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFfIEB6cFnpVQ7HLMt6tgSy)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/python.md)|Langage de programmation réputé accessible pour les débutants et utilisé dans de nombreux domaines, allant de l'automatisation de tâches à l'intelligence artificielle|🔵|
 |**Rust**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHljymBnewGUGOZbkWknIz3)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/rust.md)|Langage de programmation alternatif au C, offrant des garanties en matière de sécurité de la mémoire et des accès concurrents|🔵|
 |**SQL**|_à venir_||🔵|
 |**SQLPage**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGgDN4G0_KpqLJTUwewfQmE)|Cadriciel de création d'applications web générées à partir de code SQL et utilisant des bases de données traditionnelles|🟡|
