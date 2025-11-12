@@ -22,7 +22,7 @@ Ces contenus sont répartis dans différents types de playlists (sauf exception)
 
 Si vous venez de découvrir la chaîne ou que vous cherchez par où commencer, vous pouvez démarrer avec les vidéos de cette playlist (ne les négligez pas) :
 
-> 👁️ [**IMMERSION**](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHbVuhQbfGik2YouR-UtPQV)
+> ![Immersion, où comment apprendre](https://github.com/jasonchampagne/EvoluNoob/blob/main/assets/immersion.png "Comment apprendre ?")
 
 Elle est le point de départ de tout et vous donnera les « outils » pour apprendre dans les meilleurs conditions, en utilisant au mieux vos facultés. Ensuite, laissez libre cours à vos préférences et piochez dans ce qui vous intéresse, à titre personnel ou professionel.
 
