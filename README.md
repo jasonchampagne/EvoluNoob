@@ -48,7 +48,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |**GCC**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHgKutFx0P7cr0jZud1YzA2)|Collection de compilateurs pour des langages de programmation comme C, C++, Ada, Fortran ou même COBOL|🟢|
 |**GNU/Linux**|_à venir_||🟢|
 |**Hostinger**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF_WGMhMpYeE9OIvnjml8dJ)|Vidéos sponsorisées autour de l'hébergeur Hostinger, recommandé par WordPress|⚪|
-|**HTML**|_à venir_||🔵|
+|**HTML**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGCdOlEsXvPYQ2XNtFsHKxo)||🔵|
 |**Java**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGh4I9gaRvDA_A6JCO9iNDN)||🔵|
 |**JavaFX**|_à venir_||🟡|
 |**JavaScript**|_à venir_||🔵|
