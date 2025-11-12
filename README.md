@@ -49,7 +49,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |**GNU/Linux**|_à venir_||🟢|
 |**Hostinger**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF_WGMhMpYeE9OIvnjml8dJ)|Vidéos sponsorisées autour de l'hébergeur Hostinger, recommandé par WordPress|⚪|
 |**HTML**|_à venir_||🔵|
-|**Java**|_à venir_||🔵|
+|**Java**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGh4I9gaRvDA_A6JCO9iNDN)||🔵|
 |**JavaFX**|_à venir_||🟡|
 |**JavaScript**|_à venir_||🔵|
 |**PHP**|_à venir_||🔵|
