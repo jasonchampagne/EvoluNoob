@@ -35,7 +35,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 
 |NOM|CONTENUS|DESCRIPTION|-|
 |--:|:--|:--|:--:|
-|**Algorithmie**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHW5muu-zfj_GOk4WUM_8nv)|Ensemble de règles et techniques efficaces pour la résolution de problèmes en informatique|🟣|
+|**Algorithmie**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHW5muu-zfj_GOk4WUM_8nv)|Ensemble de règles et techniques efficaces pour la résolution logique de problèmes en informatique|🟣|
 |**Anatomie**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF41FrN33BJWLEK1t5yhB3W)|Étude pour les artistes de la structure et des formes du corps humain, du corps animal et d'anatomies créatives|🟣|
 |**Assembleur**|_à venir_||🔵|
 |**C**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHHRAZc013y4xNA6Y4B1CWP)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/c.md)|Langage de programmation historique, conçu pour écrire des applications à hautes performances et réputé dans les systèmes embarqués ou les interactions avec le matériel informatique|🔵|
