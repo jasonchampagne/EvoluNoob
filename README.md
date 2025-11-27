@@ -46,7 +46,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |**Django**|_à venir_||🟡|
 |**Docker**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfH9Ty2WuViWfWggFXV1wbY9)|Plateforme de développement, déploiement et exécution d'applications dans des conteneurs légers et isolés|🟢|
 |**GCC**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHgKutFx0P7cr0jZud1YzA2)|Collection de compilateurs pour des langages de programmation comme C, C++, Ada, Fortran ou même COBOL|🟢|
-|**GNU/Linux**|_à venir_||🟢|
+|**GNU/Linux**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfH7yrwku5D8t_LiQow9qnP1)||🟢|
 |**Hostinger**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF_WGMhMpYeE9OIvnjml8dJ)|Vidéos sponsorisées autour de l'hébergeur Hostinger, recommandé par WordPress|⚪|
 |**HTML**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGCdOlEsXvPYQ2XNtFsHKxo)||🔵|
 |**Java**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGh4I9gaRvDA_A6JCO9iNDN)||🔵|
