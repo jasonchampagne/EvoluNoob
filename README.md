@@ -57,6 +57,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |**Rust**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHljymBnewGUGOZbkWknIz3)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/rust.md)|Langage de programmation alternatif au C, offrant des garanties en matière de sécurité de la mémoire et des accès concurrents|🔵|
 |**SQL**|_à venir_||🔵|
 |**SQLPage**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGgDN4G0_KpqLJTUwewfQmE)|Cadriciel de création d'applications web générées à partir de code SQL et utilisant des bases de données traditionnelles|🟡|
+|**VirtualBox**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfH453mukvvLf1O8QdNPsDGU)||🟢|
 |**Visual&nbsp;Studio&nbsp;Code**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFzgjFG8ac8LEHKPbE8loan)|Éditeur de code extensible pour la programmation et le développement web|🟢|
 |**Windows**|_à venir_||🟢|
 |**Wondershare**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEJaW1-RnYtt5ofJfKU948_)|Vidéos sponsorisées autour de différents logiciels (DemoCreator, EdrawMax, Filmora, PDFelement, Recoverit, Uniconverter)|⚪|
@@ -166,7 +167,6 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
         <li>Unreal Engine</li>
         <li>V</li>
         <li>VeraCrypt</li>
-        <li>VirtualBox</li>
         <li>Visual Novel Maker</li>
         <li>Visual Studio</li>
         <li>Vite</li>
