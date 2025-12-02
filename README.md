@@ -76,7 +76,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
     <ul>
         <li>3D</li>
         <li>Ableton Live</li>
-        <li>Affinity Photo</li>
+        <li>Affinity</li>
         <li>After Effects</li>
         <li>Anglais</li>
         <li>Android</li>
