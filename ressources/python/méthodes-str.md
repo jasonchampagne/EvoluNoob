@@ -137,10 +137,10 @@ print(s.index("Java"))      # ValueError
 
 ```python
 s = "Programmer en Python"
-print(s.startswith('e'))                                # False
-print(s.startswith("Programmer"))                       # True
-print(s.startswith("Programmer", 10))                   # False
-print(s.startswith(("Coder", "Créer un programme")))    # False
+print(s.startswith('e'))                             # False
+print(s.startswith("Programmer"))                    # True
+print(s.startswith("Programmer", 10))                # False
+print(s.startswith(("Coder", "Créer un programme"))) # False
 ```
 
 ## endswith
@@ -344,7 +344,7 @@ print(s.isidentifier()) # False
 
 ```python
 letters = ["P", "y", "t", "h", "o", "n"]
-print("".join(letters))  # Python
+print("".join(letters)) # Python
 
 values = ("145", "36", "8")
 print("-".join(values)) # 145-36-8
