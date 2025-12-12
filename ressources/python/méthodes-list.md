@@ -36,10 +36,12 @@ print(li) # ['E', 'v', 'o', 'l', 'u', 'o', 'o', 'b']
 
 ```python
 li = [1, 2, 3]
+print(li) # [1, 2, 3]
 li.extend([4, 5, 6, 7, 8, 9])
 print(li) # [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 li = list("Evolu")
+print(li) # ['E', 'v', 'o', 'l', 'u']
 li.extend("Noob")
 print(li) # ['E', 'v', 'o', 'l', 'u', 'o', 'o', 'b']
 ```
