@@ -1,7 +1,8 @@
 # Méthodes pour les chaînes de caractères (str)
 
 > **SOMMAIRE**
-> + [Ajouter une valeur à la fin](#append)
+> + [Ajouter un élément à la fin](#append)
+> + [Insérer un élément à une position spécifique](#insert)
 > + [Autres méthodes...](#dautres-méthodes)
 
 ---
@@ -13,6 +14,15 @@
 ```python
 li = list("EvoluNoo")
 li.append("b")
+```
+
+## insert
+
++ `list.insert(i, x)`
+
+```python
+li = list("Evoluoob")
+li.insert(5, "N")
 ```
 
 ---
