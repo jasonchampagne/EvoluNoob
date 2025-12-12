@@ -7,6 +7,8 @@
 > + [Supprimer le premier élément ayant la valeur spécifiée](#remove)
 > + [Supprimer un élément et le renvoyer](#pop)
 > + [Supprimer tous les éléments](#clear)
+> + [Trier tous les éléments](#sort)
+> + [Inverser l'ordre des éléments](#reverse)
 > + [Autres méthodes...](#dautres-méthodes)
 
 ---
@@ -91,6 +93,25 @@ li.clear()
 print(li) # []
 ```
 
+## sort
+
++ `list.sort(*, key=None, reverse=False)`
+
+```python
+...
+```
+
+## reverse
+
++ `list.reverse()`
+
+```python
+li = [1, 2, 3, 4, 5]
+print(li) # [1, 2, 3, 4, 5]
+
+li.reverse()
+print(li) # [5, 4, 3, 2, 1]
+```
 ---
 
 ## D'autres méthodes
