@@ -37,7 +37,7 @@ print(li)
 li = [36, -7, 0, 145, 3, 137, -45, 0, 1]
 print(li)
 
-li.remove(0) # Supprimer le premier zéro de la liste
+li.remove(0) # Supprime le premier zéro de la liste
 print(li)
 ```
 
