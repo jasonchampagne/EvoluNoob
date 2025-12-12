@@ -17,7 +17,7 @@
 ```python
 li = list("EvoluNoo")
 li.append("b")
-print(li)
+print(li) # ['E', 'v', 'o', 'l', 'u', 'o', 'o', 'b']
 ```
 
 ## insert
@@ -27,7 +27,7 @@ print(li)
 ```python
 li = list("Evoluoob")
 li.insert(5, "N")
-print(li)
+print(li) # ['E', 'v', 'o', 'l', 'u', 'o', 'o', 'b']
 ```
 
 ## extend
@@ -37,11 +37,11 @@ print(li)
 ```python
 li = [1, 2, 3]
 li.extend([4, 5, 6, 7, 8, 9])
-print(li)
+print(li) # [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 li = list("Evolu")
 li.extend("Noob")
-print(li)
+print(li) ['E', 'v', 'o', 'l', 'u', 'o', 'o', 'b']
 ```
 
 ## remove
@@ -50,10 +50,10 @@ print(li)
 
 ```python
 li = [36, -7, 0, 145, 3, 137, -45, 0, 1]
-print(li)
+print(li) # [36, -7, 0, 145, 3, 137, -45, 0, 1]
 
 li.remove(0) # Supprime le premier zéro de la liste
-print(li)
+print(li) # [36, -7, 145, 3, 137, -45, 0, 1]
 ```
 
 ## clear
@@ -62,10 +62,10 @@ print(li)
 
 ```python
 li = list("Evoluoob")
-print(li)
+print(li) # ['E', 'v', 'o', 'l', 'u', 'o', 'o', 'b']
 
 li.clear()
-print(li) # Liste vide
+print(li) # []
 ```
 
 ---
