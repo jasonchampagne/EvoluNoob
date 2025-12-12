@@ -41,7 +41,7 @@ print(li) # [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 li = list("Evolu")
 li.extend("Noob")
-print(li) ['E', 'v', 'o', 'l', 'u', 'o', 'o', 'b']
+print(li) # ['E', 'v', 'o', 'l', 'u', 'o', 'o', 'b']
 ```
 
 ## remove
