@@ -52,10 +52,13 @@ print(li) # ['E', 'v', 'o', 'l', 'u', 'o', 'o', 'b']
 
 ```python
 li = [36, -7, 0, 145, 3, 137, -45, 0, 1]
-print(li) # [36, -7, 0, 145, 3, 137, -45, 0, 1]
+print(li)     # [36, -7, 0, 145, 3, 137, -45, 0, 1]
 
-li.remove(0)
-print(li) # [36, -7, 145, 3, 137, -45, 0, 1]
+try:
+    li.remove(0)
+    print(li) # [36, -7, 145, 3, 137, -45, 0, 1]
+except ValueError:
+    print("Cet élément n'existe pas dans la liste", file = sys.stderr)
 ```
 
 ## clear
