@@ -11,7 +11,7 @@
 + `list.append(value)`
 
 ```python
-li = "EvoluNoo"
+li = list("EvoluNoo")
 li.append("b")
 ```
 
