@@ -76,7 +76,7 @@ try:
     li.pop(3) # Supprime l'élément à l'indice 3
     print(li) # ['E', 'v', 'o', 'u', 'N', 'o', 'o']
 except IndexError:
-    print("Indice incorrect ou liste vide.", file = sys.stderr)
+    print("Indice incorrect ou liste vide", file = sys.stderr)
 ```
 
 ## clear
