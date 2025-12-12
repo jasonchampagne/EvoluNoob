@@ -95,7 +95,7 @@ print(li) # []
 
 ## sort
 
-+ `list.sort(*, key=None, reverse=False)`
++ `list.sort(*, key = None, reverse = False)`
 
 ```python
 ...
