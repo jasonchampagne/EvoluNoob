@@ -54,7 +54,7 @@ print(li) # ['E', 'v', 'o', 'l', 'u', 'o', 'o', 'b']
 li = [36, -7, 0, 145, 3, 137, -45, 0, 1]
 print(li) # [36, -7, 0, 145, 3, 137, -45, 0, 1]
 
-li.remove(0) # Supprime le premier zéro de la liste
+li.remove(0)
 print(li) # [36, -7, 145, 3, 137, -45, 0, 1]
 ```
 
