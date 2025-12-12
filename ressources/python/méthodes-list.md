@@ -16,6 +16,7 @@
 ```python
 li = list("EvoluNoo")
 li.append("b")
+print(li)
 ```
 
 ## insert
@@ -25,6 +26,7 @@ li.append("b")
 ```python
 li = list("Evoluoob")
 li.insert(5, "N")
+print(li)
 ```
 
 ## remove
@@ -33,7 +35,10 @@ li.insert(5, "N")
 
 ```python
 li = [36, -7, 0, 145, 3, 137, -45, 0, 1]
+print(li)
+
 li.remove(0) # Supprimer le premier zéro de la liste
+print(li)
 ```
 
 ## clear
@@ -42,6 +47,8 @@ li.remove(0) # Supprimer le premier zéro de la liste
 
 ```python
 li = list("Evoluoob")
+print(li)
+
 li.clear()
 print(li) # Liste vide
 ```
