@@ -98,7 +98,10 @@ print(li) # []
 + `list.sort(*, key = None, reverse = False)`
 
 ```python
-...
+li = [186, -34, 1, 964, 1, 23, -7, 20, 47]
+print(li) # [186, -34, 1, 964, 1, 23, -7, 20, 47]
+li.sort()
+print(li) # [-34, -7, 1, 1, 20, 23, 47, 186, 964]
 ```
 
 ## reverse
