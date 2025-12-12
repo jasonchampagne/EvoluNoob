@@ -36,9 +36,11 @@ print(li)
 
 ```python
 li = [1, 2, 3]
+li.extend([4, 5, 6, 7, 8, 9])
 print(li)
 
-li.extend([4, 5, 6, 7, 8, 9])
+li = list("Evolu")
+li.extend("Noob")
 print(li)
 ```
 
