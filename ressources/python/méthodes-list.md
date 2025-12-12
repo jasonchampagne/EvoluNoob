@@ -38,10 +38,10 @@ print(li) # ['E', 'v', 'o', 'l', 'u', 'o', 'o', 'b']
 + `list.extend(iterable)`
 
 ```python
-li = [1, 2, 3]
-print(li) # [1, 2, 3]
-li.extend([4, 5, 6, 7, 8, 9])
-print(li) # [1, 2, 3, 4, 5, 6, 7, 8, 9]
+numbers = [1, 2, 3]
+print(numbers) # [1, 2, 3]
+numbers.extend([4, 5, 6, 7, 8, 9])
+print(numbers) # [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 li = list("Evolu")
 print(li) # ['E', 'v', 'o', 'l', 'u']
@@ -54,12 +54,12 @@ print(li) # ['E', 'v', 'o', 'l', 'u', 'o', 'o', 'b']
 + `list.remove(x)`
 
 ```python
-li = [36, -7, 0, 145, 3, 137, -45, 0, 1]
-print(li) # [36, -7, 0, 145, 3, 137, -45, 0, 1]
+numbers = [36, -7, 0, 145, 3, 137, -45, 0, 1]
+print(numbers) # [36, -7, 0, 145, 3, 137, -45, 0, 1]
 
 try:
-    li.remove(0)
-    print(li) # [36, -7, 145, 3, 137, -45, 0, 1]
+    numbers.remove(0)
+    print(numbers) # [36, -7, 145, 3, 137, -45, 0, 1]
 except ValueError:
     print("Cet élément n'existe pas dans la liste", file = sys.stderr)
 ```
@@ -98,10 +98,14 @@ print(li) # []
 + `list.sort(*, key = None, reverse = False)`
 
 ```python
-li = [186, -34, 1, 964, 1, 23, -7, 20, 47]
-print(li) # [186, -34, 1, 964, 1, 23, -7, 20, 47]
-li.sort()
-print(li) # [-34, -7, 1, 1, 20, 23, 47, 186, 964]
+animals = ["tortue", "elephant", "rat", "chat", "aigle", "chien"]
+print(animals)          # ['tortue', 'elephant', 'rat', 'chat', 'aigle', 'chien']
+
+animals.sort()          # Trie par ordre lexicographique
+print(animals)          # ['aigle', 'chat', 'chien', 'elephant', 'rat', 'tortue']
+
+animals.sort(key = len) # Trie en utilisant la fonction « len »
+print(animals)          # ['rat', 'chat', 'aigle', 'chien', 'tortue', 'elephant']
 ```
 
 ## reverse
@@ -109,11 +113,11 @@ print(li) # [-34, -7, 1, 1, 20, 23, 47, 186, 964]
 + `list.reverse()`
 
 ```python
-li = [1, 2, 3, 4, 5]
-print(li) # [1, 2, 3, 4, 5]
+numbers = [1, 2, 3, 4, 5]
+print(numbers) # [1, 2, 3, 4, 5]
 
-li.reverse()
-print(li) # [5, 4, 3, 2, 1]
+numbers.reverse()
+print(numbers) # [5, 4, 3, 2, 1]
 ```
 ---
 
