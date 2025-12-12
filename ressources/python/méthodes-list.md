@@ -3,6 +3,7 @@
 > **SOMMAIRE**
 > + [Ajouter un élément à la fin](#append)
 > + [Insérer un élément à une position spécifique](#insert)
+> + [Supprimer tous les éléments](#clear)
 > + [Autres méthodes...](#dautres-méthodes)
 
 ---
@@ -23,6 +24,16 @@ li.append("b")
 ```python
 li = list("Evoluoob")
 li.insert(5, "N")
+```
+
+## clear
+
++ `list.clear()`
+
+```python
+li = list("Evoluoob")
+li.clear()
+print(li) # Liste vide
 ```
 
 ---
