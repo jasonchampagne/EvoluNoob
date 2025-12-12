@@ -5,6 +5,7 @@
 > + [Insérer un élément à une position spécifique](#insert)
 > + [Ajouter les éléments d'un itérable à la fin d'une liste](#extend)
 > + [Supprimer le premier élément ayant la valeur spécifiée](#remove)
+> + [Supprimer un élément et le renvoyer](#pop)
 > + [Supprimer tous les éléments](#clear)
 > + [Autres méthodes...](#dautres-méthodes)
 
@@ -59,6 +60,23 @@ try:
     print(li) # [36, -7, 145, 3, 137, -45, 0, 1]
 except ValueError:
     print("Cet élément n'existe pas dans la liste", file = sys.stderr)
+```
+
+## pop
+
++ `list.pop([i])`
+
+```python
+li = list("EvoluNoob")
+
+try:
+    li.pop()  # Supprime et renvoie le dernier élément
+    print(li) # ['E', 'v', 'o', 'l', 'u', 'N', 'o', 'o']
+
+    li.pop(3) # Supprime l'élément à l'indice 3
+    print(li) # ['E', 'v', 'o', 'u', 'N', 'o', 'o']
+except IndexError:
+    print("Indice incorrect ou liste vide.", file = sys.stderr)
 ```
 
 ## clear
