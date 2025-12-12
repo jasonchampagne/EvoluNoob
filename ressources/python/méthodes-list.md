@@ -3,6 +3,7 @@
 > **SOMMAIRE**
 > + [Ajouter un élément à la fin](#append)
 > + [Insérer un élément à une position spécifique](#insert)
+> + [Supprimer le premier élément ayant la valeur spécifiée](#remove)
 > + [Supprimer tous les éléments](#clear)
 > + [Autres méthodes...](#dautres-méthodes)
 
@@ -24,6 +25,15 @@ li.append("b")
 ```python
 li = list("Evoluoob")
 li.insert(5, "N")
+```
+
+## remove
+
++ `list.remove(x)`
+
+```python
+li = [36, -7, 0, 145, 3, 137, -45, 0, 1]
+li.remove(0) # Supprimer le premier zéro de la liste
 ```
 
 ## clear
