@@ -37,10 +37,10 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |--:|:--|:--|:--:|
 |**Algorithmie**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHW5muu-zfj_GOk4WUM_8nv)|Ensemble de règles et techniques efficaces pour la résolution logique de problèmes en informatique|🟣|
 |**Anatomie**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF41FrN33BJWLEK1t5yhB3W)|Étude pour les artistes de la structure et des formes du corps humain, du corps animal et d'anatomies créatives|🟣|
-|**Assembleur**|_à venir_||🔵|
+|**Assembleur**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHno2i7AiLHe3DafDuAmCVM)||🔵|
 |**C**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHHRAZc013y4xNA6Y4B1CWP)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/c.md)|Langage de programmation historique, conçu pour écrire des applications à hautes performances et réputé dans les systèmes embarqués ou les interactions avec le matériel informatique|🔵|
 |**C++**|_à venir_||🔵|
-|**C#**|_à venir_||🔵|
+|**C#**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEu4Dlb5-zQVgKycdUkayer)||🔵|
 |**CSS**|_à venir_||🔵|
 |**Cybersécurité**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGZldbRbCNrHSTuSIg55W6F)|Phases d'intrusion et techniques de défense face aux menaces et vulnérabilités des applications, matériels, réseaux et systèmes|🟣|
 |**Django**|_à venir_||🟡|
@@ -59,7 +59,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |**SQLPage**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGgDN4G0_KpqLJTUwewfQmE)|Cadriciel de création d'applications web générées à partir de code SQL et utilisant des bases de données traditionnelles|🟡|
 |**VirtualBox**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFWrzA-CTrvIEmXKxfVNlG5)|Application de virtualisation pour déployer des machines virtuelles et exécuter plusieurs systèmes d'exploitation sur une même machine physique|🟢|
 |**Visual&nbsp;Studio&nbsp;Code**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFzgjFG8ac8LEHKPbE8loan)|Éditeur de code extensible pour la programmation et le développement web|🟢|
-|**Windows**|_à venir_||🟢|
+|**Windows**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHG2Ir_Z2AcxhWC3uwrEz-_)||🟢|
 |**Wondershare**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEJaW1-RnYtt5ofJfKU948_)|Vidéos sponsorisées autour de différents logiciels (DemoCreator, EdrawMax, Filmora, PDFelement, Recoverit, Uniconverter)|⚪|
 |**WordPress**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGZREbxMZqI-tf-1NaFCW3A)<br>🔗[tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGmQHHN-36CiazjL6AJ3jna)|Vidéos sponsorisées autour du système de gestion de contenu qui permet de déployer un site web (blog, boutique e-commerce, portfolio...)|🟠|
 |**YouTube**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHIomLSawWMNMQNHEUiCFpn)|Plateforme en ligne pour la publication de vidéos monétisables grâce à la publicité et aux souscriptions|🟤|
