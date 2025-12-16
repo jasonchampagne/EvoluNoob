@@ -39,7 +39,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |**Anatomie**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF41FrN33BJWLEK1t5yhB3W)|Étude pour les artistes de la structure et des formes du corps humain, du corps animal et d'anatomies créatives|🟣|
 |**Assembleur**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHno2i7AiLHe3DafDuAmCVM)||🔵|
 |**C**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHHRAZc013y4xNA6Y4B1CWP)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/c.md)|Langage de programmation historique, conçu pour écrire des applications à hautes performances et réputé dans les systèmes embarqués ou les interactions avec le matériel informatique|🔵|
-|**C++**|_à venir_||🔵|
+|**C++**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfH0zk6o4qEOIMgCAy9hIurm)||🔵|
 |**C#**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEu4Dlb5-zQVgKycdUkayer)||🔵|
 |**CSS**|_à venir_||🔵|
 |**Cybersécurité**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGZldbRbCNrHSTuSIg55W6F)|Phases d'intrusion et techniques de défense face aux menaces et vulnérabilités des applications, matériels, réseaux et systèmes|🟣|
