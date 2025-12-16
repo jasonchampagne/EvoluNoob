@@ -49,6 +49,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |**GNU/Linux**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfH7yrwku5D8t_LiQow9qnP1)||🟢|
 |**Hostinger**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF_WGMhMpYeE9OIvnjml8dJ)|Vidéos sponsorisées autour de l'hébergeur Hostinger, recommandé par WordPress|⚪|
 |**HTML**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGCdOlEsXvPYQ2XNtFsHKxo)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/html.md)||🔵|
+|**Immersion**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHbVuhQbfGik2YouR-UtPQV)||🟣|
 |**Java**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGh4I9gaRvDA_A6JCO9iNDN)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/java.md)||🔵|
 |**JavaFX**|_à venir_||🟡|
 |**JavaScript**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfE9-_PykF6w7lHPohfQmQy9)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/javascript.md)||🔵|
