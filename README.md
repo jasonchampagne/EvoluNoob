@@ -39,8 +39,8 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |**Anatomie**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF41FrN33BJWLEK1t5yhB3W)|Étude pour les artistes de la structure et des formes du corps humain, du corps animal et d'anatomies créatives|🟣|
 |**Assembleur**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHno2i7AiLHe3DafDuAmCVM)||🔵|
 |**C**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHHRAZc013y4xNA6Y4B1CWP)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/c.md)|Langage de programmation historique, conçu pour écrire des applications à hautes performances et réputé dans les systèmes embarqués ou les interactions avec le matériel informatique|🔵|
-|**C++**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfH0zk6o4qEOIMgCAy9hIurm)||🔵|
-|**C#**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEu4Dlb5-zQVgKycdUkayer)||🔵|
+|**C++**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfH0zk6o4qEOIMgCAy9hIurm)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/cpp.md)||🔵|
+|**C#**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEu4Dlb5-zQVgKycdUkayer)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/csharp.md)||🔵|
 |**CSS**|_à venir_||🔵|
 |**Cybersécurité**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGZldbRbCNrHSTuSIg55W6F)|Phases d'intrusion et techniques de défense face aux menaces et vulnérabilités des applications, matériels, réseaux et systèmes|🟣|
 |**Django**|_à venir_||🟡|
@@ -48,10 +48,10 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |**GCC**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHgKutFx0P7cr0jZud1YzA2)|Collection de compilateurs pour des langages de programmation comme C, C++, Ada, Fortran ou même COBOL|🟢|
 |**GNU/Linux**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfH7yrwku5D8t_LiQow9qnP1)||🟢|
 |**Hostinger**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF_WGMhMpYeE9OIvnjml8dJ)|Vidéos sponsorisées autour de l'hébergeur Hostinger, recommandé par WordPress|⚪|
-|**HTML**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGCdOlEsXvPYQ2XNtFsHKxo)||🔵|
-|**Java**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGh4I9gaRvDA_A6JCO9iNDN)||🔵|
+|**HTML**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGCdOlEsXvPYQ2XNtFsHKxo)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/html.md)||🔵|
+|**Java**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGh4I9gaRvDA_A6JCO9iNDN)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/java.md)||🔵|
 |**JavaFX**|_à venir_||🟡|
-|**JavaScript**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfE9-_PykF6w7lHPohfQmQy9)||🔵|
+|**JavaScript**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfE9-_PykF6w7lHPohfQmQy9)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/javascript.md)||🔵|
 |**PHP**|_à venir_||🔵|
 |**Python**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGqOK0slilcWpMdlJe7HGSw)<br>🔗[tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFfIEB6cFnpVQ7HLMt6tgSy)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/python.md)|Langage de programmation réputé accessible pour les débutants et utilisé dans de nombreux domaines, allant de l'automatisation de tâches à l'intelligence artificielle|🔵|
 |**Rust**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHljymBnewGUGOZbkWknIz3)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/rust.md)|Langage de programmation alternatif au C, offrant des garanties en matière de sécurité de la mémoire et des accès concurrents|🔵|
