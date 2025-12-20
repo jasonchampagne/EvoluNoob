@@ -37,7 +37,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |--:|:--|:--|:--:|
 |**Algorithmie**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHW5muu-zfj_GOk4WUM_8nv)|Ensemble de règles et techniques efficaces pour la résolution logique de problèmes en informatique|🟣|
 |**Anatomie**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF41FrN33BJWLEK1t5yhB3W)|Étude pour les artistes de la structure et des formes du corps humain, du corps animal et d'anatomies créatives|🟣|
-|**Assembleur**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHno2i7AiLHe3DafDuAmCVM)||🔵|
+|**Assembleur**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHno2i7AiLHe3DafDuAmCVM)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/asm-x86-64.md)||🔵|
 |**C**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHHRAZc013y4xNA6Y4B1CWP)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/c.md)|Langage de programmation historique, conçu pour écrire des applications à hautes performances et réputé dans les systèmes embarqués ou les interactions avec le matériel informatique|🔵|
 |**C++**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfH0zk6o4qEOIMgCAy9hIurm)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/cpp.md)||🔵|
 |**C#**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEu4Dlb5-zQVgKycdUkayer)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/csharp.md)||🔵|
