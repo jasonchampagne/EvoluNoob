@@ -53,7 +53,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |**Java**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGh4I9gaRvDA_A6JCO9iNDN)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/java.md)||🔵|
 |**JavaFX**|_à venir_||🟡|
 |**JavaScript**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfE9-_PykF6w7lHPohfQmQy9)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/javascript.md)||🔵|
-|**PHP**|_à venir_||🔵|
+|**PHP**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfH5TGlIumlFePD4ZhzlCwgU)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/php.md)||🔵|
 |**Python**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGqOK0slilcWpMdlJe7HGSw)<br>🔗[tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFfIEB6cFnpVQ7HLMt6tgSy)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/python.md)|Langage de programmation réputé accessible pour les débutants et utilisé dans de nombreux domaines, allant de l'automatisation de tâches à l'intelligence artificielle|🔵|
 |**Rust**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHljymBnewGUGOZbkWknIz3)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/rust.md)|Langage de programmation alternatif au C, offrant des garanties en matière de sécurité de la mémoire et des accès concurrents|🔵|
 |**SQL**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfENtxyQRHAu86-wgcAMimvD)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/sql.md)||🔵|
