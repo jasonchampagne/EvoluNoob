@@ -43,7 +43,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |**C#**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEu4Dlb5-zQVgKycdUkayer)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/csharp.md)||🔵|
 |**CSS**|_à venir_||🔵|
 |**Cybersécurité**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGZldbRbCNrHSTuSIg55W6F)|Phases d'intrusion et techniques de défense face aux menaces et vulnérabilités des applications, matériels, réseaux et systèmes|🟣|
-|**Django**|_à venir_||🟡|
+|**Django**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGEAtBUsBLqgnyakhRMx6vv)||🟡|
 |**Docker**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfH9Ty2WuViWfWggFXV1wbY9)|Plateforme de développement, déploiement et exécution d'applications dans des conteneurs légers et isolés|🟢|
 |**GCC**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHgKutFx0P7cr0jZud1YzA2)|Collection de compilateurs pour des langages de programmation comme C, C++, Ada, Fortran ou même COBOL|🟢|
 |**GNU/Linux**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfH7yrwku5D8t_LiQow9qnP1)||🟢|
