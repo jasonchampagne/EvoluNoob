@@ -51,7 +51,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |**HTML**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGCdOlEsXvPYQ2XNtFsHKxo)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/html.md)||🔵|
 |**Immersion**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHbVuhQbfGik2YouR-UtPQV)||🟣|
 |**Java**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGh4I9gaRvDA_A6JCO9iNDN)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/java.md)||🔵|
-|**JavaFX**|_à venir_||🟡|
+|**JavaFX**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGs40s2u_cspUO4UPeVTrO4)||🟡|
 |**JavaScript**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfE9-_PykF6w7lHPohfQmQy9)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/javascript.md)||🔵|
 |**PHP**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfH5TGlIumlFePD4ZhzlCwgU)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/php.md)||🔵|
 |**Python**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGqOK0slilcWpMdlJe7HGSw)<br>🔗[tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFfIEB6cFnpVQ7HLMt6tgSy)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/python.md)|Langage de programmation réputé accessible pour les débutants et utilisé dans de nombreux domaines, allant de l'automatisation de tâches à l'intelligence artificielle|🔵|
