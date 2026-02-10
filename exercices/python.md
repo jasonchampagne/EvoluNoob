@@ -138,7 +138,7 @@ print("n1 < n2 ?", result)
 
 > ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep09.md)
 
-1. Écrire un programme à l'utilisateur s'il est abonné à la chaîne EvoluNoob :
+1. Écrire un programme qui demande à l'utilisateur s'il est abonné à la chaîne EvoluNoob :
     + si l'utilisateur a saisi `oui` ou `o`, le programme affiche `BIEN !`
     + si l'utilisateur a saisi `non` ou `n`, le programme affiche `PAS BIEN !`
     + sinon, le programme affiche `...`
