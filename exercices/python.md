@@ -146,8 +146,6 @@ print("n1 < n2 ?", result)
    + afficher le nom du jour correspondant au chiffre saisi, comme `Mardi` (s'il a saisi 2)
    + si l'utilisateur a saisi une valeur autre qu'un chiffre de 1 à 7, afficher une erreur
    + ensuite, vérifier si le jour est samedi ou dimanche, et afficher dans ce cas un second message, comme `C'est le week-end !`
-   
-5. Écrire
 
 ---
 
