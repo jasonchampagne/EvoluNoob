@@ -153,7 +153,8 @@ print("n1 < n2 ?", result)
 
 > ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep10.md)
 
-À venir...
+1. Parcourir une liste et afficher uniquement les valeurs négatives :
+   + `numbers = [16, -8, 0, 1, -325, 128.45, -1, -36.9, 97, 20]`
 
 ---
 
