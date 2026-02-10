@@ -165,4 +165,101 @@ print("n1 < n2 ?", result)
 
 > ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep11.md)
 
-À venir...
+1. Réorganiser le code de ce programme :
+   + affin d'éviter les répétitions
+   + pour le rendre dynamique
+   + et permettre la réutilisation de certains composants
+
+```python
+# Articles disponibles en magasin
+available_products = [
+    "papier toilette",
+    "eau de source",
+    "filets de poulet",
+    "tomates allongées",
+    "pâtes",
+    "riz",
+    "chocolat noir",
+    "céréales",
+    "crème fraîche",
+    "lait demi-écrémé",
+    "sucre en poudre",
+    "haricots verts",
+    "pizza 4 fromages",
+    "camembert",
+    "crème dessert vanille"
+]
+
+# Articles du client
+shopping_cart = "----- PANIER -----\n"
+
+#--------------------------------------------------------------
+
+# Demande d'un 1er article au client
+product_input = input("Article à ajouter : ")
+
+# Ajout de l'article demandé s'il est disponible
+if product_input in available_products:
+    print("L'article", product_input, "est en stock, nous l'ajoutons à votre panier...")
+    shopping_cart += (product_input + "\n")
+else:
+    print("Désolé, cet article n'est plus disponible.")
+    
+# Affiche du panier actuel
+print(shopping_cart)
+
+# Demande d'un 2e article au client
+product_input = input("Article à ajouter : ")
+
+# Ajout de l'article demandé s'il est disponible
+if product_input in available_products:
+    print("L'article", product_input, "est en stock, nous l'ajoutons à votre panier...")
+    shopping_cart += (product_input + "\n")
+else:
+    print("Désolé, cet article n'est plus disponible.")
+    
+# Affiche du panier actuel
+print(shopping_cart)
+
+# Demande d'un 3e article au client
+product_input = input("Article à ajouter : ")
+
+# Ajout de l'article demandé s'il est disponible
+if product_input in available_products:
+    print("L'article", product_input, "est en stock, nous l'ajoutons à votre panier...")
+    shopping_cart += (product_input + "\n")
+else:
+    print("Désolé, cet article n'est plus disponible.")
+    
+# Affiche du panier actuel
+print(shopping_cart)
+
+# Demande d'un 4e article au client
+product_input = input("Article à ajouter : ")
+
+# Ajout de l'article demandé s'il est disponible
+if product_input in available_products:
+    print("L'article", product_input, "est en stock, nous l'ajoutons à votre panier...")
+    shopping_cart += (product_input + "\n")
+else:
+    print("Désolé, cet article n'est plus disponible.")
+    
+# Affiche du panier actuel
+print(shopping_cart)
+
+# Demande d'un 5e (et dernier) article au client
+product_input = input("Article à ajouter : ")
+
+# Ajout de l'article demandé s'il est disponible
+if product_input in available_products:
+    print("L'article", product_input, "est en stock, nous l'ajoutons à votre panier...")
+    shopping_cart += (product_input + "\n")
+else:
+    print("Désolé, cet article n'est plus disponible.")
+    
+# Affiche du panier actuel
+print(shopping_cart)
+
+# Fin de la commande
+print("Commande validée !")
+```
