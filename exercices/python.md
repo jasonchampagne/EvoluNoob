@@ -147,6 +147,7 @@ print("n1 < n2 ?", result)
      + exemple : `Nous sommes mardi`
    + si c'est un jour du week-end (samedi ou dimanche), l'afficher également dans le message
      + exemple : `Nous sommes samedi, c'est le week-end !`
+   + si l'utilisateur a saisi une valeur autre qu'un chiffre de 1 à 7, afficher une erreur
 5. Écrire
 
 ---
