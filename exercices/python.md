@@ -138,12 +138,14 @@ print("n1 < n2 ?", result)
 
 > ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep09.md)
 
-1. Écrire un programme qui demande à l'utilisateur s'il est abonné à la chaîne EvoluNoob :
+1. Demander à l'utilisateur s'il est abonné à la chaîne EvoluNoob :
     + si l'utilisateur a saisi `oui` ou `o`, le programme affiche `BIEN !`
     + si l'utilisateur a saisi `non` ou `n`, le programme affiche `PAS BIEN !`
     + sinon, le programme affiche `...`
-3. Écrire
-4. Écrire
+3. Demander à l'utilisateur de saisir un chiffre selon le jour de la semaine (1 = lundi, 7 = dimanche) :
+   + afficher le nom du jour correspondant au chiffre saisi (ex : `Nous sommes mardi`)
+   + si c'est un jour du week-end (samedi ou dimanche), l'afficher également dans le message (ex : `Nous sommes samedi, c'est le week-end !`)
+5. Écrire
 
 ---
 
