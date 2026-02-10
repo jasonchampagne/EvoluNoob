@@ -14,6 +14,8 @@
 
 ## Types de données - EP4
 
+> ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep04.md)
+
 1. Choisir un type valide pour manipuler les données suivantes :
     + prénom d'une personne
     + nombre d'articles d'un panier (boutique en ligne)
@@ -27,11 +29,11 @@
     + `{2, 4, 6, 8}`
 3. Comment afficher le type de la donnée `{1: "Un", 2: "Deux"}` ?
 
-➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep04.md)
-
 ---
 
 ## Variables - EP5
+
+> ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep05.md)
 
 1. Déclarer autant de variables que nécessaire pour mémoriser les informations suivantes :
    + `Naruto` (le nom d'un ninja devenu célèbre)
@@ -41,11 +43,11 @@
 3. Le nom du célèbre ninja doit être changé en `Naruto Uzumaki`, comment procéder ?
 4. Convertir la variable contenant son nom en une liste
 
-➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep05.md)
-
 ---
 
 ## Affichage de texte - EP6
+
+> ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep06.md)
 
 1. Afficher un texte en respectant son formatage :
 
@@ -77,11 +79,11 @@ a5 = "moineau"
 # print()
 ```
 
-➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep06.md)
-
 ---
 
 ## Lecture au clavier - EP7
+
+> ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep07.md)
 
 1. Demander à l'utilisateur de saisir son prénom, puis l'afficher.
 2. Recopier et exécuter un programme, puis expliquer son résultat :
@@ -94,11 +96,11 @@ sum_numbers = n1 + n2
 print("La somme de", n1, "+", n2, "est", sum_numbers)
 ```
 
-➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep07.md)
-
 ---
 
 ## Opérateurs - EP8
+
+> ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep08.md)
 
 1. Convertir une température de Celcius à Fahrenheit :
 
@@ -130,28 +132,26 @@ result =
 print("n1 < n2 ?", result)
 ```
 
-➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep08.md)
-
 ---
 
 ## Conditions - EP9
 
-À venir...
+> ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep09.md)
 
-➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep09.md)
+À venir...
 
 ---
 
 ## Boucles - EP10
 
-À venir...
+> ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep10.md)
 
-➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep10.md)
+À venir...
 
 ---
 
 ## Fonctions - EP11
 
-À venir...
+> ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep11.md)
 
-➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep11.md)
+À venir...
