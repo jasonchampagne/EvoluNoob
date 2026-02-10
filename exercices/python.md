@@ -165,7 +165,7 @@ print("n1 < n2 ?", result)
 
 > ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep11.md)
 
-1. Réorganiser le code de ce programme (attention, `available_products` et `shopping_cart` sont des variables globales) :
+1. Réorganiser le code d'un programme (attention, `available_products` et `shopping_cart` sont des variables globales) :
    + affin d'éviter les répétitions
    + pour le rendre dynamique (permettre d'ajouter jusqu'à 10 articles)
    + demander un nouvel article si un autre n'est pas en stock
