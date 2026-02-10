@@ -143,8 +143,10 @@ print("n1 < n2 ?", result)
     + si l'utilisateur a saisi `non` ou `n`, le programme affiche `PAS BIEN !`
     + sinon, le programme affiche `...`
 3. Demander à l'utilisateur de saisir un chiffre selon le jour de la semaine (1 = lundi, 7 = dimanche) :
-   + afficher le nom du jour correspondant au chiffre saisi (ex : `Nous sommes mardi`)
-   + si c'est un jour du week-end (samedi ou dimanche), l'afficher également dans le message (ex : `Nous sommes samedi, c'est le week-end !`)
+   + afficher le nom du jour correspondant au chiffre saisi
+     ex : `Nous sommes mardi`
+   + si c'est un jour du week-end (samedi ou dimanche), l'afficher également dans le message
+     ex : `Nous sommes samedi, c'est le week-end !`
 5. Écrire
 
 ---
