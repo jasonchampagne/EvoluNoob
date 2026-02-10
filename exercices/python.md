@@ -153,7 +153,10 @@ print("n1 < n2 ?", result)
 
 > ➡️ [Voir la correction](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/corrections/python/ep10.md)
 
-1. Parcourir une liste et afficher uniquement les valeurs négatives :
+1. Demander à l'utilisateur de saisir une voyelle (a, e, i, o, u ou y)
+   + tant que le saisie n'est pas correcte, la redemander sans cesse
+   + quand il a enfin saisi le bon caractère, afficher un message de succès et terminer le programme
+3. Parcourir une liste et afficher uniquement les valeurs négatives :
    + `numbers = [16, -8, 0, 1, -325, 128.45, -1, -36.9, 97, 20]`
 
 ---
