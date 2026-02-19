@@ -7,6 +7,7 @@
 > + [Récupérer une nouvelle vue de tous les éléments](#items)
 > + [Récupérer une nouvelle vue de toutes les clés](#keys)
 > + [Supprimer un élément et renvoyer sa valeur](#pop)
+> + [Supprimer et renvoyer la dernière paire ajoutée](#popitem)
 > + [Récupérer une nouvelle vue de toutes les valeurs](#values)
 > + [Autres méthodes...](#autres-méthodes)
 
@@ -93,6 +94,22 @@ try:
     di.pop("priest")
 except KeyError as key:
     print(f"ERREUR : la clé {key} n'existe pas")
+```
+
+## popitem
+
++ `dict.popitem()`
+
+```python
+di = dict(warrior = "Guerrier", warlock = "Démoniste")
+print(di) # {'warrior': 'Guerrier', 'warlock': 'Démoniste'}
+
+try:
+    removed_pair = di.popitem()
+    print(di)
+    print(f"Élément retiré -> {removed_pair}")
+except KeyError:
+    print("Dictionnaire vide")
 ```
 
 ## values
