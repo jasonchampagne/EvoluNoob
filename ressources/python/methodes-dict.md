@@ -4,6 +4,9 @@
 > + [Supprimer tous les éléments](#clear)
 > + [Copier un dictionnaire](#copy)
 > + [Récupérer la valeur d'une clé](#get)
+> + [Récupérer une nouvelle vue de tous les éléments](#items)
+> + [Récupérer une nouvelle vue de toutes les clés](#keys)
+> + [Récupérer une nouvelle vue de toutes les valeurs](#values)
 > + [Autres méthodes...](#autres-méthodes)
 
 ---
@@ -49,6 +52,42 @@ print(val1)
 
 val2 = di.get("priest", "Pas de valeur trouvée...")
 print(val2)
+```
+
+## items
+
++ `dict.items()`
+
+```python
+di = dict(warrior = "Guerrier", warlock = "Démoniste")
+print(di.items()) # dict_items([('warrior', 'Guerrier'), ('warlock', 'Démoniste')])
+
+for k,v in di.items():
+    print(f"{k} -> {v}")
+```
+
+## keys
+
++ `dict.keys()`
+
+```python
+di = dict(warrior = "Guerrier", warlock = "Démoniste")
+print(di.keys()) # dict_keys(['warrior', 'warlock'])
+
+for k in di.keys():
+    print(k)
+```
+
+## values
+
++ `dict.values()`
+
+```python
+di = dict(warrior = "Guerrier", warlock = "Démoniste")
+print(di.values()) # dict_values(['Guerrier', 'Démoniste'])
+
+for v in di.values():
+    print(v)
 ```
 
 ---
