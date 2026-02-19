@@ -6,6 +6,7 @@
 > + [Récupérer la valeur d'une clé](#get)
 > + [Récupérer une nouvelle vue de tous les éléments](#items)
 > + [Récupérer une nouvelle vue de toutes les clés](#keys)
+> + [Supprimer un élément et renvoyer sa valeur](#pop)
 > + [Récupérer une nouvelle vue de toutes les valeurs](#values)
 > + [Autres méthodes...](#autres-méthodes)
 
@@ -76,6 +77,22 @@ print(di.keys()) # dict_keys(['warrior', 'warlock'])
 
 for k in di.keys():
     print(k)
+```
+
+## pop
+
++ `dict.pop(key)`
++ `dict.pop(key, default)`
+
+```python
+di = dict(warrior = "Guerrier", warlock = "Démoniste")
+print(di) # {'warrior': 'Guerrier', 'warlock': 'Démoniste'}
+
+try:
+    di.pop("warlock")
+    di.pop("priest")
+except KeyError as err:
+    print(f"ERREUR : la clé {err} n'existe pas")
 ```
 
 ## values
