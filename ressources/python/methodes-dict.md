@@ -9,6 +9,7 @@
 > + [Supprimer un élément et renvoyer sa valeur](#pop)
 > + [Supprimer et renvoyer la dernière paire ajoutée](#popitem)
 > + [Renvoyer un itérateur inversé sur les clés](#reversed)
+> + [Récupérer la valeur d'une clé, sinon ajouter l'élément](#setdefault)
 > + [Récupérer une nouvelle vue de toutes les valeurs](#values)
 > + [Autres méthodes...](#autres-méthodes)
 
@@ -114,6 +115,19 @@ except KeyError:
 ```
 
 ## reversed
+
++ `dict.setdefault(key, default = None)`
+
+```python
+di = dict(warrior = "Guerrier", warlock = "Démoniste")
+print(di) # {'warrior': 'Guerrier', 'warlock': 'Démoniste'}
+
+print(di.setdefault("warrior")) # Guerrier
+print(di.setdefault("priest", "Prêtre")) # Prêtre
+print(di) # {'warrior': 'Guerrier', 'warlock': 'Démoniste', 'priest': 'Prêtre'}
+```
+
+## setdefault
 
 + `reversed(dict)`
 
