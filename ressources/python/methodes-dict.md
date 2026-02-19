@@ -4,6 +4,7 @@
 > + [Supprimer tous les éléments](#clear)
 > + [Copier un dictionnaire](#copy)
 > + [Récupérer la valeur d'une clé](#get)
+> + [Autres méthodes...](#autres-méthodes)
 
 ---
 
@@ -49,3 +50,9 @@ print(val1)
 val2 = di.get("priest", "Pas de valeur trouvée...")
 print(val2)
 ```
+
+---
+
+## Autres méthodes
+
+> [Documentation Python](https://docs.python.org/fr/3.14/library/stdtypes.html#mapping-types-dict)
