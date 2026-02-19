@@ -91,8 +91,8 @@ print(di) # {'warrior': 'Guerrier', 'warlock': 'Démoniste'}
 try:
     di.pop("warlock")
     di.pop("priest")
-except KeyError as err:
-    print(f"ERREUR : la clé {err} n'existe pas")
+except KeyError as key:
+    print(f"ERREUR : la clé {key} n'existe pas")
 ```
 
 ## values
