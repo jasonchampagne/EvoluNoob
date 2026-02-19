@@ -9,7 +9,7 @@
 > + [Supprimer tous les éléments](#clear)
 > + [Trier tous les éléments](#sort)
 > + [Inverser l'ordre des éléments](#reverse)
-> + [Autres méthodes...](#dautres-méthodes)
+> + [Autres méthodes...](#autres-méthodes)
 
 ---
 
@@ -121,6 +121,6 @@ print(numbers) # [5, 4, 3, 2, 1]
 ```
 ---
 
-## D'autres méthodes
+## Autres méthodes
 
 > [Documentation Python](https://docs.python.org/3/library/stdtypes.html#typesseq-list)
