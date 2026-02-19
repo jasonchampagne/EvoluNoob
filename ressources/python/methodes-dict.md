@@ -116,6 +116,17 @@ except KeyError:
 
 ## reversed
 
++ `reversed(dict)`
+
+```python
+di = dict(warrior = "Guerrier", warlock = "Démoniste")
+
+for key in reversed(di):
+    print(key)
+```
+
+## setdefault
+
 + `dict.setdefault(key, default = None)`
 
 ```python
@@ -125,17 +136,6 @@ print(di) # {'warrior': 'Guerrier', 'warlock': 'Démoniste'}
 print(di.setdefault("warrior")) # Guerrier
 print(di.setdefault("priest", "Prêtre")) # Prêtre
 print(di) # {'warrior': 'Guerrier', 'warlock': 'Démoniste', 'priest': 'Prêtre'}
-```
-
-## setdefault
-
-+ `reversed(dict)`
-
-```python
-di = dict(warrior = "Guerrier", warlock = "Démoniste")
-
-for key in reversed(di):
-    print(key)
 ```
 
 ## values
