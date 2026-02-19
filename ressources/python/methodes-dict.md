@@ -10,6 +10,7 @@
 > + [Supprimer et renvoyer la dernière paire ajoutée](#popitem)
 > + [Renvoyer un itérateur inversé sur les clés](#reversed)
 > + [Récupérer la valeur d'une clé, sinon ajouter l'élément](#setdefault)
+> + [Met à jour un dictionnaire](#update)
 > + [Récupérer une nouvelle vue de toutes les valeurs](#values)
 > + [Autres méthodes...](#autres-méthodes)
 
@@ -136,6 +137,18 @@ print(di) # {'warrior': 'Guerrier', 'warlock': 'Démoniste'}
 print(di.setdefault("warrior")) # Guerrier
 print(di.setdefault("priest", "Prêtre")) # Prêtre
 print(di) # {'warrior': 'Guerrier', 'warlock': 'Démoniste', 'priest': 'Prêtre'}
+```
+
+## update
+
++ `dict.update(**kwargs)`
+
+```python
+di = dict(warrior = "Guerrier", warlock = "Démoniste")
+print(di) # {'warrior': 'Guerrier', 'warlock': 'Démoniste'}
+
+di.update(hunter = "Chasseur", warrior = "Combattant")
+print(di) # {'warrior': 'Combattant', 'warlock': 'Démoniste', 'hunter': 'Chasseur'}
 ```
 
 ## values
