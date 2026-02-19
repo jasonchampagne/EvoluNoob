@@ -1,9 +1,9 @@
 # Méthodes pour les dictionnaires (dict)
 
 > **SOMMAIRE**
+> + [Supprimer tous les éléments](#clear)
 > + [Copier un dictionnaire](#copy)
 > + [Récupérer la valeur d'une clé](#get)
-> + [Supprimer tous les éléments](#clear)
 
 ---
 
