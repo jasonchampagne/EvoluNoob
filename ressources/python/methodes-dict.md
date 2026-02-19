@@ -8,6 +8,7 @@
 > + [Récupérer une nouvelle vue de toutes les clés](#keys)
 > + [Supprimer un élément et renvoyer sa valeur](#pop)
 > + [Supprimer et renvoyer la dernière paire ajoutée](#popitem)
+> + [Renvoyer un itérateur inversé sur les clés](#reversed)
 > + [Récupérer une nouvelle vue de toutes les valeurs](#values)
 > + [Autres méthodes...](#autres-méthodes)
 
@@ -110,6 +111,17 @@ try:
     print(f"Élément retiré -> {removed_pair}")
 except KeyError:
     print("Dictionnaire vide")
+```
+
+## reversed
+
++ `reversed(dict)`
+
+```python
+di = dict(warrior = "Guerrier", warlock = "Démoniste")
+
+for key in reversed(di):
+    print(key)
 ```
 
 ## values
