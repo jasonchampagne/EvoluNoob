@@ -44,6 +44,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |**C#**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEu4Dlb5-zQVgKycdUkayer)<br>🔗[exercices](https://github.com/jasonchampagne/EvoluNoob/blob/main/exercices/csharp.md)|Langage de programmation l'écosystème .NET, utilisé pour le développement d'applications, de services et de jeux|🔵|
 |**CSS**|_à venir_|Langage de style permettant de définir la mise en forme, la disposition et le rendu visuel des pages web|🔵|
 |**Cybersécurité**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGZldbRbCNrHSTuSIg55W6F)|Ensemble de concepts et de techniques visant à protéger les systèmes, les réseaux et les données contre les attaques et les vulnérabilités|🟣|
+|**Dépannage**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHObN3pKK1n3PEmSoUduyF9)||⚪|
 |**Django**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGEAtBUsBLqgnyakhRMx6vv)|Cadriciel web Python basé sur le modèle MVT, conçu pour le développement structuré d'applications web|🟡|
 |**Docker**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfH9Ty2WuViWfWggFXV1wbY9)|Plateforme de conteneurisation permettant d'isoler, déployer et exécuter des applications de manière reproductible|🟢|
 |**GCC**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHgKutFx0P7cr0jZud1YzA2)|Collection de compilateurs permettant de traduire du code source en code machine et de contrôler finement les étapes de compilation|🟢|
