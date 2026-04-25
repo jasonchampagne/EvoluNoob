@@ -1,0 +1,126 @@
+# Méthodes pour les chaînes de caractères (str)
+
+> **SOMMAIRE**
+> + [Ajouter un élément à la fin](#append)
+> + [Insérer un élément à une position spécifique](#insert)
+> + [Ajouter les éléments d'un itérable à la fin d'une liste](#extend)
+> + [Supprimer le premier élément ayant la valeur spécifiée](#remove)
+> + [Supprimer un élément et le renvoyer](#pop)
+> + [Supprimer tous les éléments](#clear)
+> + [Trier tous les éléments](#sort)
+> + [Inverser l'ordre des éléments](#reverse)
+> + [Autres méthodes...](#autres-méthodes)
+
+---
+
+## append
+
++ `list.append(value)`
+
+```python
+li = list("EvoluNoo")
+li.append("b")
+print(li) # ['E', 'v', 'o', 'l', 'u', 'o', 'o', 'b']
+```
+
+## insert
+
++ `list.insert(i, x)`
+
+```python
+li = list("Evoluoob")
+li.insert(5, "N")
+print(li) # ['E', 'v', 'o', 'l', 'u', 'o', 'o', 'b']
+```
+
+## extend
+
++ `list.extend(iterable)`
+
+```python
+numbers = [1, 2, 3]
+print(numbers) # [1, 2, 3]
+numbers.extend([4, 5, 6, 7, 8, 9])
+print(numbers) # [1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+li = list("Evolu")
+print(li) # ['E', 'v', 'o', 'l', 'u']
+li.extend("Noob")
+print(li) # ['E', 'v', 'o', 'l', 'u', 'o', 'o', 'b']
+```
+
+## remove
+
++ `list.remove(x)`
+
+```python
+numbers = [36, -7, 0, 145, 3, 137, -45, 0, 1]
+print(numbers) # [36, -7, 0, 145, 3, 137, -45, 0, 1]
+
+try:
+    numbers.remove(0)
+    print(numbers) # [36, -7, 145, 3, 137, -45, 0, 1]
+except ValueError:
+    print("Cet élément n'existe pas dans la liste", file = sys.stderr)
+```
+
+## pop
+
++ `list.pop([i])`
+
+```python
+li = list("EvoluNoob")
+
+try:
+    li.pop()  # Supprime et renvoie le dernier élément
+    print(li) # ['E', 'v', 'o', 'l', 'u', 'N', 'o', 'o']
+
+    li.pop(3) # Supprime l'élément à l'indice 3
+    print(li) # ['E', 'v', 'o', 'u', 'N', 'o', 'o']
+except IndexError:
+    print("Indice incorrect ou liste vide", file = sys.stderr)
+```
+
+## clear
+
++ `list.clear()`
+
+```python
+li = list("Evoluoob")
+print(li) # ['E', 'v', 'o', 'l', 'u', 'o', 'o', 'b']
+
+li.clear()
+print(li) # []
+```
+
+## sort
+
++ `list.sort(*, key = None, reverse = False)`
+
+```python
+animals = ["tortue", "elephant", "rat", "chat", "aigle", "chien"]
+print(animals)          # ['tortue', 'elephant', 'rat', 'chat', 'aigle', 'chien']
+
+animals.sort()          # Trie par ordre lexicographique
+print(animals)          # ['aigle', 'chat', 'chien', 'elephant', 'rat', 'tortue']
+
+animals.sort(key = len) # Trie en utilisant la fonction « len »
+print(animals)          # ['rat', 'chat', 'aigle', 'chien', 'tortue', 'elephant']
+```
+
+## reverse
+
++ `list.reverse()`
+
+```python
+numbers = [1, 2, 3, 4, 5]
+print(numbers) # [1, 2, 3, 4, 5]
+
+numbers.reverse()
+print(numbers) # [5, 4, 3, 2, 1]
+```
+---
+
+## Autres méthodes
+
+> [Documentation Python](https://docs.python.org/3/library/stdtypes.html#typesseq-list)
