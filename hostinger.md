@@ -7,7 +7,8 @@ Depuis 2023, je suis partenaire avec [Hostinger](https://www.hostinger.com/fr), 
 > [!Note]
 > **Notez que passer par les liens affiliés ci-dessous me permet de toucher une commission. En plus d'apporter une rémunération supplémentaire (pour un service que vous allez utiliser), cela permet de « rassurer » la marque et de permettre au partenariat de continuer**.
 
-Avant de finaliser votre commande, utilisez le code promo **FORMATIONVIDEO** (ou **EVOLUNOOB**) pour profiter de 10 % de réduction supplémentaire !
+Avant de finaliser votre commande, utilisez le code promo pour profiter de 10 % de réduction supplémentaire :
++ **FORMATIONVIDEO** (ou **EVOLUNOOB**)
 
 ---
 
