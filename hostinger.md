@@ -16,7 +16,7 @@ Avant de finaliser votre commande, utilisez le code promo pour profiter de 10 % 
 
 > _Si vous voulez publier en ligne un site statique en HTML/CSS, un site en PHP, des bases de données SQL, une application web NodeJS, un site sous WordPress ou une boutique WooCommerce._
 
-Il s'agit d'un hébergement où plusieurs sites web partagent les ressources d'un même serveur physique (processeur, mémoire, espace disque, ...) pour réduire les coûts, mais avec des performances qui peuvent être affectées par le trafic des voisins. Convient pour des sites personnels et à faible/moyen trafic.
+Il s'agit d'un hébergement où plusieurs sites web partagent les ressources d'un même serveur physique (processeur, RAM, espace disque, ...) pour réduire les coûts, mais avec des performances qui peuvent être affectées par le trafic des voisins. Convient pour des sites personnels et à faible/moyen trafic.
 
 |OFFRE|DESCRIPTION|LIEN|
 |:--|:--|:--|
