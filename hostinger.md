@@ -25,7 +25,7 @@ Il s'agit d'un hébergement où plusieurs sites web partagent les ressources d'u
 
 ## Serveur virtuel privé
 
-> _Si vous voulez disposer d'un espace dédié, installer votre propre système d'exploitation (ArchLinux, CentOS, Debian, Kali, Ubuntu, ...), puis installer et configurer les applications de votre choix (Docker, Nginx, Node, Django, un agent IA, ...) ; nécessite un minimum de connaissances en administration de serveur._
+> _Si vous voulez disposer d'un espace dédié, installer votre propre système d'exploitation (ArchLinux, CentOS, Debian, Kali, Ubuntu, ...), puis installer et configurer les applications de votre choix (Apache HTTPd, Docker, Nginx, NodeJS, Django, un agent IA, ...) ; nécessite un minimum de connaissances en administration de serveur._
 
 Il s'agit du partitionnement d'un serveur physique en plusieurs environnements isolés, chacun disposant de ressources dédiées et d'une indépendance logicielle, offrant un bon compromis entre performances, flexibilité et prix.
 
