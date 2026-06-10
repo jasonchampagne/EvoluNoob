@@ -6,14 +6,14 @@ Depuis 2023, je suis partenaire avec [Hostinger](https://www.hostinger.com/fr), 
 
 |OFFRE|DESCRIPTION|LIEN|
 |:--|:--|:--|
-|Standard|||
-|NodeJS|||
-|WordPress|||
+|Standard||[**https://www.hostg.xyz/SHJO4**](https://www.hostg.xyz/SHJO4)|
+|NodeJS||[**https://www.hostg.xyz/SHJOe**](https://www.hostg.xyz/SHJOe)|
+|WordPress||[**https://www.hostg.xyz/SHGMc**](https://www.hostg.xyz/SHGMc)|
 
 ## Serveur virtuel privé
 
 |OFFRE|DESCRIPTION|LIEN|
 |:--|:--|:--|
-|Hermes Agent|||
-|N8N|||
-|OpenClaw|||
+|Hermes Agent||[**https://www.hostg.xyz/SHJUW**](https://www.hostg.xyz/SHJUW)|
+|N8N||[**https://www.hostg.xyz/SHIr9**](https://www.hostg.xyz/SHIr9)|
+|OpenClaw||[**https://www.hostg.xyz/SHI1q**](https://www.hostg.xyz/SHI1q)|
