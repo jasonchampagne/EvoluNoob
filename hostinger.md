@@ -6,6 +6,8 @@ Depuis 2023, je suis partenaire avec [Hostinger](https://www.hostinger.com/fr), 
 
 ## Hébergement mutualisé
 
+> [!NOTE] _Hébergement où plusieurs sites web partagent les ressources d’un même serveur physique (processeur, mémoire, espace disque, ...) pour réduire les coûts, mais avec des performances qui peuvent être affectées par le trafic des voisins. Convient pour des sites personnels et/ou à faible trafic._
+
 |OFFRE|DESCRIPTION|LIEN|
 |:--|:--|:--|
 |Standard||[**https://www.hostg.xyz/SHJO4**](https://www.hostg.xyz/SHJO4)|
@@ -13,6 +15,8 @@ Depuis 2023, je suis partenaire avec [Hostinger](https://www.hostinger.com/fr), 
 |WordPress||[**https://www.hostg.xyz/SHGMc**](https://www.hostg.xyz/SHGMc)|
 
 ## Serveur virtuel privé
+
+> [!NOTE] _Partitionnement d’un serveur physique en plusieurs environnements isolés, chacun disposant de ressources dédiées et d'une indépendance logicielle, offrant un bon compromis entre performances, flexibilité et prix. Permet d'installer votre propre système d'exploitation et vos applications, comme vous le feriez en local sur votre propre ordinateur._
 
 |OFFRE|DESCRIPTION|LIEN|
 |:--|:--|:--|
