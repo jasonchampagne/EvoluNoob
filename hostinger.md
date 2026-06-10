@@ -7,9 +7,15 @@ Depuis 2023, je suis partenaire avec [Hostinger](https://www.hostinger.com/fr), 
 > [!Note]
 > **Notez que passer par les liens affiliés ci-dessous me permet de toucher une commission. En plus d'apporter une rémunération supplémentaire (pour un service que vous allez utiliser), cela permet de « rassurer » la marque et de permettre au partenariat de continuer**.
 
+Avant de finaliser votre commande, utilisez le code promo **FORMATIONVIDEO** (ou **EVOLUNOOB**) pour profiter de 10 % de réduction supplémentaire !
+
+---
+
 ## Hébergement mutualisé
 
-> _Hébergement où plusieurs sites web partagent les ressources d’un même serveur physique (processeur, mémoire, espace disque, ...) pour réduire les coûts, mais avec des performances qui peuvent être affectées par le trafic des voisins. Convient pour des sites personnels et/ou à faible trafic._
+> _Si vous voulez publier en ligne un site statique en HTML/CSS, un site en PHP, des bases de données SQL, une application web NodeJS, un site sous WordPress ou une boutique WooCommerce._
+
+Il s'agit d'un hébergement où plusieurs sites web partagent les ressources d'un même serveur physique (processeur, mémoire, espace disque, ...) pour réduire les coûts, mais avec des performances qui peuvent être affectées par le trafic des voisins. Convient pour des sites personnels et à faible/moyen trafic.
 
 |OFFRE|DESCRIPTION|LIEN|
 |:--|:--|:--|
@@ -19,7 +25,9 @@ Depuis 2023, je suis partenaire avec [Hostinger](https://www.hostinger.com/fr), 
 
 ## Serveur virtuel privé
 
-> _Partitionnement d’un serveur physique en plusieurs environnements isolés, chacun disposant de ressources dédiées et d'une indépendance logicielle, offrant un bon compromis entre performances, flexibilité et prix. Permet d'installer votre propre système d'exploitation et vos applications, comme vous le feriez en local sur votre propre ordinateur._
+> _Si vous voulez disposer d'un espace dédié, installer votre propre système d'exploitation (ArchLinux, CentOS, Debian, Kali, Ubuntu, ...), puis installer et configurer les applications de votre choix (Docker, Nginx, Node, Django, un agent IA, ...) ; nécessite un minimum de connaissances en administration de serveur._
+
+Il s'agit du partitionnement d'un serveur physique en plusieurs environnements isolés, chacun disposant de ressources dédiées et d'une indépendance logicielle, offrant un bon compromis entre performances, flexibilité et prix.
 
 |OFFRE|DESCRIPTION|LIEN|
 |:--|:--|:--|
