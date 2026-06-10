@@ -4,9 +4,11 @@
 
 Depuis 2023, je suis partenaire avec [Hostinger](https://www.hostinger.com/fr), une plateforme d'hébergement web. Via des vidéos sponsorisées, je présente chaque mois un de leurs services sur ma chaîne YouTube auprès de mon audience, vous.
 
+[!Note] Notez que passer par les liens affiliés ci-dessous me permet de toucher une commission. En plus d'apporter une rémunération supplémentaire (pour un service que vous allez utiliser), cela permet de « rassurer » la marque et de **permettre au partenariat de continuer**.
+
 ## Hébergement mutualisé
 
-> [! NOTE] _Hébergement où plusieurs sites web partagent les ressources d’un même serveur physique (processeur, mémoire, espace disque, ...) pour réduire les coûts, mais avec des performances qui peuvent être affectées par le trafic des voisins. Convient pour des sites personnels et/ou à faible trafic._
+> _Hébergement où plusieurs sites web partagent les ressources d’un même serveur physique (processeur, mémoire, espace disque, ...) pour réduire les coûts, mais avec des performances qui peuvent être affectées par le trafic des voisins. Convient pour des sites personnels et/ou à faible trafic._
 
 |OFFRE|DESCRIPTION|LIEN|
 |:--|:--|:--|
@@ -16,7 +18,7 @@ Depuis 2023, je suis partenaire avec [Hostinger](https://www.hostinger.com/fr), 
 
 ## Serveur virtuel privé
 
-> [! NOTE] _Partitionnement d’un serveur physique en plusieurs environnements isolés, chacun disposant de ressources dédiées et d'une indépendance logicielle, offrant un bon compromis entre performances, flexibilité et prix. Permet d'installer votre propre système d'exploitation et vos applications, comme vous le feriez en local sur votre propre ordinateur._
+> _Partitionnement d’un serveur physique en plusieurs environnements isolés, chacun disposant de ressources dédiées et d'une indépendance logicielle, offrant un bon compromis entre performances, flexibilité et prix. Permet d'installer votre propre système d'exploitation et vos applications, comme vous le feriez en local sur votre propre ordinateur._
 
 |OFFRE|DESCRIPTION|LIEN|
 |:--|:--|:--|
