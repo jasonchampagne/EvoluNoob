@@ -5,7 +5,7 @@
 Depuis 2023, je suis partenaire avec [Hostinger](https://www.hostinger.com/fr), une plateforme d'hébergement web. Via des vidéos sponsorisées, je présente chaque mois un de leurs services sur ma chaîne YouTube auprès de mon audience, vous.
 
 > [!Note]
-> Notez que passer par les liens affiliés ci-dessous me permet de toucher une commission. En plus d'apporter une rémunération supplémentaire (pour un service que vous allez utiliser), cela permet de « rassurer » la marque et de **permettre au partenariat de continuer**.
+> **__Notez que passer par les liens affiliés ci-dessous me permet de toucher une commission. En plus d'apporter une rémunération supplémentaire (pour un service que vous allez utiliser), cela permet de « rassurer » la marque et de permettre au partenariat de continuer__**.
 
 ## Hébergement mutualisé
 
