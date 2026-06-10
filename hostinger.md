@@ -15,5 +15,5 @@ Depuis 2023, je suis partenaire avec [Hostinger](https://www.hostinger.com/fr), 
 |OFFRE|DESCRIPTION|LIEN|
 |:--|:--|:--|
 |Hermes Agent||[**https://www.hostg.xyz/SHJUW**](https://www.hostg.xyz/SHJUW)|
-|N8N||[**https://www.hostg.xyz/SHIr9**](https://www.hostg.xyz/SHIr9)|
-|OpenClaw||[**https://www.hostg.xyz/SHI1q**](https://www.hostg.xyz/SHI1q)|
+|N8N||[**https://www.hostg.xyz/SHI1q**](https://www.hostg.xyz/SHI1q)|
+|OpenClaw||[**https://www.hostg.xyz/SHIr9**](https://www.hostg.xyz/SHIr9)|
