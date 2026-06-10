@@ -21,7 +21,7 @@ Il s'agit d'un hébergement où plusieurs sites web partagent les ressources d'u
 |OFFRE|DESCRIPTION|LIEN|
 |:--|:--|:--|
 |**Standard**|Offre « classique » pour un site HTML/CSS, PHP et SQL|[**https://www.hostg.xyz/SHJO4**](https://www.hostg.xyz/SHJO4)|
-|**NodeJS**|Offre d'hébergement conçue pour développer et développer des applications NodeJS|[**https://www.hostg.xyz/SHJOe**](https://www.hostg.xyz/SHJOe)|
+|**NodeJS**|Offre d'hébergement conçue pour développer et déployer des applications NodeJS|[**https://www.hostg.xyz/SHJOe**](https://www.hostg.xyz/SHJOe)|
 |**WordPress**|Offre « classique » mais qui intègre des outils d'installation et de gestion pour WordPress|[**https://www.hostg.xyz/SHGMc**](https://www.hostg.xyz/SHGMc)|
 
 ## Serveur virtuel privé
