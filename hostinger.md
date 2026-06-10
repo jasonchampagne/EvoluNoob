@@ -20,9 +20,9 @@ Il s'agit d'un hébergement où plusieurs sites web partagent les ressources d'u
 
 |OFFRE|DESCRIPTION|LIEN|
 |:--|:--|:--|
-|Standard|Offre « classique » pour un site HTML/CSS, PHP et SQL|[**https://www.hostg.xyz/SHJO4**](https://www.hostg.xyz/SHJO4)|
-|NodeJS|Offre d'hébergement conçue pour développer et développer des applications NodeJS|[**https://www.hostg.xyz/SHJOe**](https://www.hostg.xyz/SHJOe)|
-|WordPress|Offre « classique » mais qui intègre des outils d'installation et de gestion pour WordPress|[**https://www.hostg.xyz/SHGMc**](https://www.hostg.xyz/SHGMc)|
+|**Standard**|Offre « classique » pour un site HTML/CSS, PHP et SQL|[**https://www.hostg.xyz/SHJO4**](https://www.hostg.xyz/SHJO4)|
+|**NodeJS**|Offre d'hébergement conçue pour développer et développer des applications NodeJS|[**https://www.hostg.xyz/SHJOe**](https://www.hostg.xyz/SHJOe)|
+|**WordPress**|Offre « classique » mais qui intègre des outils d'installation et de gestion pour WordPress|[**https://www.hostg.xyz/SHGMc**](https://www.hostg.xyz/SHGMc)|
 
 ## Serveur virtuel privé
 
@@ -32,6 +32,6 @@ Il s'agit du partitionnement d'un serveur physique en plusieurs environnements i
 
 |OFFRE|DESCRIPTION|LIEN|
 |:--|:--|:--|
-|Hermes Agent|Offre avec agent Hermes déjà installé et prêt à l'emploi|[**https://www.hostg.xyz/SHJUW**](https://www.hostg.xyz/SHJUW)|
-|N8N|Offre avec n8n déjà installé et prêt à l'emploi|[**https://www.hostg.xyz/SHI1q**](https://www.hostg.xyz/SHI1q)|
-|OpenClaw|Offre avec OpenClaw déjà installé et prêt à l'emploi|[**https://www.hostg.xyz/SHIr9**](https://www.hostg.xyz/SHIr9)|
+|**Hermes Agent**|Offre avec agent Hermes déjà installé et prêt à l'emploi|[**https://www.hostg.xyz/SHJUW**](https://www.hostg.xyz/SHJUW)|
+|**N8N**|Offre avec n8n déjà installé et prêt à l'emploi|[**https://www.hostg.xyz/SHI1q**](https://www.hostg.xyz/SHI1q)|
+|**OpenClaw**|Offre avec OpenClaw déjà installé et prêt à l'emploi|[**https://www.hostg.xyz/SHIr9**](https://www.hostg.xyz/SHIr9)|
