@@ -35,3 +35,11 @@ Il s'agit du partitionnement d'un serveur physique en plusieurs environnements i
 |**Hermes Agent**|Offre avec agent Hermes déjà installé et prêt à l'emploi|[**https://www.hostg.xyz/SHJUW**](https://www.hostg.xyz/SHJUW)|
 |**N8N**|Offre avec n8n déjà installé et prêt à l'emploi|[**https://www.hostg.xyz/SHI1q**](https://www.hostg.xyz/SHI1q)|
 |**OpenClaw**|Offre avec OpenClaw déjà installé et prêt à l'emploi|[**https://www.hostg.xyz/SHIr9**](https://www.hostg.xyz/SHIr9)|
+
+---
+
+## Quelques vidéos utiles
+
++ [Tutoriels Hostinger](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF_WGMhMpYeE9OIvnjml8dJ)
++ [Cours WordPress](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGZREbxMZqI-tf-1NaFCW3A)
++ [Tutoriels WordPress](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGmQHHN-36CiazjL6AJ3jna)
