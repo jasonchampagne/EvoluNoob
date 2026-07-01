@@ -32,10 +32,6 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 
 > [!NOTE]
 > _Les exercices (et corrigés) sont accessibles gratuitement pour tous sur le [**Discord VIP**](https://discord.gg/7mJaJ6Js2Z)_
-
-> 🟣Conceptes théoriques | 🔴Langues | 🔵Langages informatiques | 🟢Applications et systèmes<br>
-> 🟡Bibliothèques & cadriciels | 🟠Gestionnaires de contenus (_CMS_) | 🟤Plateformes | ⚪Divers
-
 |NOM|CONTENUS|DESCRIPTION|-|
 |--:|:--|:--|:--:|
 |3D|||🟣|
@@ -174,6 +170,8 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |**WordPress**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGZREbxMZqI-tf-1NaFCW3A)<br>🔗[tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGmQHHN-36CiazjL6AJ3jna)|Vidéos sponsorisées autour du système de gestion de contenu permettant de créer et administrer des sites web à partir de thèmes et extensions|🟠|
 |Writer|||🟢|
 |**YouTube**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHIomLSawWMNMQNHEUiCFpn)|Plateforme de diffusion vidéo abordée sous l'angle de l'utilisation, de la création de contenus, des règles et des mécanismes de monétisation|🟤|
+> 🟣Conceptes théoriques | 🔴Langues | 🔵Langages informatiques | 🟢Applications et systèmes<br>
+> 🟡Bibliothèques & cadriciels | 🟠Gestionnaires de contenus (_CMS_) | 🟤Plateformes | ⚪Divers
 
 ---
 
