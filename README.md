@@ -32,6 +32,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 
 > [!NOTE]
 > _Les exercices (et corrigés) sont accessibles gratuitement pour tous sur le [**Discord VIP**](https://discord.gg/7mJaJ6Js2Z)_
+
 |NOM|CONTENUS|DESCRIPTION|-|
 |--:|:--|:--|:--:|
 |3D|||🟣|
