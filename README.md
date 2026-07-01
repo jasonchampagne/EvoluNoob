@@ -31,7 +31,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 ## Vidéos disponibles
 
 > [!NOTE]
-> _Les exerices (corrigés) sont accessibles gratuitement pour tous sur le [**Discord VIP**](https://discord.gg/7mJaJ6Js2Z)_
+> _Les exercices (et corrigés) sont accessibles gratuitement pour tous sur le [**Discord VIP**](https://discord.gg/7mJaJ6Js2Z)_
 
 > 🟣Conceptes théoriques | 🔴Langues | 🔵Langages informatiques | 🟢Applications et systèmes<br>
 > 🟡Bibliothèques & cadriciels | 🟠Gestionnaires de contenus (_CMS_) | 🟤Plateformes | ⚪Divers
