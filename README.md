@@ -178,4 +178,6 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 
 ## Anciens contenus
 
-Des anciennes vidéos (avant le changement de nom de la chaîne) sont centralisées sur le [dépôt FormationVidéo](https://github.com/jasonchampagne/FormationVideo)
+Quelques playlists d'anciens cours (_FormationVidéo_) sont également disponibles :
+
++ [Windows 10](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFl6k7dLGdm3vrqYufjpwBw)
