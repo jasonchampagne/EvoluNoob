@@ -178,6 +178,6 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 
 ## Anciens contenus
 
-Quelques playlists d'anciens cours (_FormationVidéo_) sont également disponibles :
+Quelques playlists d'anciens cours (quand la chaîne s'appelait encore _FormationVidéo_) sont également disponibles :
 
 + [Windows 10](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFl6k7dLGdm3vrqYufjpwBw)
