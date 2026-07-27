@@ -65,7 +65,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |Darktable|||🟢|
 |Dart|||🔵|
 |DaVinci Resolve|||🟢|
-|**Dépannage**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHObN3pKK1n3PEmSoUduyF9)|Guides de résolution à des problèmes divers et récurrents|⚪|
+|**Dépannage**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHObN3pKK1n3PEmSoUduyF9)|Guides de résolution de problèmes divers et récurrents|⚪|
 |Dessin|||🟣|
 |Discord|||🟢|
 |**Django**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGEAtBUsBLqgnyakhRMx6vv)|Cadriciel web Python basé sur le modèle MVT, conçu pour le développement structuré d'applications web|🟡|
@@ -112,6 +112,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |LMMS|||🟢|
 |LÖVE|||🟡|
 |Lua|||🔵|
+|Manuels|🔗[playlist](https://www.youtube.com/playlist?list=PLHVPdge2_5PM)|Guides d'utilisation sur des logiciels divers et variés|⚪|
 |Maya|||🟢|
 |Netbeans|||🟢|
 |Nginx|||🟢|
