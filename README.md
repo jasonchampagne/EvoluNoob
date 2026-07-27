@@ -127,7 +127,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |Pixel-art|||🟣|
 |PowerPoint|||🟢|
 |Premiere Pro|||🟢|
-|Programmation|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGQA2j_506U-j0aai0tQsLn)||🟣|
+|Programmation|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGQA2j_506U-j0aai0tQsLn)<br>🔗[tutoriels](https://www.youtube.com/playlist?list=PLGMC7xPsCFvc)||🟣|
 |Pygame|||🟡|
 |**Python**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGqOK0slilcWpMdlJe7HGSw)<br>🔗[tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFfIEB6cFnpVQ7HLMt6tgSy)|Langage de programmation polyvalent caractérisé par une syntaxe simple et une large bibliothèque standard|🔵|
 |Prestashop|||🟠|
