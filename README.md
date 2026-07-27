@@ -132,7 +132,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |Prestashop|||🟠|
 |Qt|||🟡|
 |Raylib|||🟡|
-|React JS|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEvTrT_jtFiVC3WwziA3g2t)||🟡|
+|React|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEvTrT_jtFiVC3WwziA3g2t)||🟡|
 |REAPER|||🟢|
 |Ren'Py|||🟡|
 |Réseaux|||🟣|
