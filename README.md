@@ -133,19 +133,19 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |Prestashop|||🟠|
 |Qt|||🟡|
 |Raylib|||🟡|
-|React|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEvTrT_jtFiVC3WwziA3g2t)||🟡|
+|**React**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEvTrT_jtFiVC3WwziA3g2t)||🟡|
 |REAPER|||🟢|
 |Ren'Py|||🟡|
 |Réseaux|||🟣|
 |RPG Maker|||🟢|
 |Ruby|||🔵|
 |Ruby on Rails|||🟡|
-|**Rust**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHljymBnewGUGOZbkWknIz3)|Langage de programmation système axé sur la sécurité mémoire, la concurrence et la performance|🔵|
+|**Rust**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHljymBnewGUGOZbkWknIz3)<br>🔗[tutoriels](https://www.youtube.com/playlist?list=PLcyQlLAdRYwM)<br>🔗[exercices](https://www.youtube.com/playlist?list=PLFP3DNGBceoE)|Langage de programmation système axé sur la sécurité mémoire, la concurrence et la performance|🔵|
 |SDL|||🟡|
 |SFML|||🟡|
 |Son|||🟣|
 |Spring|||🟡|
-|**SQL**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfENtxyQRHAu86-wgcAMimvD)|Langage déclaratif utilisé pour interroger, structurer et manipuler des bases de données relationnelles|🔵|
+|**SQL**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfENtxyQRHAu86-wgcAMimvD)<br>🔗[tutoriels](https://www.youtube.com/playlist?list=PLW5xZGneGTFA)<br>🔗[exercices](https://www.youtube.com/playlist?list=PLSLSG82xhLjs)|Langage déclaratif utilisé pour interroger, structurer et manipuler des bases de données relationnelles|🔵|
 |**SQLPage**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGgDN4G0_KpqLJTUwewfQmE)|Cadriciel permettant de créer des interfaces web dynamiques à partir de requêtes SQL et de composants|🟡|
 |Studio One|||🟢|
 |Symfony|||🟡|
