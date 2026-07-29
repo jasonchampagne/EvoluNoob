@@ -39,7 +39,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |Ableton Live|||🟢|
 |Affinity|||🟢|
 |After Effects|||🟢|
-|**Algorithmie**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHW5muu-zfj_GOk4WUM_8nv)|Notions théoriques permettant de décomposer un problème, concevoir des algorithmes, analyser leur complexité et raisonner de manière logique et structurée|🟣|
+|**Algorithmie**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHW5muu-zfj_GOk4WUM_8nv)<br>🔗[tutoriels](https://www.youtube.com/playlist?list=PLeKA2jDfBXBA)|Notions théoriques permettant de décomposer un problème, concevoir des algorithmes, analyser leur complexité et raisonner de manière logique et structurée|🟣|
 |**Anatomie**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF41FrN33BJWLEK1t5yhB3W)|Étude de l'anatomie appliquée aux arts visuels, incluant le squelette, les muscles, les proportions et leur impact sur la représentation du corps|🟣|
 |Android|||🟢|
 |Anglais|||🔴|
