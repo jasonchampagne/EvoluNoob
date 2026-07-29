@@ -52,8 +52,8 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |Bootstrap|||🟡|
 |Business|||🟣|
 |**C**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHHRAZc013y4xNA6Y4B1CWP)<br>🔗[tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHNliI59BY0w483lu4SC7QP)<br>🔗[exercices](https://www.youtube.com/playlist?list=PLVjPzxj60w_c)|Langage de programmation procédural axé sur la performance, la gestion manuelle de la mémoire et le développement système|🔵|
-|**C++**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfH0zk6o4qEOIMgCAy9hIurm)|Langage de programmation multiparadigme, utilisé pour le développement d'applications performantes et complexes|🔵|
-|**C#**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEu4Dlb5-zQVgKycdUkayer)|Langage de programmation l'écosystème .NET, utilisé pour le développement d'applications, de services et de jeux|🔵|
+|**C++**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfH0zk6o4qEOIMgCAy9hIurm)<br>🔗[tutoriels](https://www.youtube.com/playlist?list=PLL4aXBL9RmkA)<br>🔗[exercices](https://www.youtube.com/playlist?list=PLfJnag1Y8zJ8)|Langage de programmation multiparadigme, utilisé pour le développement d'applications performantes et complexes|🔵|
+|**C#**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEu4Dlb5-zQVgKycdUkayer)<br>🔗[tutoriels](https://www.youtube.com/playlist?list=PLVmTYKUD-JvY)<br>🔗[exercices](https://www.youtube.com/playlist?list=PLXCqvSs4sWVw)|Langage de programmation l'écosystème .NET, utilisé pour le développement d'applications, de services et de jeux|🔵|
 |CakePHP|||🟡|
 |Calc|||🟢|
 |Chinois|||🔴|
