@@ -88,7 +88,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |Godot|||🟢|
 |Haskell|||🔵|
 |**Hostinger**|🔗[playlist](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF_WGMhMpYeE9OIvnjml8dJ)|Vidéos sponsorisées autour de l'hébergeur Hostinger, recommandé par WordPress|⚪|
-|**HTML**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGCdOlEsXvPYQ2XNtFsHKxo)|Langage de balisage servant à structurer le contenu et la sémantique des pages web|🔵|
+|**HTML**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGCdOlEsXvPYQ2XNtFsHKxo)<br>🔗[tutoriels](https://www.youtube.com/playlist?list=PLTqYpXZ2Uwv0)<br>🔗[exercices](https://www.youtube.com/playlist?list=PLDsPToZF0yWQ)|Langage de balisage servant à structurer le contenu et la sémantique des pages web|🔵|
 |HTTPd|||🟢|
 |**Immersion**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHbVuhQbfGik2YouR-UtPQV)|_(Description à venir quand la playlist sera terminée)_|🟣|
 |Impress|||🟢|
