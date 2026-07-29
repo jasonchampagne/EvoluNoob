@@ -82,7 +82,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |GDB|||🟢|
 |GIMP|||🟢|
 |**Git**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF2MIop-O1bSD8Z8Jr8yTSE)<br>🔗[tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFawWadiNsrgiJz324hVDOA)||🟢|
-|**GNU/Linux**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfH7yrwku5D8t_LiQow9qnP1)|Système d’exploitation basé sur Unix, utilisé historiquement pour le développement, l'administration système et les serveurs|🟢|
+|**GNU/Linux**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfH7yrwku5D8t_LiQow9qnP1)<br>🔗[tutoriels](https://www.youtube.com/playlist?list=PLFXGZlabzIr8)|Système d’exploitation basé sur Unix, utilisé historiquement pour le développement, l'administration système et les serveurs|🟢|
 |Go|||🔵|
 |**Graphisme**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEUH-54SqpLyyDjD9u6MOT4)|Ensemble des pratiques visuelles qui consistent à concevoir, organiser et produire des images ou des compositions visuelles pour transmettre une idée, une information ou une émotion|🟣|
 |Godot|||🟢|
