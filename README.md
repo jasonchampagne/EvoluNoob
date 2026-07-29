@@ -46,7 +46,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |Angular|||🟡|
 |**Architecture**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFrnz5zRvjPBqlSpac3hWqZ)|Description du fonctionnement interne des ordinateurs, incluant le processeur, la mémoire, les bus, les instructions et leur exécution par le matériel|🟣|
 |Aseprite|||🟢|
-|**Assembleur**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHno2i7AiLHe3DafDuAmCVM)|Langage de programmation permettant d'interagir directement avec le processeur, les registres et la mémoire|🔵|
+|**Assembleur**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHno2i7AiLHe3DafDuAmCVM)<br>🔗[tutoriels](https://www.youtube.com/playlist?list=PLPXWzXCY9aDg)<br>🔗[exercices](https://www.youtube.com/playlist?list=PLE7wFQl5yttE)|Langage de programmation permettant d'interagir directement avec le processeur, les registres et la mémoire|🔵|
 |Audacity|||🟢|
 |Blender|||🟢|
 |Bootstrap|||🟡|
