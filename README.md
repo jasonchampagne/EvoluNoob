@@ -94,9 +94,9 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |Impress|||🟢|
 |Inkscape|||🟢|
 |Japonais|||🔴|
-|**Java**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGh4I9gaRvDA_A6JCO9iNDN)|Langage de programmation reposant sur une machine virtuelle, conçu pour être portable et robuste|🔵|
+|**Java**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGh4I9gaRvDA_A6JCO9iNDN)<br>🔗[tutoriels](https://www.youtube.com/playlist?list=PLE_RFWBD3d8g)<br>🔗[exercices](https://www.youtube.com/playlist?list=PLInwEC_nlJXI)|Langage de programmation reposant sur une machine virtuelle, conçu pour être portable et robuste|🔵|
 |**JavaFX**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGs40s2u_cspUO4UPeVTrO4)|Bibliothèque graphique destinée à la création d'interfaces graphiques riches pour les applications Java|🟡|
-|**JavaScript**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfE9-_PykF6w7lHPohfQmQy9)|Langage de programmation principalement utilisé pour rendre les pages web interactives et gérer la logique côté client et serveur|🔵|
+|**JavaScript**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfE9-_PykF6w7lHPohfQmQy9)<br>🔗[tutoriels](https://www.youtube.com/playlist?list=PLauaLITH0h8Y)<br>🔗[exercices](https://www.youtube.com/playlist?list=PLdr31GGlG4RU)|Langage de programmation principalement utilisé pour rendre les pages web interactives et gérer la logique côté client et serveur|🔵|
 |Jeet Kune Do|||🟣|
 |Jeu vidéo|||🟣|
 |Joomla|||🟠|
@@ -112,7 +112,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |LMMS|||🟢|
 |LÖVE|||🟡|
 |Lua|||🔵|
-|Manuels|🔗[playlist](https://www.youtube.com/playlist?list=PLHVPdge2_5PM)|Guides d'utilisation sur des logiciels divers et variés|⚪|
+|**Manuels**|🔗[playlist](https://www.youtube.com/playlist?list=PLHVPdge2_5PM)|Guides d'utilisation sur des logiciels divers et variés|⚪|
 |Maya|||🟢|
 |Netbeans|||🟢|
 |Nginx|||🟢|
@@ -121,7 +121,7 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |OBS Studio|||🟢|
 |Photographie|||🟣|
 |Photoshop|||🟢|
-|**PHP**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfH5TGlIumlFePD4ZhzlCwgU)|Langage de programmation côté serveur destiné à la création de sites web dynamiques et à l'interaction avec des bases de données|🔵|
+|**PHP**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfH5TGlIumlFePD4ZhzlCwgU)<br>🔗[tutoriels](https://www.youtube.com/playlist?list=PLaL2rRDCQh2g)<br>🔗[exercices](https://www.youtube.com/playlist?list=PLZx5AttVbPlA)|Langage de programmation côté serveur destiné à la création de sites web dynamiques et à l'interaction avec des bases de données|🔵|
 |PHPBoost|||🟠|
 |Piano|||🟣|
 |Pixel-art|||🟣|
