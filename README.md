@@ -174,11 +174,3 @@ Elle est le point de départ de tout et vous donnera les « outils » pour appre
 |**YouTube**|🔗[cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHIomLSawWMNMQNHEUiCFpn)|Plateforme de diffusion vidéo abordée sous l'angle de l'utilisation, de la création de contenus, des règles et des mécanismes de monétisation|🟤|
 > 🟣Conceptes théoriques | 🔴Langues | 🔵Langages informatiques | 🟢Applications et systèmes<br>
 > 🟡Bibliothèques & cadriciels | 🟠Gestionnaires de contenus (_CMS_) | 🟤Plateformes | ⚪Divers
-
----
-
-## Anciens contenus
-
-Quelques playlists d'anciens cours (quand la chaîne s'appelait encore _FormationVidéo_) sont également disponibles :
-
-+ [Windows 10](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFl6k7dLGdm3vrqYufjpwBw)
