@@ -37,6 +37,12 @@ Il s'agit du partitionnement d'un serveur physique en plusieurs environnements i
 |**N8N**|Offre avec n8n déjà installé et prêt à l'emploi|[**https://www.hostg.xyz/SHI1q**](https://www.hostg.xyz/SHI1q)|
 |**OpenClaw**|Offre avec OpenClaw déjà installé et prêt à l'emploi|[**https://www.hostg.xyz/SHIr9**](https://www.hostg.xyz/SHIr9)|
 
+## Divers
+
+|OFFRE|DESCRIPTION|LIEN|
+|:--|:--|:--|
+|**Agent IA**||[**https://www.hostg.xyz/SHK41**](https://www.hostg.xyz/SHK41)|
+
 ---
 
 ## Quelques vidéos utiles
