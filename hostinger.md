@@ -41,7 +41,7 @@ Il s'agit du partitionnement d'un serveur physique en plusieurs environnements i
 
 |OFFRE|DESCRIPTION|LIEN|
 |:--|:--|:--|
-|**Agent IA**|Offre avec application d'automatisation IA (Hermes, n8n, OpenClaw, Paperclip), sans configuration, maintenance ni gestion de l'infrastructure.|[**https://www.hostg.xyz/SHK41**](https://www.hostg.xyz/SHK41)|
+|**Agent-IA**|Offre avec application d'automatisation IA (Hermes, n8n, OpenClaw, Paperclip), sans configuration, maintenance ni gestion de l'infrastructure|[**https://www.hostg.xyz/SHK41**](https://www.hostg.xyz/SHK41)|
 
 ---
 
