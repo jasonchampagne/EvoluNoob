@@ -2,7 +2,7 @@
 
 ![Hostinger logo](https://github.com/jasonchampagne/EvoluNoob/blob/main/assets/hostinger.webp)
 
-Depuis 2023, je suis partenaire avec [Hostinger](https://www.hostinger.com/fr), une plateforme d'hébergement web. Via des vidéos sponsorisées, je présente chaque mois un de leurs services sur ma chaîne YouTube auprès de mon audience, vous.
+Depuis quelques années, je suis partenaire avec [Hostinger](https://www.hostinger.com/fr), une plateforme d'hébergement web. Via des vidéos sponsorisées, je présente chaque mois un de leurs services sur ma chaîne YouTube auprès de mon audience, vous.
 
 > [!Note]
 > **Utiliser un des liens affiliés ci-dessous me permet de toucher une commission. En plus d'être une rémunération supplémentaire (pour un service que vous allez utiliser), cela permet de « rassurer » la marque et de PROLONGER le partenariat.**
@@ -41,7 +41,7 @@ Il s'agit du partitionnement d'un serveur physique en plusieurs environnements i
 
 |OFFRE|DESCRIPTION|LIEN|
 |:--|:--|:--|
-|**Agent-IA**|Offre avec application d'automatisation IA (Hermes, n8n, OpenClaw, Paperclip), sans configuration, maintenance ni gestion de l'infrastructure|[**https://www.hostg.xyz/SHK41**](https://www.hostg.xyz/SHK41)|
+|**Agent IA**|Offre avec application d'automatisation IA (Hermes, n8n, OpenClaw, Paperclip), sans configuration, maintenance ni gestion de l'infrastructure|[**https://www.hostg.xyz/SHK41**](https://www.hostg.xyz/SHK41)|
 
 ---
 
