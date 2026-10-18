@@ -33,7 +33,7 @@ Il s'agit du partitionnement d'un serveur physique en plusieurs environnements i
 
 |OFFRE|DESCRIPTION|LIEN|
 |:--|:--|:--|
-[**Standard**|Offre générique, sans outils pré-installés|[**https://www.hostg.xyz/SHKEx**](https://www.hostg.xyz/SHKEx)|
+|**Standard**|Offre générique, sans outils pré-installés|[**https://www.hostg.xyz/SHKEx**](https://www.hostg.xyz/SHKEx)|
 |**Agent IA**|Offre avec application d'automatisation IA (Hermes, n8n, OpenClaw, Paperclip), sans configuration, maintenance ni gestion de l'infrastructure|[**https://www.hostg.xyz/SHK41**](https://www.hostg.xyz/SHK41)|
 |**Hermes Agent**|Offre avec agent Hermes déjà installé et prêt à l'emploi|[**https://www.hostg.xyz/SHJUW**](https://www.hostg.xyz/SHJUW)|
 |**N8N**|Offre avec n8n déjà installé et prêt à l'emploi|[**https://www.hostg.xyz/SHI1q**](https://www.hostg.xyz/SHI1q)|
