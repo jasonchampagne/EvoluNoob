@@ -5,13 +5,13 @@ Voici une liste de contenus (actuels et à venir) pour lesquels vous pouvez dema
 > [!Note]
 > Vous êtes libres également de faire des propositions pour des cours et tutos que je n'ai pas spécialement prévus de faire.
 
-+ 3D (_cours théorique qui vient avec toute prise en main d'un logiciel de modélisation_)
++ 3D
 + Anatomie
 + Angular
 + Architecture
 + Assembleur
 + Bootstrap
-+ Business (_créer une activité, avoir un statut pro, comment facturer, déclarer ses revenus, ..._)
++ Business
 + C++
 + C#
 + CakePHP
@@ -20,7 +20,7 @@ Voici une liste de contenus (actuels et à venir) pour lesquels vous pouvez dema
 + CSS
 + Cybersécurité
 + Dart
-+ Discord (_utilisation et administration_)
++ Discord
 + Django
 + Draw
 + Eclipse
@@ -36,7 +36,7 @@ Voici une liste de contenus (actuels et à venir) pour lesquels vous pouvez dema
 + Graphisme
 + Haskell
 + HTML
-+ HTTPd (_le serveur d'Apache_)
++ HTTPd (_serveur web_)
 + Impress
 + Java
 + JavaFX
@@ -71,12 +71,12 @@ Voici une liste de contenus (actuels et à venir) pour lesquels vous pouvez dema
 + SQLPage
 + Symfony
 + Tkinter
-+ Twitch (_utilisation et diffusion de contenus_)
++ Twitch
 + TypeScript
 + UML
 + V
 + VeraCrypt
-+ Vidéo (_cours théorique, à la manière du cours de Graphisme, avant d'aborder des logiciels de montage et effets spéciaux_)
++ Vidéo
 + Visual Studio
 + Vite
 + Vue
