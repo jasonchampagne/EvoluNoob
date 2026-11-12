@@ -8,7 +8,8 @@ Depuis quelques années, je suis partenaire avec [Hostinger](https://www.hosting
 > **Utiliser un des liens affiliés ci-dessous me permet de toucher une commission. En plus d'être une rémunération supplémentaire (pour un service que vous allez utiliser), cela permet de « rassurer » la marque et de PROLONGER le partenariat.**
 
 Avant de finaliser votre commande, utilisez le code promo pour profiter de 10 % de réduction supplémentaire :
-+ **FORMATIONVIDEO** (ou **EVOLUNOOB**)
+
++ **EVOLUNOOB** (ou **FORMATIONVIDEO**)
 
 ---
 
